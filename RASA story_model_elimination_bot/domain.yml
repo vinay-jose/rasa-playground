@@ -1,0 +1,35 @@
+version: "2.0"
+
+intents:
+  - greet
+  - deny
+
+slots:
+  answer:
+    type: text
+    influence_conversation: true
+
+  qn_id:
+    type: text
+    influence_conversation: false
+
+forms:
+  get_answer_form:
+    required_slots:
+      answer:
+        - from text:
+          type: from_text
+
+actions:
+  - action_chat_manager
+  - action_reset_all_slots
+  - validate_get_answer_form
+  - action_ask_answer
+
+responses:
+  utter_greet:
+  - text: "Hi there, I am Domie, a bot powered by Rasa.<br>I am here to ask a few questions to get to know you better.<br>Please answer the following questions."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

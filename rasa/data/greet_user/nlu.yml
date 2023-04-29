@@ -1,0 +1,348 @@
+version: "2.0"
+
+nlu:
+- intent: greet_user
+  examples: |
+    - /greet_user
+    - greet_user
+    - /greet_user
+    - greet_user
+
+- intent: get_email
+  examples: |
+    -   [johin@hyreo.com](email)
+    -   [johinshaju@gmail.com](email)
+    -   [arun@hyreo.com](email)
+    -   [mahesh@hyreo.com](email)
+    -   [arunsathyan@hyreo.com](email)
+    -   [harikrishnan@hyreo.com](email)
+    -   [sachin@hyreo.com](email)
+    -   [elenthendral@hyreo.com](email)
+    -   [greeshma@hyreo.com](email)
+    -   [sreenath@hyreo.com](email)
+    -   [sajith@hyreo.com](email)
+    -   [varun@hyreo.com](email)
+    -   [varun@gmail.com](email)
+    -   [arunkumar@gmail.com](email)
+    -   [arun@gmail.com](email)
+    -   [maheshkm@gmail.com](email)
+    -   [arunsathyan01@gmail.com](email)
+    -   [arunsathyan@gmail.com](email)
+    -   [harikrishnan777@gmail.com](email)
+    -   [harikrishnan@gmail.com](email)
+    -   [sachin@hyreo.com](email)
+    -   [elenthendral@gmail.com](email)
+    -   [greeshma@gmail.com](email)
+    -   [sreenath@gmail.com](email)
+    -   [james@outlook.com](email)
+    -   [jomonsaji@outlook.com](email)
+    -   [aryasharon@outlook.com](email)
+    -   [meenusojan@outlook.com](email)
+    -   [aparna3@outlook.com](email)
+    -   [amalshaji97@outlook.com](email)
+    -   [jackdaniels@outlook.com](email)
+    -   [chivasregal@outlook.com](email)
+    -   [christinaraj@outlook.com](email)
+    -   [evajohn@outlook.com](email)
+    -   [samueljohn@yahooo.com](email)
+    -   [arunsathyan01@yahooo.com](email)
+    -   [harikrishnan777@yahooo.com](email)
+    -   [arunsathyan@yahooo.com](email)
+    -   [elenthendral@yahooo.com](email)
+    -   [maheshkm@yahooo.com](email)
+    -   [johinshaju@yahooo.com](email)
+    -   [johnhonai@yahooo.com](email)
+    -   [arunkumar@yahooo.com](email)
+    -   [bharath.reddy.pgdm22@iilmgsm.ac.in](email)
+
+- intent: get_otp
+  examples: |
+    -   [12112](otp)
+    -   [12345](otp)
+    -   [23242](otp)
+    -   [81568](otp)
+    -   [91568](otp)
+    -   [70128](otp)
+    -   [85693](otp)
+    -   [83649](otp)
+    -   [81563](otp)
+    -   [91563](otp)
+    -   [89634](otp)
+    -   [91568](otp)
+    -   [92567](otp)
+    -   [91256](otp)
+    -   [91234](otp)
+    -   [81569](otp)
+    -   [81562](otp)
+    -   [89653](otp)
+    -   [91523](otp)
+    -   [91364](otp)
+    -   [65239](otp)
+    -   [91325](otp)
+    -   [81568](otp)
+    -   [81563](otp)
+    -   [32156](otp)
+    -   [12453](otp)
+    -   [89234](otp)
+
+- intent: affirm
+  examples: |
+    - yes
+    - of course
+    - sure
+    - yeah
+    - ok
+    - cool
+    - go for it
+    - yep
+    - yep, will do thank you
+    - I'm sure I will!
+    - oh awesome
+    - i accept
+    - ok i accept
+    - I changed my mind. I want to accept it
+    - ok cool
+    - alright
+    - i will!
+    - ok, I behave now
+    - yop
+    - oki doki
+    - yes please
+    - yes please!
+    - okey
+    - yep if i have to
+    - amazing
+    - confirm
+    - nice
+    - definitely yes without a doubt
+    - yas
+    - yup
+    - perfect
+    - sure thing
+    - absolutely
+    - Oh, ok
+    - Sure
+    - hm, i'd like that
+    - sure!
+    - yes i accept
+    - Sweet
+    - amazing!
+    - how nice!
+    - cool!
+    - yay
+    - yes accept please
+    - great
+    - oh cool
+    - fine
+    - yes please I can't come on the scheduled date
+    - Accept
+    - Awesome!
+    - Cool
+    - Good
+    - Great
+    - I accept.
+    - I agree
+    - I am using it
+    - I do
+    - I get it
+    - I guess so
+    - I have used it in the past
+    - I will
+    - I'd absolutely love that
+    - I'm using it
+    - Nice
+    - OK
+    - Ofcourse
+    - Oh yes
+    - Ok
+    - Ok let's start
+    - Ok.
+    - Okay
+    - Okay!
+    - PLEASE
+    - SURE
+    - That would be great
+    - YES
+    - YUP
+    - Yea
+    - Yeah
+    - Yeah sure
+    - Yep
+    - Yep that's fine
+    - Yep!
+    - Yepp
+    - Yes I do
+    - Yes please
+    - Yes please!
+    - Yes, I accept
+    - Yes.
+    - Yup
+    - a little
+    - accepted
+    - agreed
+    - ah ok
+    - alright, cool
+    - awesome
+    - awesome!
+    - cool :)
+    - cool story bro
+    - done
+    - fair enough
+    - fcourse
+    - fuck yeah!
+    - go
+    - go ahead
+    - going super well
+    - good
+    - good.
+    - great lets do that
+    - great!
+    - hell yeah
+    - hell yes
+    - i agree
+    - i am!
+    - i want that
+    - it is ok
+    - its okay
+    - ja
+    - ja cool
+    - ja thats great
+    - jezz
+    - jo
+    - k
+    - kk
+    - lets do it
+    - lets do this
+    - not bad
+    - of course i do
+    - ofcourse
+    - oh good !!
+    - oh super
+    - ok fine
+    - ok friend
+    - ok good
+    - ok great
+    - ok Hyreo
+    - ok, I understood
+    - ok, Hyreo
+    - ok...
+    - okay
+    - okay cool
+    - okay sure
+    - okay..
+    - okie
+    - ook
+    - oui
+    - please
+    - si
+    - sort of
+    - that is cool
+    - that ok
+    - that sounds fine
+    - that's great
+    - thats fine
+    - thats good
+    - thats great
+    - top
+    - uh-huh
+    - very much
+    - well yes
+    - y
+    - ya
+    - ya cool
+    - ya go for it
+    - ya i want
+    - ya please
+    - ya thats cool
+    - yaah
+    - yap
+    - yea
+    - yeah do that
+    - yeah sure
+    - yeah, why not
+    - yep i want that
+    - yep please
+    - yep that's nice
+    - yep thats cool
+    - yes ...
+    - yes I do
+    - yes baby
+    - yes cool
+    - yes give me information
+    - yes go ahead
+    - yes go for it
+    - yes great
+    - yes i agree
+    - yes i have built a bot before
+    - yes i have!
+    - yes it is
+    - yes it was okay
+    - yes of course
+    - yes please
+    - yes, I'd love to
+    - yes, cool
+    - yes, give me information, please
+    - yes
+    - you asked me a yes or no question, which i answered with yes
+    - you got me, I accept, if you want me to
+    - Yes I have
+    - thank you ok
+    - thank you
+    - ok got it
+    - Ok thanks
+    - I am Good  and excited to Join Cognizant Family at the earliest.
+    - ok thanks
+    - OK thanks
+    - ok thanks
+    - Ok Thanks
+    - I am happy with the overall recruitment process and don't have any specific question or query.
+    - Ok thanks
+    - Thanks for the information
+    - Thank you for the Update
+    - Ok thanks
+    - I will get in touch. Thank you. I am excited to jojn Cognizant
+    - tq
+    - Ok thanks
+    - Ok thanks
+    - okay fine thank you for giving ansers and i will join on 29th septumber
+    - Thank you so much ! Have a great day
+    - Thank you so much and please resend the same
+    - Ok thanks
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: out_of_scope
+  examples: |
+    - are you horny?
+    - why are you angry?
+    - you are really dumb
+    - I want coffee
+    - why so serious?
+    - Hi this is Benz franco how can I help you?
+    - are you turned on?
+    - How can I turn you on?
+    - why don't you understand?
+    - ????
+    - gasdiugiksdvhkzk
+    - hmmmmmmmmmmmmmmmmmmmmmmm
+    - fasf fasdf
+    - fasdf fsadffvfas
+    - clear my records
+    - fjgshfdhaoip jjdjso
+    - asfdf
+    - dsaebgerbh
+    - fgdfsfjk jdjs
+    - clearr
+
+- intent: delay
+  examples: |
+    - /delay
+    - delay

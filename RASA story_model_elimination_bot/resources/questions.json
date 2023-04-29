@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "text": "Did you receive an offer letter?",
+    "buttons": [
+      {"title": "Yes", "payload": "Yes"},
+      {"title": "No", "payload": "No"}
+    ]
+  },
+  {
+    "id": "2",
+    "text": "How was your overall experience with us?"
+  },
+  {
+    "id": "3",
+    "text": "Mountains or Beaches?"
+  }
+]

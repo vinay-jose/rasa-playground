@@ -1,0 +1,96 @@
+version: "2.0"
+
+intents:
+  - greet_user
+  - get_email
+  - get_otp
+  - bot_closed
+  - affirm
+  - deny
+  - out_of_scope
+  - delay
+
+entities:
+  - email
+  - otp
+
+slots:
+  company_title:
+    type: text
+  bot_name:
+    type: text
+  otp:
+    type: text
+    influence_conversation: true
+  email:
+    type: text
+    influence_conversation: true
+  requested_slot:
+    type: unfeaturized
+    influence_conversation: false
+
+actions:
+  - action_master
+  - validate_email_otp_form
+
+forms:
+  email_otp_form:
+    email:
+      - from text:
+        type: from_text
+    otp:
+      - entity: otp
+        type: from_entity
+
+responses:
+  utter_welcome:
+  - text: "Welcome to {company_title}. I am {bot_name}, your companion to help you with your recruitment process."
+
+  utter_warning_1:
+  - text: "Please note that email/phone number and any other personal information collected by {bot_name} will be used only for recruitment purposes with {company_title} and will be kept confidential."
+
+  utter_warning_2:
+    - text: "We do need your consent prior to sharing details via email & SMS (OTPs or job applications related info). This is done for security reasons and to protect privacy of individuals."
+
+  utter_email_request:
+    - text: "May I please have your email so I can look your records with us?"
+
+#  utter_info_preference_request:
+#    - text: "Please select your preference to receive information"
+#      buttons:
+#      - title: "Send OTP and nudges via email and SMS"
+#        payload: "/send_info_via_email_and_sms"
+#      - title: "Send OTP and nudges only via email"
+#        payload: "/send_info_via_email"
+#      - title: "Do not contact me"
+#        payload: "/do_not_send_info"
+
+  utter_details:
+  - text: "Mention candidate's current status here."
+
+  utter_ask_otp:
+  - text: "Please enter the 5-digit otp shared with you on your mobile/email."
+
+  utter_ask_email:
+  - text: "Please enter the e-mail id you have shared in our records."
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_restart:
+    - buttons:
+        - payload: /main_menu
+          title: Main menu
+        - payload: /i_have_a_question
+          title: I have a question
+      text: "Sorry I was unable to understand your query. Someone will get back to you on this shortly on this."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

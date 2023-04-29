@@ -1,0 +1,32 @@
+version: "2.0"
+
+stories:
+
+- story: Greet_Story
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - action: utter_answer_question
+    - action: action_chat_manager
+
+- story: Offer Letter Confirmation Story
+  steps:
+    - action: utter_ask_offer_letter_confirmation
+    - action: get_answer_form
+    - action: action_reset_all_slots
+    - action: action_chat_manager
+
+- story: Experience Feedback Story
+  steps:
+    - action: utter_ask_experience_feedback
+    - action: get_answer_form
+    - action: action_reset_all_slots
+    - action: action_chat_manager
+
+- story: Mountain/Beach Story
+  steps:
+    - action: utter_ask_mountains_or_beaches
+    - action: get_answer_form
+    - action: action_reset_all_slots
+    - action: action_chat_manager
+

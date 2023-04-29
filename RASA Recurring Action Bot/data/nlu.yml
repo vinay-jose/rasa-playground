@@ -1,0 +1,7 @@
+version: "2.0"
+
+nlu:
+- intent: greet_user
+  examples: |
+    - greet_user
+    - /greet_user

@@ -1,0 +1,55 @@
+version: "2.0"
+
+nlu:
+- intent: ask_whatisHyreo
+  examples: |
+    - How does Hyreo work?
+    - Can you tell me more about Hyreo?
+    - What does Hyreo build?
+    - What do you do at Hyreo?
+    - What is Hyreo?
+    - What does Hyreo make?
+    - Can you tell me what Hyreo does?
+    - Give me more information about Hyreo
+    - what does Hyreo do
+    - so what can you help me with?
+    - what are you good at?
+    - Can you brief me about Hyreo
+    - I want to know what Hyreo actually does that isn't clear to me yet
+    - I want to learn what Hyreo is
+    - I would like to know about Hyreo
+    - Hyreo?
+    - What Is Hyreo?
+    - What can Hyreo do?
+    - What components does Hyreo have?
+    - What do you do as a company?
+    - What does Hyreo do exactly?
+    - What exactly is Hyreo?
+    - What is Hyreo doing exactly?
+    - What is the Hyreo ?
+    - can you explain Hyreo?
+    - can you pls explain what Hyreo does
+    - could you tell me more about Hyreo
+    - explain me what Hyreo does
+    - how does Hyreo work?
+    - how Hyreo works?
+    - i dont get what Hyreo is
+    - i havent understood yet what Hyreo actually is
+    - i want to know about Hyreo
+    - i want to learn something about Hyreo
+    - tell me about Hyreo
+    - what are the components of Hyreo
+    - what can I do with Hyreo?
+    - what can i build with Hyreo?
+    - what do you guys do at Hyreo
+    - what does Hyreo do ?
+    - what does Hyreo mean
+    - what is Hyreo
+    - what is in Hyreo
+    - what is Hyreo actually
+    - yeah go on explaining what Hyreo is
+
+- intent: save_chat
+  examples: |
+    - save_chat
+    - /save_chat

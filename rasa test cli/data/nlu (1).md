@@ -1,0 +1,5264 @@
+## intent:affirm
+- yes
+- of course
+- sure
+- yeah
+- ok
+- cool
+- go for it
+- yep
+- yep, will do thank you
+- I'm sure I will!
+- oh awesome!
+- Yes
+- accept
+- I accept
+- i accept
+- ok i accept
+- I changed my mind. I want to accept it
+- ok cool
+- alright
+- i will!
+- ok, I behave now
+- yop
+- oki doki
+- yes please
+- yes please!
+- okey
+- yep if i have to
+- amazing
+- confirm
+- nice
+- definitely yes without a doubt
+- yas
+- ys
+- Ya I got offer letter
+- I love hcl joining process
+- I already received offer letter
+- Okay thanks, I am waiting your response.
+- i have offer letter already
+- thank you as soon possible and priority wise do needful
+- yup
+- perfect
+- sure thing
+- absolutely
+- Oh, ok
+- Sure
+- hm, i'd like that
+- sure!
+- yes i accept
+- Sweet
+- amazing!
+- how nice!
+- cool!
+- yay
+- yes accept please
+- great
+- oh cool
+- fine
+- Accept
+- Awesome!
+- Cool
+- Good
+- good to
+- Great
+- I accept.
+- I agree
+- I am using it
+- I do
+- I get it
+- I guess so
+- I have used it in the past
+- I will
+- I'd absolutely love that
+- I'm using it
+- Nice
+- OK
+- Ofcourse
+- Oh yes
+- Ok
+- Ok let's start
+- Ok.
+- Okay
+- Okay!
+- PLEASE
+- leve it
+- leave it
+- SURE
+- That would be great
+- YES
+- YUP
+- Yea
+- Yeah
+- Yeah sure
+- Yep
+- Yep that's fine
+- Yep!
+- Yepp
+- Yes I do
+- Yes please
+- Yes please!
+- Yes, I accept
+- Yes.
+- Yup
+- a little
+- accepted
+- agreed
+- ah ok
+- alright, cool
+- awesome
+- awesome!
+- cool :)
+- cool story bro
+- done
+- fair enough
+- fcourse
+- fuck yeah!
+- go
+- go ahead
+- going super well
+- good
+- good.
+- great lets do that
+- great!
+- hell yeah
+- hell yes
+- i agree
+- i am!
+- i want that
+- it is ok
+- its okay
+- ja
+- ja cool
+- ja thats great
+- jezz
+- jo
+- k
+- kk
+- lets do it
+- lets do this
+- not bad
+- of course i do
+- ofcourse
+- oh good !!
+- oh super
+- ok fine
+- ok friend
+- ok good
+- ok great
+- ok Hyreo
+- ok, I understood
+- ok, Hyreo
+- ok...
+- okay
+- okay cool
+- okay sure
+- okay..
+- okie
+- ook
+- oui
+- please
+- si
+- sort of
+- that is cool
+- that ok
+- that sounds fine
+- that's great
+- thats fine
+- thats good
+- thats great
+- top
+- uh-huh
+- very much
+- well yes
+- y
+- ya
+- ya cool
+- ya go for it
+- ya i want
+- ya please
+- ya thats cool
+- yaah
+- yap
+- yaps
+- ye
+- ye splease
+- yea
+- yeah do that
+- yeah sure
+- yeah'=
+- yeah, why not
+- yeeeeezzzzz
+- yeeees
+- yep i want that
+- yep please
+- yep that's nice
+- yep thats cool
+- yep. :/
+- yes ...
+- yes I do
+- yes baby
+- yes cool
+- yes give me information
+- yes go ahead
+- yes go for it
+- yes great
+- yes i agree
+- yes i have built a bot before
+- yes i have!
+- yes it is
+- yes it was okay
+- yes of course
+- yes pleae
+- yes pls
+- yes sirfr
+- yes that's great
+- yes that's what i want
+- yes you can
+- yes'
+- yes, I'd love to
+- yes, cool
+- yes, give me information, please
+- yes,i am
+- yes.
+- yez
+- you asked me a yes or no question, which i answered with yes
+- you got me, I accept, if you want me to
+- Yes I have
+- yes I want
+- YEs
+- Ok thank you
+- thank you ok
+- ok thanks
+- thanks ok
+- thank you
+- got it
+- ok got it
+- Ok thanks
+- I am Good  and excited to Join HCL Family at the earliest.
+- OK thanks
+- Ok Thanks
+- I am happy with the overall recruitment process and don't have any specific question or query.
+- Thanks for the information
+- Thank you for the Update
+- I will get in touch. Thank you. I am excited to jojn HCL
+- tq
+- okay fine thank you for giving ansers and i will join on 29th septumber
+- i will join on 29 septmber thank you
+- Thank you so much ! Have a great day
+- Thank you so much and please resend the same
+- Thanks.. hope my recruiter will contact soon..
+- I had received my revised offer letter and offer breakup yesterday evening , 15 sep 2021.
+- good to close
+- please do ASAP
+- please do this as soon as possible
+- do this at the earliest
+- Ok thanks again
+- i accepted the offer letter
+- I think that would be all
+- Thank you. Thats all
+- Thank you
+- thank you. thats all for now
+- test
+- Please close the all open tickets about bgv.the problem resolved few days back
+- Ok
+- Please close all the open tickets about my bgv"
+- tanQ I got offer and break up details
+- Documents are already uploaded
+- Everything is good
+- That's all I need.
+- That will be helpful
+- i have drop the mail to my requiter sub: resignation accepted mail
+- Thank you so much for your support
+
+
+
+
+## intent:ask_howdoing
+- Ahoy matey how are you?
+- Are you ok?
+- Do you feel good?
+- Do you have a great day?
+- HI Hyreo, what are you up to?
+- Hi Hyreo! How are you?
+- How are You?
+- How are things?
+- How are you
+- How are you men?
+- How are you today?
+- How are you?
+- How was your day?
+- How you doing?
+- How's it going
+- How's it hanging?
+- How's life treating you friend?
+- How have you been?
+- Hows it going
+- I'm fine and you
+- Is everything ok?
+- What's going on?
+- What's new?
+- What's up
+- What's up man
+- and you
+- are you alright
+- are you happy
+- are you having a good day
+- are you ok
+- are you okay
+- h r u ?
+- hello, how are you?
+- hey how are you?
+- hi how are you?
+- hi how u doing
+- hi Hyreo, how are you?
+- how ?
+- how are things going
+- how are things with you?
+- how are u
+- how are u?
+- how are xou
+- how are you
+- how are you ?
+- how are you doing
+- how are you doing this morning
+- how are you doing today my sweet friend
+- how are you doing today?
+- how are you doing?
+- how are you feeling
+- how are you today
+- how are you'
+- how are you?
+- how are you????
+- how are yuo
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- how r u
+- how r u ?
+- how r u>
+- how you doing
+- how you doing?
+- how's it going?
+- how's life
+- how's life been treating you?
+- how's your day going
+- howareyou
+- hw r u?
+- is everything all right
+- is everything okay
+- nah, I'm good - how are you doing?
+- okay hi how are you?
+- wassup>
+- what about your day
+- what are you up to?
+- what's good
+- what's up
+- what's up Hyreo
+- what's up?
+- whatchcha doing
+- whatchya upto ?
+- whats goin on
+- whats new
+- whatsapp
+- yow are you
+- hi how are you
+
+## intent:ask_isbot
+- Ar you a bot ?
+- Are you a bot
+- Are you a chat bot?
+- Are you the bot?
+- Hi there, are you the bot?
+- So I'm here Today to ask one very simple question, what are you ?
+- are you a BOT
+- are you a Skynet ?
+- are you a bot
+- are you a bot ?
+- are you a bot?
+- are you a chatbot
+- are you a rasa bot?
+- are you a real bot?
+- are you a robot
+- are you ai
+- are you artificial
+- are you artificial intelligence
+- are you bot
+- are you bot?
+- are you human?
+- are you rasa bot?
+- are you real
+- are you real lol
+- are you really a bot
+- are you robot
+- are you sure that you're a bot?
+- bot?
+- cuz you are a bot
+- i guess you are a chatbot
+- oh are you chatbot?
+- tell me, are you a bot?
+- what are you, a bot?
+- you are a robot
+- you are ai
+- you are chatbot
+- you're a bot
+
+## intent:ask_whatisHyreo
+- Are you from HCL Technologies?
+- How does Hyreo work?
+- Can you tell me more about Hyreo?
+- What does Hyreo build?
+- What do you do at Hyreo?
+- What is Hyreo?
+- What does Hyreo make?
+- Can you tell me what Hyreo does?
+- Give me more information about Hyreo
+- what does Hyreo do?
+- I want to learn what Hyreo does
+- help
+- help please
+- i don't know what i want
+- I need some help
+- show me the menu
+- show me what's possible
+- so what can you do
+- so what can you help me with?
+- what are you good at?
+- what can I do here
+- what can I do with this bot
+- what is this bot for
+- cool! can I do something else here?
+- who are you?
+- who you?
+- you?
+- yo are?
+- and you?
+- Can you brief me about Hyreo
+- Could you tell me more about Hyreo?
+- I want to know about rsa
+- I want to know what Hyreo actually does that isn't clear to me yet
+- I want to learn what Hyreo is
+- I would like to know about Hyreo
+- I would like to know more about your product
+- OK can u brief me Abt Hyreo
+- Hyreo?
+- Hyreo Is?
+- WHAT IS IT
+- WHAT IS Hyreo
+- What Is Hyreo?
+- What can Hyreo do?
+- What components does Hyreo have?
+- What do you do as a company?
+- What does Hyreo do?
+- What does Hyreo do exactly?
+- What exactly is Hyreo?
+- What is Hyreo doing exactly?
+- What is the Hyreo ?
+- What's Hyreo?
+- can you explain Hyreo?
+- can you pls explain what Hyreo does
+- could you tell me more about Hyreo
+- explain me what Hyreo does
+- explain me what Hyreo is
+- how does Hyreo work?
+- how does Hyreo work
+- how Hyreo works ?
+- how works Hyreo
+- i dont get what Hyreo is
+- i havent understood yet what Hyreo actually is
+- i want to about Hyreo
+- i want to know about Hyreo
+- i want to know what Hyreo does
+- i want to learn something about Hyreo
+- so how does it all work?
+- sorry tell me about Hyreo
+- tell me about Hyreo
+- tell me bout Hyreo
+- tell me more about Hyreo
+- what are the components of Hyreo
+- what can I do with Hyreo?
+- what can i build with Hyreo?
+- what can i do with Hyreo
+- what do you guys do at Hyreo
+- what does Hyreo do
+- what does Hyreo do ?
+- what does Hyreo mean
+- what is Hyreo
+- what is in Hyreo
+- what is it for?
+- what is Hyreo actually
+- what is Hyreo?
+- whats Hyreo
+- yeah go on explaining what Hyreo is
+- what is hyreo?
+- Am i talking to a chat bot or is it someone providing support?
+
+
+## intent:dress_code
+- Is there any specific dress code at office
+- Dress code
+- Should I wear only formal dress
+- Are casuals allowed
+- Is Jeans allowed
+- Is there a separate day when I can wear casuals
+- Is it okay if I wear formals a little while after joining
+- Are formals mandatory
+- Any dress codes to follow
+- Are flip flops allowed
+- Can I wear t shirts to office
+- Can I come in casuals
+- Are casuals okay
+- Can I wear anything I want
+- Should I wear a tie to office
+- Is beard fine
+- Dress code policy
+- Dress details
+- What happens if I dint follow dress code
+- Can I wear casuals on Fridays
+- what are the dress code there???
+- any dress code?
+- Do you have an official dress code
+- Do I have to wear formals to work?
+- what are company prescribed attire for the office
+- dress code
+
+## intent:goodbye
+- no
+- definitely not
+- never
+- absolutely not
+- i don't think so
+- i'm afraid not
+- no sir
+- no ma'am
+- no way
+- no sorry
+- No, not really.
+- nah not for me
+- nah
+- no and no again
+- no go
+- no thanks
+- decline
+- deny
+- i decline
+- never mind
+- nevermind
+- Menu please
+- Mainmenu
+- Back
+- I'm not giving you my email address
+- no I haven't decided yet if I want to sign up
+- I don't want to give it to you
+- I'm not going to give it to you
+- Nothing else as of now..
+- I am done with all my responses
+- Can I close the conversation
+- I do not have any queries
+- exit
+- Please do not pass any queries to recruitment team
+- no i don't accept
+- no!!!!
+- no you did it wrong
+- no i can't
+- i'm not sure
+- NEIN
+- nein
+- not really
+- i guess it means - no
+- i don't want to
+- i don't want either of those
+- nah thanks
+- neither of these
+- bye
+- goodbye
+- see you around
+- see you later
+- good bye
+- ok good bye
+- ok bye
+- .Good bye
+- nothing else
+- nothing else good bye
+- No nothing more thank you
+- thank you.nothing else.Good day
+- nothing else.Good bye
+- goodnight
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+- tschüssikowski
+- No it's ok
+- for your help
+- No I don't need
+- okay see you later
+- hope to see you later
+- till next time
+- I must go
+- see you
+- see you soon
+- bye-bye
+- bye bye good night
+- bye bye see you
+- bye bye see you soon
+- bye bye take care
+- I said bye
+- never mind bye
+- now bye
+- that's all goodbye
+- that's it goodbye
+- leave me alone
+- go to bed
+- goodbye for now
+- talk to you later
+- you can go now
+- get lost
+- goodbye see you later
+- alright bye
+- thanks bye bye
+- okay bye
+- okay thank you bye
+- Okay thank you!
+- see you tomorrow
+- c u
+- No
+- no thats it
+- thats it
+- that's it
+- thats all
+- that is it
+- nothing
+- no more questions
+- I have no further questions.
+- I don't want
+- Sure I'll contact later
+- No help is required now
+- I am done.how to close this hyreo chat?
+- HOW TO GHO BACK TO MAIN MENU
+- Sorry, please close this chat .... My question already asked
+- MAIN MENU
+- how to go back to main menu
+- Nothing we can drop
+- We can quit our chat
+- How to close the Hyreo ?
+- Nothings Tq for the support
+- That will be all as of now
+- May I exit?
+- Thanks no further assistance required.
+
+
+
+
+
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- Hello Hyreo
+- long time no see
+- howdy
+- greetings
+- I greet you
+- hi there
+- hello there
+- lovely day isn't it
+- hello again
+- just going to say hi
+- a good day
+- afternoon
+- hello hi
+- heya
+- Hello
+- hey man
+- hey buddy
+- oka
+- yo man
+- hola
+- Are we still connected??
+- Hi Team
+
+## intent:documents_to_submit
+- What documents do I need to submit before joining?
+- Do I need to bring extra copies of documents?
+- Do I need to bring in my passport?
+- I yet to submit the onboarding details
+- Do I need to submit the original documents?
+- i want to upload my resignation acceptance letter
+- Is there any chance to upload onboarding documents on onboard portal
+- i need access for onboard site to upload the onboarding documents
+- Please share the link for uploading
+- Can I submit my certificate after joining as I am yet to receive it.
+- What are the documents I need to submit before joining ?
+- How many copies of documents do I need to carry on the date of joining?
+- What are the certificates to be carried on the date of joining?
+- Should I surrender my passport as well?
+- is there a checklist of documents i should bring with me
+- what are the documents i should bring on the joining date
+- what documents should i bring
+- what certificates would be required?
+- can you tell me what documents to bring with me
+- where can i see a list of documents to carry with me?
+- check of docs required?
+- whats docs are required?
+- what docs to bring on the joining date
+- tell me the list of dcos to bring
+- how to find the list of docs to bring for the date of joining
+- i want to know what to bring on the joining date
+- i need to know the list of docs to carry for date of joining
+- please tell me what docs to bring on the first day
+- what documents am i supposed to carry
+- what documents am i expected to carry on the starting day
+- tell me what copies to carry
+- how many copies of docs should i bring on my joining date?
+- what copies of certificates should i bring on my joining date?
+- docs required?
+- what documents may be required?
+- what paperwork to be done?
+- what is the paper work for the first day?
+- should i bring original certificates?
+- will original certificates be returned?
+- should i surrender my original certificates to the company?
+- are original documents mandatory on date of joining?
+- should i carry original documents?
+- what are the documents i must carry on my joining date
+- can you tell me the docs i should carry?
+- can you give me a list of docs i need to carry
+- give me a list of certificates needed
+- tell me the documents i need to bring with me
+- what certificates am i supposed to carry?
+- what certificates am i expected to carry ith me?
+- what are the documents to be submitted
+- what are the things that I should bring on the joining date
+- What documents do I need to take with me
+- What docs do I need to submit
+- Should I take my original documents or copies
+- Which documents are needed to be submitted
+- By when should I submit the documents
+- any documents required my side for onboarding
+- Documents upload portal
+- Any pending documents that i need to upload ?
+- Do i need to submit any documents .
+- where i need to upload document , can someone help me on this
+- Where do I need to fill out the joining form ?
+- I need to upload my updated offer letter and breakup letter how can i do that
+- where shall I upload my increment letter
+- need to upload the last working day
+- how can I share screenshot of my last working day?
+- where should i upload my CV
+- joining form submission
+- where will find Joining Form Submission
+- Joining Form Submission
+- when i have t upload on barding documents after bgv?
+- Need help with iOnboard
+- As per your company policy i have to upload my documents within 48 hours so please le3t me know asap
+- Require help to fill form 11 on ionboard portal
+- what document i need to carry for time of joining
+- required documents I need to carry on the first day of joining?
+- what are the documents to be carried while coming to the office
+
+
+
+## intent:bank_account_details_for_salary
+- is there any portal where i can update my bank and other details
+- Do I need to open a salary account with a specific bank?
+- Do you have tie ups with a particular bank for salary credit?
+- Can I convert my existing savings bank account to a salary account?
+- Can I add my spouse as a join holder to the salary account?
+- where should I open account for my salary
+- I already do my transactions with HDFC. Do i need to change that?
+- Is there any specific bank from where I should open my salary account?
+- From where should I open my salary account
+- How to open salary account
+- What are the mandatory details needed to open salary account
+- I don’t have a bank account. How will i get my salary?
+- Should i open a different salary account before joining?
+- Is there a specific bank where i should open my bank account?
+- Can i open my salary account in any bank?
+- How to open a salary account?
+- Can i use my existing account as my salary account?
+- What documents are needed to open my salary account?
+- How will i get my payment?
+- Can i get the monthly payment in my current account?
+- I don’t have a bank account. How will i get my pay?
+- Should i open a different account before joining to get my payment?
+- Tell me the bank where i should open my bank account
+- Can I open my payment account in any bank?
+- Can I use my existing account to receive payment?
+- I don’t have a PAN card. How will get my salary?
+- what are the details needed to start a salary account
+- should i have salary account
+
+## intent:probation_period
+- What is probation period?
+- What happens during the probationary period?
+- How long is the probationary period?
+- What should I do during the probation period?
+- Is the probation period for more than 1 year?
+- How will I know about probation?
+- Can I choose not to be in probation?
+- How do I get out of probation?
+- Will I lose job  if put into probation?
+- Why will I get a probation?
+- What is the probation period duration?
+- Why do you have probationary period?
+- Can i take transfer during probation?
+- How long is the probation period
+- What is probation period
+- What am I supposed to do during probation period -
+- What are the rules that I should follow during probation
+- What is the probation period duration
+- How long will the probation period be?
+- Can I take leave during probation period?
+- What will be my compensation during the probation period?
+- what is the probation period?
+- what is the duration of probation period?
+- how long is the probation?
+- what's the duration of probation?
+- probation will be how long?
+- how many months is the probation?
+- will i be paid during probation?
+- will i draw a salary while on probation?
+- is there a stipend during probation period?
+- what about payment during probation?
+- what about salary during probation?
+- can you tell me if i will get a salary while on probation?
+- what about leave availability during probation
+- can i take leave during probation?
+- do i have leave options during probation period?
+- can i avail leave during probation?
+- do i have sick leave during probation?
+- benefits during probation period?
+- what are the benefits available during probation?
+- am i entitled to leave during probation?
+- how many leaves can i avail while on probation?
+- am i allowed any leave on probation?
+- when will probation finish?
+- when will the probation period finish?
+- what will be the duration of the probation?
+- what about probation?
+- probation?
+- can you tell me about probation?
+- where can i know about probation?
+- what can you tell me about probation?
+- i want to know about probation period
+- i want to understand probation terms
+- i wish to know more about probation clauses
+- what is the probation period for this job?
+- Details on the probation period and is there any chance of getting a different work location
+- As per offer letter, probation period is showing 12 months where it should be 6 months only
+- Training period
+
+
+## intent:work_hours
+- can you explain to me a typical day
+- how long is a typical day
+- What does a typical day look like?
+- Is it a 5 day work- week?
+- Are all saturdays off?
+- Do you offer flexi work hours?
+- Can I clock in early and leave early?
+- what are my working hours?
+- if I want to leave early after work is that possible for me
+- I want to know about a typical day in the company?
+- What will be my work hours?
+- Are work hours fixed here?
+- Are work hours flexible?
+- Need work hours details
+- Want to know about working hours
+- can i know the flexible working policy
+- Pls share details about the work hours
+- What is the typical workhours
+- what are the working hours?
+- What are the working hours?
+- How many hours do I have to work in a day at office?
+- What are the office hours?
+- Tell me the office hours?
+- Give me the working time details?
+- Are office hours flexible?
+- When do I have to reach office?
+- What is the office starting time?
+- By what time should I reach office?
+- When do I have to come to office?
+- Is it ok to reach at 10?
+- What happens if I reach before the time?
+- Will my work hours get noted?
+- Is the typical working hours, 9 hours?
+- Will I have to work more than 9 hours?
+- What happens if I work less than 9 hours?
+- When can I leave office?
+- Can I leave by 6?
+- Will I have to stay back after 6?
+- By what time can I leave?
+- Is it okay to leave early?
+- What should I do if I have to leave early?
+- What if I am late to office?
+- What time is best suited to come to office if I want to work on weekends?
+- What are the office hours when I have to work on Saturday and Sunday?
+- Is it ok to change the work hours?
+- What to do to change my work hours?
+- Whom should I contact to alter the work hours?
+- How does altering the office hours work?
+- I want to know about a routine day of the company
+- Also the timings of my project please as far as i remember the timings is not proper
+- Also wanted to confirm the timings of my project
+- What about week offs?
+
+## intent:transport
+- Will the company provide commutation?
+- Is there a cab facility/ shuttle service from office to the city?
+- Can I avail travel allowance?
+- I don't own a vehicle. What should I do?
+- I dont own any vehicle. how can i reach there
+- is there a cab facility
+- how to reach the office
+- what is the transportation facility
+- what are the transportation faclities
+- transportation facility
+- HCL Cab Policy
+- Cab facility
+- what if my home is away like more than 35 KMs?
+- is there conveyance arranged
+- how I can commute to office
+- Are there cab services
+- Is cab service available
+- How do I reach the office
+- Is there transportation facilities available
+- Is there any travel allowance
+- Commutation facilities to office
+- Does the company provide cab services?
+- What are the cab timings?
+- Do i have to pre-book cab?
+- Is the commute to work easily possible?
+- Will there be cab from office to stay in the evening?
+- Do i have to book cab separately for morning and evening?
+- Can i book cab for more than one person?
+- Can i take my friend from other company in the company cab?
+- Will the company cab drop me till my stay?
+- How can i  reach the office?
+- Office reachability?
+- Transport facilities to the office?
+- Are there multiple ways to come to office?
+- do i get cab on my joining date
+- car lease scheme
+- Home is 38 kms can I get transport
+- My home is 38 kilometres from office location
+- My home is 38 kms from office can I get transport?
+- Car lease policy
+- Transport contact number
+- confirm that I will get a Cab facility from Gurugram to Noida HCL Office.
+- Could you please confirm that the below location comes under HCL Cab Policy? Thanks!!!
+- On date of joining cab facilities is available
+
+
+## intent:canteen
+- Is there a canteen facility?
+- Should I bring lunch from home?
+- Are there any vegetarian options available in the canteen?
+- Is there a kitchenette on the premises?
+- Do you have a cafeteria?
+- is there provision for food?
+- and what are the facilities for dining in the office
+- Will food be provided from office?
+- Is there an office pantry?
+- Do i need to go out from office for food?
+- Are there continental food items available?
+- Does the canteen give north Indian food items?
+- Are the food items costly in the food court?
+- Will I get breakfast from the cafeteria?
+- Can I have dinner from the cafeteria?
+- Is it possible to get breakfast and dinner from the cafeteria?
+- Are the food items in the food court affordable?
+- Can i get the price details of food menu there?
+- Will I get milk in the office pantry?
+- Is there a cafeteria available in the office building?
+- Is there any canteen available?
+- Food court is available?
+- Do I need to bring lunch?
+- Will there be facilities available in the office to eat food brought from home?
+- Do you have dining facilities in the office premises?
+- canteen
+- canteen?
+- what about canteen facility?
+- canteen facility
+- what about canteen?
+
+## intent:accommodation
+- do you provide accommodation for out station candidates
+- Do you provide accommodation?
+- I want to know about my status of accomodation
+- Can i get a accommodation on joining date
+- Do you provide an allowance for lodging?
+- I'm new to the city. Will you provide accommodation until I find a place of my own?
+- Do you have your own guesthouse / hostel?
+- will i be given accommodation?
+- I need guest house in Pune
+- 10-15 days accommodation required from HCL while I relocate to Noida.
+- need accommodation for a few days
+- i would be travelling from Lucknow to Noida. So, can you please help me with accomodation detail.
+- can i request for accommodation?
+- is there any provision for accommodation?
+- will the company arrange for accommodation?
+- can i find accommodation for the first 2 weeks?
+- can i seek temporary accommodation?
+- how long can i request for accommodation?
+- i may need accommodation for a short while
+- i need accommodation for 2 weeks
+- i may need accommodation for a few days
+- can i request accommodation facility
+- does company offer any accommodation facility?
+- what about accommodation?
+- accommodation facility?
+- accommodation during probation?
+- accommodation for initial days?
+- where can i stay for the first few days?
+- i might require accommodation for the first two weeks
+- i may require lodging facility
+- does the company offer lodging
+- what about lodging for first few days?
+- how about lodging facility?
+- can i stay in a company guest house till i find a place?
+- does company offer guest house facility?
+- what is the provision for lodging till i find a place?
+- does company help in finding an apartment?
+- how to request for lodging?
+- how can i request for accommodation facility?
+- how to request for accommodation facility?
+- what about accommodation facility?
+- where can i put up until i find a find a place of my own?
+- do you offer lodging facility?
+- do you offer guesthouse accommodation?
+- do you offer accommodation facility?
+- do you take requests for accommodation?
+- will the company consider requests for lodging?
+- do you accept requests for lodging?
+- do you assist in finding an apartment?
+- how to ask for accommodation?
+- I'm not able to find a stay in the city can you help me?
+- Is the company provides any accommodation
+- where can I stay in the city until I find one
+- Will I get a stay near the office?
+- Will the company provide accommodation
+- Do I need to find an accommodation
+- Do you provide allowance for accommodation
+- How can I find an accommodation
+- How will be my stay arranged
+- Will the company arrange a stay for me
+- how long will the company provide accommodation?
+- Will i have to pay for the accommodation given by the company?
+- Will there be a pay cut from my salary for giving me accommodation?
+- I wont be able to afford my initial accommodation expenses. Will the company help?
+- Unable to find stay near office. What should i do?
+- I'm from a new state. How to find a stay?
+- Need accommodation assistance
+- Can i get a flat
+- Are there PG stays availalbe?
+- Are there affordable apartments nearby?
+- How to find accommodation?
+- Can i ask for company help to get stay?
+- Does the company follow any policy regarding accommodation for new employees?
+- i need a place to live there. will you arrange?
+- where can i live
+- i need a place to live there. will you arrange?You .
+- can i get more details on the stay?
+- Hi team,Based on our previous discussion our company will provide 15 days accommodation How to take accomodation .
+- Ok...please, help me with my accommodation request...
+- Did HCLis provoding any accomdation facilities for the employees?
+- Wanted to know that how to take the accommodation as i am travelling from Mumbai on Friday 2 Sep.
+- In the offer letter, it was mentioned that I can get 15 days free accomodation in office guest house and relocation shifting charges as well. I want to know how to apply for both of these?
+- I need Acomadation but till now I did not receive any confirmation from your end
+- Need accoma
+- As mentioned in offer letter, we can get guest house for 15 days. How can I ge
+- Please provide me names and addresses of that guest house
+- Please provide me names and addresses of that guest House in banglore
+- Please provide me names of that guest house and addresses in banglore location
+- Need support for guest house and contact point on joining date
+- Actually now I am in gorakhpur and my joining location is Noida so I need accommodation
+- I want guest house in banglore location from 16-21 December
+
+
+## intent:child_care
+- Can I bring my child to work?
+- Is there a child care facility near by?
+- I am single mother and I can't keep my daughter alone at my house?What should I do?
+- do you have any child care policy
+- Are children allowed in the office premises?
+- Can i take my child to office when needed?
+- Are there childcare facilities available ?
+- Is there any provision for childcare?
+- Will there be any problem in bringing children to the office space?
+- I need crèche facilities. What should I do?
+- Are there any child care facilities?
+- I have two children, can I bring them to the office?
+- I am a single parent. Can I take my child to the office?
+- What childcare facilities are provided?
+- What should i do to get the childcare facilities?
+- Do i have to pay to get the childcare facilities?
+- Is there any procedure to get daycare at office?
+- Whom should i contact to know about childcare provision?
+- How to avail of the childcare facilities?
+- Do I need childcare services in the company
+- Will I get childcare provision inside the company?
+- Is there any infant care provision?
+- Do you have a daycare provision?
+- Will you provide the employees with childcare services?
+- I have a baby. Can i bring her to work?
+- Is there any age limit for children brought to office?
+- where is the nearest childcare facility?
+- I want to know more about the child care policy in the area
+- If I have to bring my child to office whom should I contact
+- I want to know about child care policy
+- I want to know about childcare
+- I am 3 months pregnant. Do you have creche facilities?
+- creche
+- know some info about child care
+
+## intent:career_prospects
+- What are the career prospects for me within the company?
+- What is the basis on which promotions are decided?
+- How quickly can I climb the corporate ladder?
+- Is it possible to to switch domains /verticals within the company?
+- what are my career prospects?
+- What are the growth prospects within the company?
+- What are career prospects in the company?
+- On what basis are promotions decided?
+- How does the company decide on promotions?
+- How can I grow within the organization?
+- Can I switch from one vertical to another?
+- What are my growth options in the company?
+- What are the career prospects within the company?
+- where do i can see myself in your company in next five years?
+- what are the company policies
+- what will be future Iif I am staying here for long
+- How is promotion opportunities within the company?
+- What growth opportunities can I expect?
+- what are the future advancements I can expect with this company
+- tell me about my promotions
+- how does my career progress in the company
+- my career progression
+- Will i get promotion in the company for this role?
+- Is there any possibility for me to get promotion ?
+- Will i have career growth in this field?
+- How does one get promotion in the company?
+- What is the basic criteria on which promotions are given?
+- Is there any room for career growth in this job?
+- Is there any chance for career growth in this job?
+- Will I get a promotion in this role?
+- Does this job have any promotion possibilities?
+- Will this role benefit my career?
+- What are the benefits of my career in doing this role?
+- What are the benefits of my career in this field?
+- How will this job role enhance my career?
+- What actions can adversely affect my career prospects?
+- What should I do to get promoted?
+- What does the company provide for improving the career prospects of its employees?
+- Tell me about the dos and don'ts for improving my career here?
+- How beneficial is it for me to pursue the job?
+- Will there be any downfall in this job?
+- Is there any way that this can bring down my career?
+- Will I get better opportunities here?
+- Can this job provide me greater chances?
+- Will I get a shot at higher positions in this job role?
+- Can I change my field of interest later on?
+- How can I choose a different field after getting into this field?
+- where I will be if I join this company in next 5 years
+
+## intent:health_coverage_insurance
+- Does the company provide health insurance?
+- What about insurance for dependents?
+- Does it cover pre-existing health conditions?
+- Is there mandatory health check up before insurance is provided?
+- When will the health insurance coverage come into effect?
+- does my salary cutting includes insurance and other benefits??
+- Will the company provide health insurance for employees?
+- Will i have to go through any additional procedures for health insurance?
+- What is the health insurance policy provided by the company?
+- Will there be insurance for dependants also?
+- What health insurance do you give?
+- Would we get any medical policy from HCL?
+- medical coverage
+- Give me details on health insurance policies
+- Do I have to do anything extra to get health insurance?
+- Will the medical insurance be provided for dependants also?
+- What benefits do I get from health insurance?
+- Want to know about the health policies
+- Tell me about the health coverage provided?
+- Is there any health insurance given to employees and family members?
+- What happens with the insurance if I leave the company?
+- What happens with the insurance if I leave the job?
+- What happens with the health policy if I leave the company?
+- How long will the coverage be provided?
+- Are there any complications in taking the coverage?
+- What steps should I take to get health coverage?
+- What steps should I take to get health insurance?
+- health insurance
+- my health insurance
+- medical insurance
+- I want to know about health care facilites
+- ok do you have any health care benefits available from the company
+- I want to know about health care facilities
+- do you offer health care facilities
+- Does the company take care of health and other facilities?
+- what are your health insurance policies
+- Medical claim details
+- what will be covered in company health insurance plan?
+- How do I know more about company's medical insurances
+- Does companu provide health insurance for the employees
+- Does the company provides health insurance
+- Does the company provides medical insurance
+- what is the health insurance provided
+- Regarding the medical insurance it was mentioned 20k for my dependants as well.
+- Is it mandatory to take insurance for my dependants
+
+## intent:location
+- where is the office for hcl?
+- what is the location of hcl?
+- where is the office location?
+- where is the office located?
+- can you tell me the location of the office?
+- where is the company headquartered?
+- where is the physical location of the office?
+- what is the mailing address of the office?
+- what is the postal address of the office?
+- what is the address of the office?
+- location please?
+- what regions do you have presence?
+- where you located?
+- where is the office situated?
+- do you have multiple offices?
+- where are you situated?
+- where are your offices located?
+- what is the office address?
+- what is the location of the office?
+- can you give me the locaiton of the office?
+- where is the physical office located?
+- what is the registered address of the office?
+- where can i find the head office?
+- Where all is hcl located
+- Where are the hcl officers
+- Do we have an office in Tambaram MEPZ?
+- need office location details
+- How I know joining location?
+- What is my working location
+- May I know My joining location
+- I need joining location
+- Can I know the office address
+- What is my joining location
+- What is my project location?
+- Location
+- Onboarding location
+- what is my joining location
+- Onboarding location
+- May I know my work location in bangalore
+- What will be my reporting venue to complete the joining formalities
+- Where I have to come for physical onboarding
+- On boarding location please
+- What is the reporting address for chennai location?
+- Please provide me onboarding location
+- may i know which area
+- joining location
+- Cam I know the address of my joining location?
+- Where I will be working ?
+- I have raised a intervention to change the location but till now I didn't get any update. How can I know the current location
+- please share my client loction
+- where I have to go to join in HCL on 30th sep?
+- Where should I report for onboarding
+- When will get to know my job location
+- Please confirm me the address of office , actually i received the two different addresses so please confirm me correct one
+- I would need to exact office location or address so that I can book my accommodation near to office
+- Need exact office address so that I can book my accomdation
+- What is my joining location
+- Can I know my current location
+- need to know my joining location
+- My Base location is Bangalore can you please confirm . And from which facility in Bangalore I should start working.
+- where will be my sitting location please let me as i need to shift on urgent basis
+- am i getting pune location?
+- in which location i need to report in bangalore
+- Please give me the hcl address
+- May i know the location in Chennai because there is nothing mentioned about specific location
+- What will be my working location in Bangalore
+- thanks . so my location is chennai right
+- What is my working office in Bengaluru
+- from which office i have to work
+- Which is my joining company address
+- And what is my location adress un Hyderabad
+- I need update on HCL work location by 31st October 2022
+- Now I am in Bangalore office
+- Need to know the project location in chennai
+- Joining spoc and joining location I want to know
+- My joining date with hcl is on Nov 7. I want to know the location where i have to report
+- Address related issues
+- In Chennai we have three branches
+- Is that correct address where I have to report on 28th Nov 2022 for joining formality "Akashi Room, Ground Floor, Tower -1, Noida SEZ, Sec 126, Noida
+- need joining address confirmation.
+- What is my location and timings
+- I need exact location in Hyderabad
+- 1st day where I will be reporting? Please give me the full address
+- nothing else just know about joining location
+- Please share my joining location in noida
+- My joining location is chen
+- My joining location is chennai
+- What is my current location for work and timings of joining
+- My office location
+- Where do I need to report on my first day
+- today is my joining date ,i want to know the joining location
+- Where I have to report at my joining date?
+- Is there any client location for this job role?
+- can you tell me my office address in noida?
+- Work location
+- Onboard location in Banglore
+
+
+
+
+## intent:disabled_support
+- what if i need wheelchair access
+- Is the office wheelchair accessible?
+- Does the company provide special sanitation facilities for handicap personnel?
+- Are there special provisions for handicap parking?
+- Does the company provide support for handicapped persons
+- I have a sprained leg and I am not able to climb the stairs. What should I do then?
+- What facilities are provided for handicapped employees?
+- Are there wheelchair facilities available?
+- How can handicapped people reach office?
+- Are the office premises friendly for handicapped people?
+- I need disability support in the office. What should i do?
+- Do you have a special provision for handicapped employees?
+- I need physical disability support
+- Please give me the details for disability support in office?
+- Is there any disability support pension provided?
+- Will my payscale change due to disability?
+- What facilities are provided in the office for the specially-abled?
+- What is the company policy for physically disabled employees?
+- How friendly is the workspace to the disabled ones?
+- Do you support the specially abled workers?
+- Need details on disability support
+- Are there special mobility services for the physically disabled ones?
+
+## intent:negotiation_of_terms
+- what if i want to negotiate the terms again
+- Compensation concerns
+- Compensation concern
+- I have found better job
+- need to discuss about my CTC part before
+- after disccused they have released with less packeage
+- Compensation concerns
+- Can we re-look at the terms of the contract?
+- Just wanted to provide an additional information. I am getting perks in the other company which increase my package upto 24 lakhs.
+- Is possible to improve my ctc offer
+- Need to discuss about salary
+- Your salary structure is not good
+- As pery experience only , i am expecting reasonable hike, I dnt want to change my company, for 10 to 15 thousand of hike
+- I am just worried about in hand salary
+- what if the terms are not ok with me
+- Is it possible re-visit the terms and conditions?
+- I would like look at the terms in the offer letter again.
+- Some of the conditions in the offer are not okay with me. I'd like to discuss them.
+- I would like to reconsider the offer.
+- I am not satisfied with the salary
+- I need some clarity regarding the terms and conditions
+- Can I have some changes in the contract
+- How can I make some changes in the contract
+- How can I make some changes in the terms
+- I want to negotiate the terms mentioned
+- I expected nearly 5 to 5.5 lpa
+- if i have got increment in current organisation. can i get a revised offer break for the same.
+- still my compensastion request is pending?
+- still my compensation request is pending
+- I received a offer letter from another organisation
+- Received a new job offer from other company
+- I want to discuss the terms of the agreement once again.
+- I'm not okay with the stipulated salary. I want to talk about it with the recruiter.
+- I would like to go over the terms and conditions of the contract once again.
+- Can we discuss salary terms again?
+- In that case I want to reconsider my Offer
+- I would like to negotiate the terms again.
+- are the agreement conditions final?
+- I want to rediscuss some issues on the contract
+- I would like to negotiate my terms
+- I am not happy with the offer letter
+- salary is not acceptable
+- Not happy with the offer
+- The salary is very low
+- I did not like the offer letter you have shared
+- The compensation is below expectation
+- i am not so satisfied with the offer letter
+- I got another offer letter with bonus amount but designation changed, My i know the reason ?
+- I need talk to the HR representative regarding salary revision
+- I am expecting a compensation revision.
+- can I get a compensation revision?
+- Salary Negotiation
+- offer discussion
+- How can people send out completely wrong names in offer letter and expect them to be digitally signed and accepted?
+- I got offer letter with different designation, May I know the reason ?
+- I asked them to increase my package as my expectation was not high. but they did not provide that much amount
+- Actually later I realized the package that is offered to me is little bit lesser compare to market standard based on my skills and experience.
+- Joining Location was confirmed as Chennai during the interview and in my offer breakup  . But in JOINING DOCKET it is mentioned as Bangalore.Kindly help me in correcting the location to chennai
+- I have another offer with better package if your able to match the package then am good
+- Change in Band and Designation based on my total and relevant experience.
+- Band and Designation change request
+- That's correct but HCL will not provide any allowance so if you could revised the offere
+- I need joining by as I am joining early
+- Network payment
+- Can you pay for Network cost per month
+- Can I get network pay ?
+- is there any possiblility to negeotiating the package
+- But i have also get extra apart from salary in current cmpny
+- if my current organization relieved me early, can i join early in HCL?
+- I need a Work From Home Services or I Need Pune Location for work.
+- And requested them to provide the job responsibilities too. Could you pls chk nd let me know fir the same.
+- offer letter does not have compensation amount
+- I am expecting more CTC
+- I don't see the revised  offer breakup file..
+- Counter Offer
+- Can I get hike in salary
+- Need to discuss about salary discussion asap with recruiter
+- Need to discuss about salary compensation
+- I got the offer letter 27.5 LPA fixed so i am expecting 32 LPA fixed from HCL.
+- The basic salary is offered by HCL is less than my current company
+- So, again there will be a interview?, because i have an offer 28 LPA, that's why the reason i am asking for 30LPA
+- i have a better offer
+- My expectation salary is 12 to 14
+- Not really question but I never withdrawn or accepted my job application with HCL. Offer letter which was received is not as promised so it was under discussion. And HR is working on revised CTC.
+- Need to talk about salary compensation from recruiter
+- Need to talk about salary compensation
+- need correction in the position being offered
+- I got better offer
+- got better offer
+- is there any chances of increasing CTC
+- I want to discuss about the pay scale
+- I want to discuss about the package
+- Need to increase package
+- today i am not at join in hcl due to i raised my issue relotion place.
+- It's more than 2 week, I didn't receive any update on my counter offer request. Can you please check and let me know if anything needed from my side.
+- It was hard decision for me to withdrawn the candidature..but I must had too!
+- i got hike in old organization
+- on iOnboard portal, Compensation structure uploaded by recruiter is incorrect
+- I would like to know if HCL will be able to offer the same as I have it from Bahwan CyberTek, if yes then I am more than willing to join HCL. Thank you
+- Why my salary is same as provided by my previous
+- I enter my last package wrong last
+- Current company CTC apprisal has been given, is there any way can change my offer letter
+- Componsation conserns
+- Why my CTC is same as previous one, it should increase.
+- Why my CTC is same as the previous employer?
+- Why my salary is same as provided by my previous employer?
+- I have counter on offer letter and also request for change my date of joining as I already update my last working day to them but they didn't reply to me
+- After submitting my documents, I'vent received any call from HR regarding the salary confirmation and also they said ok for the 4.5 package.
+- Sorry i have entered wrong ctc
+- As I have received my offer letter and I am not able to understand my salary. I guess it is showing approx 24534 INR would be my inhand months and I was told that it would be 30000INR
+- As discussed with hr,she told me my in hand salary will 29000 but in offer letter it is 27000
+- My ctc is negotiable upto 20 lakhs. I have done pcnse and cortex certification and have done so wan course also
+- my packae was negotible
+- Whether after accepting offer ...is it possible to increase the salary
+- Please try to resolve my compensation query as earliest
+- Having concerns over annual variable component in my CTC breakuy
+- Team has asked me to update tye screenshot of my current offer which i am holding
+- I want monthly rather than Year-end Performance Bonus (PB)
+- Change my current offer
+- Hr discussion is still pending
+- I want more than what offered
+- While attending the interview i clearly informed about the package and hr told me ok but now after receiving the
+- I just want to discuss about offer letter which is not as per discussion
+- Before getting offer from hcl I got an offer from another compnay
+- I have a counter offer
+- I would like to inform you that I got other opportunity in different organization with 6.8L of package. 
+- I still keen to join HCL if matches the new offer. Would like to discuss with you for the same.
+
+
+
+
+
+## intent:joining_date
+- Hi, when is my joining date?
+- when do i have to join
+- what is my doj
+- when will be my first day
+- what is the joining date?
+- when should i join
+- date of joining
+- Is it possible to join in advance?
+- i need to know my date of joining
+- can you tell me when i should be joining?
+- What is the tentative joining date?
+- On which date should i join
+- What might be my date of joining
+- When will i have to join
+- On what date will i have to join
+- On what date will i be having to join office
+- On what date will i have to come to office
+- when will be my joining date?
+- what is my joining date?
+- can you tell me my date of joining?
+- can you tell me my joining date?
+- when should i report for work?
+- what will be my first day at work?
+- when will be my first day at work?
+- where can i see my joining date?
+- where can i find my joining date?
+- where should i look for my joining date?
+- where should i be looking for joining date?
+- where to look for joining date?
+- where to look for date of joining?
+- where can i look for date of joining?
+- date of joining?
+- joining date?
+- can you tell me where to find my joining date?
+- i want to know my joining date
+- i want to know when i should join for work
+- i need to know when to report for work
+- when to come to office?
+- what will be my first day at office?
+- when will be the first working day?
+- when do you want me to start?
+- when would you like for me start?
+- when do you want me to join?
+- when would you like for me to join?
+- when would you like me to start
+- when would you like me to join
+- i wish to know my joining date
+- i want to know when will be my joining date
+- tell me my joining date
+- tell me my date of joining
+- please tell me what is my joining date?
+- when is my first working day going to be
+- what about my joining date?
+- what about my date of joining?
+- can you clarify my joining date?
+- when is my joining date
+- when is the earliest by which I come for work
+- when am i supposed to report at the office
+- when will be my joining date
+- How can I see my date of joining details
+- I need to check my date of joining details
+- i received email with subject HCL Technologies - Confirm your date of joining
+- i can confirm my date of joining in HCL will be 28/10 as per offer letter
+- but my joining date is 22.09.2021
+- My date of joining in HCL would be 28-Oct-2021 as per offer letter
+- I want to conform my joining date
+- Can you please tell me the joining date and my location
+- Since I have not got offer letter so I am not aware of joining date
+- When will be the joining date
+- I would like to know about my joining date?
+- Can you let me know the joining date as per your records
+- confirm my joining date
+- please confirm my DOJ
+- Doj
+- Waiting for the joining date from your side 
+- Please provide my Doj
+- When i will on-board in HCl
+- confirmation on joining date
+- Onboard date
+- I did gave the different date while accepting the offer so want to confirm
+- I want to join as soon as possible
+- May i know what's a current updated date on ionboard and candidate portal ?
+- what is my joining date that has been confirmed
+- Regarding Joining Date
+- As per on inboarding my joining date is 19/9/2022
+- I was updated incorrectly at last time as Nov 15 2021. But correct joining date is November 08 2021.
+- i have not received the revised offer letter with the new date of joining
+- where is the new offer letter and revised doj
+- New offer letter with the date change
+- 3-1-2022 is my joining date
+- My doj would u plz tell me asper your records
+- Yesterday they sent mail me tomorrow is DOJ
+- Without concern me hr decide 19 date
+- Which joining date new or previous one?
+- for tomorrow joing confirmation
+- When is my onboarding
+- I have resigned after discussed with HR. as per discussion recorrect joining date or provide extension letter.
+- My joining date has extended to more than 1 week for BGV verification. 
+- My joining date is 26th October when will I get my extension letter?
+- Will there be a delay in my joining?
+- My joining date has been extended due to BGV not initiated from company end, Kindly update the joining date as per that
+- What will be my date of joining as i have not accepted the offer on the portal.
+- What is my joining dat?
+- What is my joining date in system?
+- please send mine offer letter with latest date
+- I haven't recieved updated offer letter yet with updated jooning date
+- I got mail from HCl that your onboard date is 21-11-2022
+- When will be the joining
+- What is my Onboarding date?
+- Iam a immediate joining for suitable job
+- yes i have got it and acepeted Extension letter that is mentioned in the date of joining is 13-Feb-2023. But today again now I get another Extension letter that is mentioned in the date of joining is 31-jan-2023. So please suggest me
+- Can I know My Onboarding date
+- When is my onboarding?
+- When is my actual onboarding ?
+- i am ready to join DEC 14
+- when is my joinning date still not confirm
+- my joining is 14th Decembar,can you please confirm
+- my onboarding day is 19th dec
+- Joining day confirmation
+- My Joining date on discover is not correct It shows 07 Feb when completing online onboarding, however my date was changed to 31 Jan
+- How long take time for my extended latter
+- I got an updated offer letter with role change and date of joining change.
+- My date of joining showing 22 December instead of
+- Did not get any official communication regarding my Joining date
+- Is onboarding confimed for 4th November?
+
+
+
+
+## intent:change_in_joining_date
+- what if i need to change joining date
+- what if i am sick on the date of joining
+- what if i need an extended joining date
+- i need some clarity about my date of joining
+- Can I alter the joining date?
+- Please change my doj as 1-012-2022
+- I'm unable to make it on the date. Can I postpone it?
+- want to change joining date
+- Can I prepone the joining date?
+- Can we join the office before 20 December 2022
+- i want to join asap
+- yes please I can't come on the scheduled date
+- Can I join early on 6th December 2021
+- where i can update the Date of joining
+- Tell me process of Early Joining
+- What is the process for early Joining?
+- Can I change the joining date?
+- Unable to attend interview on given date
+- I would like to take a vacation before joining. What is the latest date I must report to work?
+- Is there a hard deadline by which I must join the company?
+- How can I change the joining date?
+- Who should I approach to see if I can change my joining date?
+- What is the last date by which I must join work?
+- Can I postpone my joining date?
+- can i change the joining date?
+- can i alter the joining date?
+- i wish to change the date of joining
+- i wish to alter the date of joining
+- i'm unable to join on the joining date. what to do?
+- what to do if i can't join on the joining date?
+- what should i do if i cannot join on the said date?
+- i cannot report on the joining date. please guide
+- i am not able to join on the joining date. please help
+- can you tell me how i can request change of joining date?
+- can you tell me how to change the date of joining
+- not able to come on the joining date. what can i do?
+- i want to prepone joining date
+- i want to postpone joining date
+- i wish to prepone joining date
+- i wish to postpone joining date
+- can i prepone my date of joining
+- can i postpone my date of joining
+- how can i change the date of joining
+- how can i alter the joining date?
+- how to postpone date of joining?
+- how to prepone date of joining?
+- tell me how to change the joining date
+- tell me how i can change the date of joining
+- how to change date of joining?
+- how to alter date of joining?
+- want to request prponing joining date
+- want to request postponing joining date
+- can i change the date of joining?
+- can i alter the date of joining?
+- i want to change the joining date
+- i want to alter the joining date
+- how to change joining date?
+- how to alter joining date?
+- how to prepone joining date?
+- how to postpone joining date?
+- i need to urgently change the joining date
+- ok now I have seen the offer letter the date is not ok for me
+- ok so before joining I should shift from my current location. as per the offer letter I should report at the earliest. is it possible to change the date?
+- I am not relieved from my current office?what should I do?
+- I want to change the date of joining
+- Can I extend the joining date by a few days?
+- Btw, Im not sure I can join immediately. I have a family emergency.
+- What is the latest by which I have to join?
+- I would like to explore the option of a different joining date?
+- I would like to extend my joining date.
+- Can I take a few days before I join?
+- Can I change my date of joining?
+- I need to change my joining date
+- How to postpone my doj?
+- What should I do to postpone the date of joining?
+- How to prepone my doj?
+- What should I do to prepone the date of joining?
+- What are the formalities to change the date of joining?
+- Tell me the procedure to change the date of joining
+- Will there be any problem if I change my joining date?
+- I want to change my first day at office
+- Help me to change my date of joining
+- Do I need a medical certificate to postpone the joining date?
+- Can I alter the joining date by just calling the HR?
+- I won't be able to make it on the proposed date. Can I change my date of joining?
+- What are the processes involved in changing the date of joining?
+- I am unabled to join on the pre mentioned date. What should I do?
+- I want to change the joining date
+- I won't be able to join on thedate I have mentioned
+- But I want to change the doj
+- Due to medical reason i want to  change my joining date who can confirm if this can be done or not
+- Is it possible to alter the onboarding date?
+- My notice period got extended. My last date is 28th May. And also I have received an offer of 14LPA from another company. Is it possible to extend the date of joining and increasing the package.. I would like to discuss with you.
+- Please change my joining date and send me the offer letter again
+- As date of join is mentioned in Offer letter is 15 april 2021 and i would like to join by 31st march 2021.
+- On My joining date it's Saturday can it be prepond?
+- online onboarding joining date is not yet changed
+- joining date is not yet changed on Online Onboarding
+- can i join on October 11th
+- I have a plan to join 13 September or 16th September
+- I need the letter with joining date as 6th October 2021
+- I need the offer letter which my joining date as 6th october 2021
+- My correct date of joining is November 08
+- Waiting for BGV status and planning to join before on by joining date - my joining date is 14th oct i am planning to join oct 06th
+- I need to revise my date of joining
+- joining date modification
+- joining date modifiation and salary revision
+- is there is any possible way to join on 1st week of OCT
+- My correct date of joining is Nov 8 2021
+- Change on boarding date
+- My offer letter got released today with date of joining mentioned of previous offer rolled out to me hence I will be able to submit my resignation only now and therefore I request to make this date of joining changed to 21dec
+- in my current orgranisation my LWD is 25-SEP so is ther any way to join early in HCL in the 1 week of OCT
+- Is it possible to join earlier if I released from my current organisation, Actually I am trying to release early
+- I got offer letter but my join is 2021-09-30  but I can join immediately can you take this request to join immediately
+- Can i join early if my employer releases me early
+- As per new offer letter released on 17th sep which has old DOJ as 7th Dec I have resigned from my current organization and want now the new date of joining to be 21dec based on my resignation date and new offer to be released with this date of joining
+- Can i request for Few days off
+- Yes but as per offer letter I am not joining that date
+- My notice period is 60 days and my last working is 9th December so i am able to join 15th December
+- I am able to join on
+- Please just let me know If I can join HCL after few months because I revoked my resign.
+- i requested my recruiter to delay my date of joining.
+- I need early joining on 14/11/2022
+- Need extension of joining period
+- Need extension of joining period , i hv n
+- i can join HCL within a week . Please
+- I want to join HCL From 2 jan 2023 .
+- My notice period is 60 days and my last working is 9th December so i am able to join 15th December i am already informed my recruiter but i did'nt <
+- I want different date of joining
+- Early joining
+
+
+
+
+## intent:talk_to_recruiter
+- I want to connect with my recruiter
+- I want to talk
+- connect me to recruiter
+- connect me to HR
+- let me speak with the HR
+- let me speak with the recruiter
+- i want to talk with my hiring manager
+- please schedule a meeting with recrutier
+- Please, arrange for a callback asap
+- when HR will call me?
+- Need to talk to HR regarding paternity leave and medical insurance & claim
+- what if i want to talk to the recruiter
+- talk to recruiter
+- In joining form they have mentioned questions about PF scheme..for that I don't know which one I have to select
+- i want to talk to the recruiter
+- i wish to talk to the recruiter
+- i need to talk to the recruiter
+- i must talk to the recruiter
+- i want to directly reach the recruiter
+- how can i reach the recruiter?
+- Also need to discuss with hiring manager about the tickets and accommodation for joing
+- tell me how to contact the recruiter?
+- how to contact the recruiter?
+- can i talk to the recruiter?
+- i need to speak to the recruiter
+- how can i speak to the recruiter?
+- i need to speak to the recruiter directly
+- can I have a number to call the recruiter?
+- what is the contact number to call the recruiter?
+- can you give me details of the recruiter so i can talk directly?
+- i want to talk directly to the recruiter
+- i wish to speak to the recruiter right now
+- i want to talk to the recruiter now
+- i need to speak to the recruiter now itself
+- i need to talk to the recruiter ASAP
+- i want to get in touch with the recruiter now
+- i want to get in touch with the recruiter immediately.
+- how can i talk to the recruiter?
+- i want to discuss something with the recruiter
+- i wish to discuss directly with the recruiter
+- can i discuss this matter with the recruiter?
+- how can i discuss this with the recruiter?
+- i want to the talk to the recruiter right now
+- immediately i want to talk to the recruiter
+- i want to speak to the recruiter ASAP
+- i must get in touch with the recruiter right now
+- i need to talk to the manager
+- i wish to talk to the manager
+- i need to speak to the manager
+- can i talk to the manager
+- i want to talk to my supervisor
+- i need to discuss with my surpervisor
+- must talk to the manager
+- i must talk to the manager
+- how can i talk to the manager
+- can i speak with the manager?
+- how i can talk to the manager directly?
+- how can i speak to the manager directly?
+- how to talk to my manager?
+- how to reach out to my manager
+- how can i reach out to my supervisor?
+- i need to discuss something with my manager
+- need to discuss details with my manager
+- need to talk with the recruiter
+- i has so many recording to my joining details , i want call to hr please provied details
+- i have some questions for my manager
+- i have some doubts to ask the supervisor
+- i have a few questions to ask the manager
+- can i talk to my reporting manager now?
+- how to get in touch with reporting manager?
+- i have to discuss something with the manager
+- i want to discuss this with the manager directly
+- i want to ask my doubts to the supervisor
+- i need some questions answered by the manager
+- how can i talk to the supervisor?
+- give me supervisor's number. i need to talk
+- i need to talk to the manager right now
+- i need to talk to the manger urgently
+- i want to talk to the manager ASAP
+- need to get in tough with the manager right away
+- I want to talk to the recruiter
+- I want to talk to recruiter
+- Ok. I would like to connect with the recruiter as soon as possible.
+- yes,I want to talk to recruiter
+- can i talk to recruiter?
+- is there recruiter available
+- can i have a word with the recruiter
+- is there a way can i talk with the recruiter?
+- word with the recruiter?
+- can i have a word with the recruiter?
+- i want to talk to recruiter
+- i want to talk with the recruiter
+- i want to talk the recruiter
+- want to talk with the recruiter
+- do i need to call the recruiter?
+- want recruiter
+- is it possible to contact a HR person
+- may i contact a HR person
+- can I contact a HR personnel
+- I want to talk to the manager
+- is it possible to talk to the manager
+- would I be able to reach the manager
+- hmm should i check with recruiter to get an interview?
+- How can I get in touch with the recruiter
+- I have a message to the recruiter. Can you pass it to them
+- I accidentally deleted my interview invitation mail. I want the recruiter to send it to me again. Is that possible?
+- ok please get the recruiter
+- I want some brief information and have some queries to the recruiter
+- Ok. Then can you schedule an intervention for me
+- I want a recruiter intervention
+- talk to manager
+- My current not accepting my relieve letter. They ask 3 months at least. I need to speak relevant team
+- I want a call back
+- Can you call me to discuss it
+- Please call me to discuss ot
+- Please ask hiring manager to call me regarding Revised offer letter
+- Need to get call from HR
+- Need to discuss with HR
+- can you contact me?
+- can you connect me?
+- contact me
+- Need to talk recruiter regarding revision of my offer letter
+- As per current situation, my Relieving date from current Employer is 05th Oct 2021, prob. relieving letter can be delayed thats reason looking for another date for Joining HCL, request you to arrange call from recruiter so that i can discuss with them
+- By when i will get call from HR
+- By when i will get call from HR?
+- please assist me to contact someone from onboard team
+- Do call me directly instead of asking the feedback
+- Regarding Professional contact
+- Need a callback
+- Okay sure I ll do the process. Could u pls request them to clarify my queries
+- Arrange call back please
+- Arrange a call back
+- Arrange call back.
+- Will check and discuss with HR for same
+- i need to have a word with my recruiter regarding my ionboard link
+- Onboarding team assistance required
+- need to discuss about job location , shift timinings and transport facility etc
+- Please ask someone to guide me
+- When i can expect a call back
+- I need a callback from recruiter
+- no response
+- When i get call from recruiter?
+- no point of contact from HCL.
+- No particular contact from HCL ?
+- Need call back from recruiter
+- How do I get in touch 
+- Please do forward my issue i am waiting for this issue
+- I want to talk to executive
+- I want to talk to executive or hiring manager
+- Please share the concern person email ID or contact details, so that I can reach out for any related concern
+- I need a callback tomorrow from the recruiting team.
+- I need a final confirmation from the HR and recruitment team on my joining at HCl.
+- would like to know about more
+- can you please explain more about this
+- can you please elaborate it
+- explain this
+- Need a call back from recruiter
+- So whome to talk with ?
+- by when I will be get response from your side
+- Can you provide a call back from recruiter
+- Can I connect on call with support agent?
+- I have a question about my intervention request
+- tell me more about my intervention request
+- i want to know more from my manager
+- when i will get support.
+- I made a mistake please reconsider
+- I want contact number of help desk
+- Please provide any POC to me for further clarifications
+- can you guys pls call me and clarify those
+- please ping me
+- message me
+- Also need to discuss with hiring manager about the tickets and accommodation for joing
+- It's urgent please call back from recruiter
+- 15 days completed but still now I not get any call back from recruiter why?
+- need to discuss with recruiter
+- when i will get my salary compensation call from recuriter
+- I am still waiting for Onboarding
+- HI Team I need a immediate assistance for my onboarding yesterday was my DOJ but I am not yet onboarded I don't know what's happening with my onboarding
+- I need immediate assistance
+- assistance
+- why was my offer withdrawan
+- I raised a ticket. I wanted to know the status
+- Where is the problem in my onboarding process?
+- Recruitment process is not upto the mark...Not even
+- I need to have a word with my recruiter regarding my ionboard link(showing error - Multiple account active)
+- Have pf quirues
+- As my joining date is 30-09-2022 so I want to talk to the recruiter Priyanka Dhyani.
+- I gave the interview again few months back but they kept me on hold stating will get call but no response
+- Plz. Tel them to cal on-9353101481 this number will be active 24hours
+- I have submitted my resignation in current concern and awaiting email from them with last working date. Within how many days i can can submit the resignation acceptance email to recruiter
+- How do I get in touch with Ashish kumar
+- So where I have to go and whome to talk with no one is talking for the accomodation I'm in the induction
+- may i know my offer letter validity
+- I need to talk to HR regarding my latest compensation letter
+- the status is document verification pending from recruiter side.
+- I need to have a word with my recruiter regarding my ionboard link(showing error - Multiple account active)
+- Need call back from HR as i have doubts in uploading document
+- I want to connect with onboarding team
+- Need call back from HR as i have doubts in uploading document
+- Talk to hiri
+- I need you guys to help me with my queries on call or help me wity any phone no. So i can connect with them to resolve tgis
+- Onboaring process is not smooth. I am not getting support from anyone
+- Hcl wasted my time they have very pathetic professional working there
+- You may call today at any time
+- I need call from the HR team regarding my extension
+- Please arrange meeting asap because I have to start working on new project in my current organization
+- need better assistance thanks you
+- Can u someone connect me? So that i will get about the joining farmilities
+- i really felt unhappy regarding this onboarding proces
+- No, I need more clarification. It doesn't look good.
+- I want call for confirmation of joining.
+- At the date of joining whom i should contact ?
+- I need to talk with recruiter regarding my salary
+- Need callback from Hyreo team.
+- please tell to HR recruiter to call back to discuss on the BGV, accommodation, and location of the company address in detail
+- need to contact my recruiter .please do the nedfull as soon as possible
+- In the HCL portal i can see my support person name is Kavithak@hcl.com .i called her . She told she left the job from
+- I want to give you the clarification that I haven't withdrawn the offer..ok..The recruiter have declined my candidature.. onboarding team email ID
+- I need to escalate to higher authorities
+- Kindly Connect any HR person to me for I need to understand my salary structure means how much I will get in hand salary ? and what is the means of flexi basket
+- I need to contact the recruited regarding bfv
+- Could you please give call back soon
+- Hr not giving any update please i will talk to hiring manager
+
+
+
+## intent:leave_policy
+- what if i need maternity leave
+- what if i have a family emergency
+- can you tell me the leave policy of the company?
+- leave policy?
+- what is the leave policy?
+- How long should I wait till I take a leave?
+- how does the leave policy work?
+- what should i know about the leave policy?
+- how are leaves calculated?
+- how many leaves are there in a year?
+- how many leaves can i take in one year?
+- how many leaves am i entitled to?
+- how many leaves am i eligible for?
+- what are the categories of leave available?
+- how many days of leave are available?
+- what about leave during probation?
+- what is the policy of sick leave?
+- how does sick leave come into effect?
+- can i apply for sick leave for an elective procedure?
+- does elective surgery errant sick leave?
+- what leave can i avail?
+- what leave can i avail during probation period?
+- what are the types of leaves available?
+- what leaves are available after probation?
+- i want to know about the leave policy
+- i need to know about leave policy
+- can you tell me about the leave policy?
+- tell me about the leave policy
+- tell me more about the leave policy
+- give me details about the leave policy
+- what is my leave eligibility?
+- where can i find details about the leave policy?
+- tell me about the leave policy?
+- leave policy details?
+- leave policy please?
+- what are the different kinds of leaves available?
+- i want to know more about the leave policy
+- i wish to understand more about the leave eligibility
+- who should i contact to discuss leave policy?
+- do i need to come if I fall sick?
+- Leave
+- How many leaves in a year
+- Few days off
+
+
+
+## intent:access_card
+- when can i get my access card?
+- when will i get my id card?
+- how long will it take to get my access card
+- how long will it take to get my id card
+- how soon can i get my id card
+- how soon can i get my access card?
+- tell me how much will be the wait time to get my access card?
+- tell me how much will be the wait time to get my id card?
+- can you tell me how long till i get my access card?
+- how long till i get my id card?
+- when will i get my access card?
+- how quickly will i get my access card?
+- how quickly will i get my id card?
+- what is the typical time taken to get access card?
+- what is the typical time taken to get id card?
+- can you tell me how long i have to wait for access card
+- tell me when to expect my access card
+- tell me when to expect id card
+- when will my access card be issued?
+- when will my id card be issued?
+- how long will it be for the access card to be issued?
+- how long till my id card is issued?
+- when can i expect my access card?
+- when can i expect id card?
+- will my access card be issued soon?
+- will my id card be issued soon?
+- are access card and id card the same?
+- will I get them at office?
+- should i expect them to come by post?
+- will they be mailed to me?
+- where will the access card be issued?
+- where will the id card be issued?
+- when can i get my id card?
+- what about issue of id card?
+- when will I be issued my id cards
+- when will I be issued with access card
+- will i need id card if working from home?
+- how long should i wait for card
+- ok.So when will be my id card issued.Now I have only limited access
+- When will I get my Access Card?
+- How quickly will I get my Access Card?
+- When will I be provided with my Access Card?
+- How long do I have to wait till I will be issued a access card?
+- when will I be issued my pass?
+- should iexpect them to come by post?
+- how will i get them?
+- When will I be granted access card?
+- How do I get my employee number
+- When will my sap id be created?
+- When I will get my id ?
+- For HCL card where I go to collect it
+- I am not received any new sap I'd and new credentials
+- I have not received my SAP ID and HCL Email address
+- I need my sap id for joining
+- My sap details and mail ID
+- What is my SAP I'd?
+- Why I didn't get my logins and SAP ID till now
+- Till now i have not got my SAP ID and email ID
+- When I will get the Sap id
+- When does the sap id will be generated ?
+- How I will get the SAP id
+- When I will get my SAP ID
+
+
+
+## intent:transfer_or_relocation
+- Can i change the work location
+- Can I ask for a location change?
+- what is the company policy on transfers?
+- policy for transfers
+- can i seek transfer
+- how soon can i move to a different location
+- can i request for a transfer
+- can i apply for transfer?
+- when can i look for a transfer
+- can i transfer
+- can i shift
+- what about transfer?
+- who should i talk to about transfer options?
+- are there transfer options?
+- do you give options to transfer?
+- i want to move to a different location
+- i wish to ask for a transfer
+- i wish to ask for a move
+- i want to ask to move
+- i want to ask for a transfer
+- what are the options to move
+- what are the options to transfer
+- options to transfer?
+- any options to move?
+- what is the company policy for transfers?
+- is it possible for me to move to Chennai branch
+- What are the procedures for getting transfer?
+- What is the process for getting transfer?
+- I need a different work location. What can i do?
+- What is the process to get transfer?
+- How can i change my office location?
+- I cannot join the currently given workspace? What to do?
+- Will i be able to get transfer?
+- How long does the procedure for transfer take to be completed?
+- Will getting transfer affect my pay scale?
+- The office is very far for me. What can i do?
+- I cannot join office on the given date. Can i get my workspace nearer to my home?
+- I am not getting any accommodation near office. I need to change my office space.
+- Will i get transfer within an year?
+- Will i get relocated within 4 months of joining?
+- Can i get transfer in the first months of joining?
+- Can i change office location during induction time?
+- How long will i have to wait before applying for transfer?
+- transfer policy
+- what are your transfer policies
+- recolation support
+- Reallocation support
+- Is it possible to make work location in Kolkata
+- Want my Work location in kolkata
+- Can you change my working location
+- I want to work in office location that is in bommasandra office
+- Can we relocate after joining.
+- Suppose if I get project from Whitefield location..is it fine to work from Jigani HCL office?
+- I want my job location is in  chennai Or Hyderabad
+- I need joining location as Hyderabad
+- No More except Hyderabad Job Location
+- change to Hyderabad
+- I want to change my location from Pune to NCR
+- Joining Location Change
+- its about Joining location
+- Need to change joining location
+- Location Change
+- I would prefer location Bangalore
+- I would prefer location Bangalore, Noida, Pune, Hyderabad
+- As per my Offer Letter, Job location is Chennai. Is there any chance to get Hyderabad work location with using the same Offer Letter ?
+- I requested higher pay than my counter offer.
+- Need to change joining location as Covid is not over
+- I would prefer Noida, Bangalore, Pune, Hyderabad
+- I want to get my location changed from bangalore to pune
+- When will receive the promised addendum of base location change?
+- I want to get my location changed from Bangalore tp Pune
+- I preferred Hyderabad location
+- Base location change
+- Base location mistake in offer letter?
+- can i apply for relocation
+- can i request for relocation
+- can i seek relocation
+- when can i look at relocating
+- can i relocate
+- what about relocating?
+- who should i discuss about relocation options?
+- are there relocation options?
+- Do i have to request for relocation right now?
+- do you provide options to relocate?
+- I need immediate relocation
+- what are the options to relocate
+- i wish to ask for a relocation
+- i want to ask for a relocation
+- I want to relocate
+- options to relocate?
+- Help me in getting relocation
+- I want transfer from navallur to pune
+- I have got the offer from Bangalore location but due to critical condition of one of my family memners ,I need to be in delhi for few months and looking to the nearest location that is Noida ,I am willing to join there ,It wont be possible for me to leave everything and report Bngalore .Please help .I am okay to be on bench for few months and then I can start all over again but its very critical
+- Can I get relocated to Noida
+- Do we have any options to work from office nearest HCL office premises at my current location? Pls confirm.
+- may i know the status of my relocation from the recruiter
+- I want madurai location
+- i need bengaluru work site
+- bangalore location
+- I want my joining location as Hyderabad
+- I already mailed to change my location, please do the needful
+- Actually i got offer from bangalore location I am preferred location was Chennai If you passbule please relocate the my posting location please accept my request
+- I want to change my location
+- I need my working location to be in Chennai
+- My Reporting Manager given approval to change the work location already
+- I had raised a request for location change(From Bangalore to Chennai) in the offer letter. Still haven't received email
+- When I checked with HR , he gave me location Preferance as Noida and Pune. I selected Pune location, but still offer letter has noida Loaction
+- Is there any opening in Kolkata location for an Architect or Project Manager role?
+- If currently any pening in Kolkata location for an Architect or Project Manager role, I can join immediately. Please let me know if any openings
+- I got an offer letter to join from Noida. However, my preferred location is Bangalore. Pls suggest.
+
+
+## intent:candidate_is_confused
+- hi, i don't get it
+- i don't understand
+- that is confusing
+- i'm really lost
+- i'm lost here
+- i cannot understand
+- this is very confusing
+- can you clarify again
+- can you explain one more time
+- but what are you trying to say?
+- what do you mean?
+- what am i supposed to do?
+- I am not satisfied with your answer
+- i have no idea
+- i have no clue
+- i don't understand what is going on
+- i cannot understand what you are trying to say
+- i don't get it at all
+- please explain again
+- clarify it again please
+- why is this so cofusing?
+- i'm confused
+- i'm totally confused
+- i'm not understanding
+- absolutely confusing!
+- please help! I don't understand
+- i'm not getting it
+- I'm very confused
+- i'm muddled
+- what is that supposed to mean?
+- I'm confused about joining here
+- I'm really confused
+- I'm confused
+- I am confused
+- I don't know what to do
+- I don't have any clue
+- What is the meaning of congrats for final selection
+- I got mail like congrats for final selection
+- Can i update my Resume that was shared already
+- i need login credentials
+- I got a mail from hcl.hyreo.com
+- when i can expect the mail
+- still not receive any mail
+- at what time i have to login
+- Whom should I mention as witness asked to share during my interview process ?
+- Whom should I mention as witness person asked to share during my interview process ?
+- Can you please give the acknowledgment on the same please
+- Where i have to upload my Joining Docket form?
+- Shall I sign in the joining docket and send it you back?
+- Will there be another interview round taken after joining?
+- I uploaded, but still getting calls
+- okay before onbording i will get a mail regarding user name password
+- Request, please settle down my concern, its been more than a week.
+- Please, entertain my concern asap
+- Yes..I have uploaded..but still if any pendency is there..kindly let me.know
+- How can i change my password to login to my portal
+- Is this direct roll with hcl technologies?
+- I have got mail today stating that to check if i have  any pending details regarding your onboarding. is there anything pending from side
+- How to complete the signing the duplicate copy?
+- Till when my request will be fulfilled?
+- I have received e-mail mentioning that I have been selected for the position of consultant, whereas as per earlier communication, the position to be offered to me is Senior manager - program manager.
+- On my Gmail ID I will get the information
+- Help
+- please give the clarity i am in confussing.
+- its very urgent
+- You are answering wrong, I do not have questions for salary
+- Please do it early
+- This tool is of 0 use.
+- I want
+- Please
+- Not clear
+- Too late
+- previous
+- waiting soon
+- Why are there false promises made by Hyreo Team?
+- I hope so
+- Pre joining
+- Can I
+- Bhupp
+- Bhuppp
+- This tool is of no use.
+- Very Bad Experience
+- more details
+
+
+
+
+## intent:performance_evaluation
+- how will my performance be evaluated?
+- how will performance be evaluated?
+- what are the parameters to evaluate performance?
+- on what parameters will my performance be evaluated?
+- what is the process for evaluating performance?
+- what is the yardstick for measuring performance?
+- how is performance measured?
+- how will i be assessed?
+- how will my performance be assessed?
+- how is performance assessed?
+- how is assessment carried out?
+- how will assessment be done for performance?
+- how will evaluation be done for performance?
+- tell me how is performance assessed?
+- tell me how performance is evaluated?
+- what factors are checked during performance evaluation?
+- what factors affect performance evaluation?
+- give me an idea bout performance evaluation?
+- what goes into evaluating my performance?
+- How are my performances evaluated
+- how is my work evaluated
+- Do they evaluate my job performance?
+- What is performance evaluation?
+- How do they measure my performance?
+- Is there any minimum mark or point that I should reach for good results?
+- Can I know about my performance graph?
+- On what basis is the performance evaluation conducted?
+- On what basis is the assessment conducted?
+- On what basis is the performance rating given?
+- Do i get appraisals based on performance?
+- What appraisals are provided?
+- Who does the performance evaluation?
+- What do they mean by performance evaluation?
+- How often do they evaluate?
+- When does the assessment take place?
+- What is the basic requirement for getting an appraisal?
+- What happens during performance analysis?
+- How do they analyze employees?
+- How are workers analyzed?
+- How are workers evaluated?
+- Is there any ranking system followed in the company?
+- How will i know about my ranking?
+- Will i get a better payscale based on the assessment?
+- Is performance evaluation and salary linked?
+- Does bad performance affect my salary?
+- Will my career get affected due to low results in performance evaluation?
+- How is performance analysis beneficial for me?
+- How will be performance evaluated
+- As I will be joining in Oct 31, what will be my appraisal cycle?
+- What is the performance appraisal cycle at HCL?
+
+## intent:relocation_expenses
+- will the company foot the bill for relocation?
+- will the company pay for relocation expenses?
+- Are there any documentation needed to apply for relocation?
+- will hcl undertake to pay relocation expenses?
+- will i have to pay for relocation?
+- do you provide for relocation expenses?
+- what about relocation expenses?
+- do i have to spend for relocation expenses?
+- will the company cover cost of relocation?
+- can i claim reimbursement for relocation expenses?
+- how about relocation expenses?
+- will the company book travel and accommodation for relocation?
+- will you take care of relocating expenses?
+- who takes care of relocation expenses?
+- how should i file claim for relocation expenses?
+- where should i file relocation expenses?
+- will you compensate for relocation expenses?
+- will I get reimbursement for my relocation
+- will I be covered my expenses since I'm moving from Kochi to here
+- does the company provides relocation expenses?
+- I need relocation. Do i need to pay?
+- Will the company take my relocation expenses?
+- Is relocating costly?
+- Will i have a pay cut if i relocate?
+- Will i have a pay cut if i change the workspace?
+- Can i request the company to take my relocation expenses?
+- Will the company reimburse the relocation expenses if i take for the time being?
+- How much is the relocation expense?
+- What does a relocation cost?
+- Will relocation expenses cover my accommodation expenses too?
+- will the company reimburses for shifting?
+- will you reimburse for relocation
+- can I reimburse for the expenses after I have moved to here?
+- what if i need to relocate
+- Is there any relocation support?
+- what is the company policy on relocation?
+- policy for relocation?
+- I am not getting any accommodation near office. I need relocation assistance.
+- i am currently based out in Mumbai and I need help in relocation to Banglore. Can you share more info about that?
+- but as per my job offer the location is mentioned as Banglore. So i am eligible for relocation
+- what are the relocation policies?
+- relocation policy
+- relocation policies
+- Am I eligible for relocation expenses
+- I want to know more about relocation support
+- will you help me relocate?
+- Relocation expenses
+- I want to know about company's relocation Support
+- relocation expenses
+- Will I get help from hcl to relocate
+- Book the ticket for physical onboarding
+- can you please book a ticket for me
+- book a flight ticket
+- book a train ticket
+- are you goining to book my tickets
+- will you pay for my travel
+
+## intent:recruiter_has_not_responded_yet
+- I called the recruiter twice. But no response
+- oh ok i did not get any response from the recruiter related to any interview what should id o?
+- hey, i have not heard from the recruiter
+- the recruiter has not replied
+- Still i didn't get any call from my Manager to joining
+- yes but there is no reply for rec- side
+- the recruiter has not responded
+- the HR personnel is not replying
+- the HR personnel is not responding
+- the HR personnel has not responded
+- the team is not getting back to me
+- I have been waiting since two weeks for the call from BGV team and from HR. But there is no response to emails and calls
+- I already shared but no response yet since
+- I don't know why i have not heard from the team
+- why has the recruiter not got in touch with me
+- how long should i wait for the recruiter to contact me
+- the recruiter was supposed to reach out to me
+- i have not received any communication from the HR team
+- I have not been reached out by the recruiter
+- I'm yet to hear from the recruiter
+- when will i hear from the recruiter?
+- when will the recruiter reach out to me?
+- the recruiter has not yet responded to my query
+- I have not heard back from the recruiter yet
+- the recruiter has not contacted me yet
+- recruiter has not got in touch with me
+- i'm waiting to hear from the recruiter
+- I'm waiting for a call from the recruiter
+- recruiter has not contacted me
+- the recruiter has not replied to my question
+- i have been waiting to hear from the recruiter
+- the recruiter has not sent me notification
+- I have not got information from the recruiter
+- the recruiter has not sent me an email
+- the recruiter has not sent me a letter
+- there has been no response from the recruiter
+- the recruiter has not communicated with me
+- the recruiter has not mailed me
+- the recruiter has not called me
+- I didn't get a callback from the recruiter . I have waited for 2 days as you have said. What am I supposed to do.
+- Ok then. I have been trying to call the recruiter for a week . But didn't responds to my calls
+- Ok then. I have been trying to call the recruiter for a week . But didn't respond
+- I tried to call the recruiter for some queries. But he didn't attend or respond to my calls
+- Ok.... I tried calling the recruiter a lot of times. But didn't respond. I have to speak with him/her directly
+- I have been calling the recruiter for a week . Still trying. Couldn't connect. What will I do
+- I waited 48 hours to get a call back from the recruiter. And I'm still waiting.
+- How can I talk to the recruiter. He is not responding to my call
+- You already allotted a 48 hours last time. Now again?
+- Why the recruiter didn't contact me yet
+- recruiter has not responded to me yet
+- why have not they responded yet
+- still not responded yet
+- I have been waiting for 5 days
+- recruiter has not responded yet
+- Recruiter has still not responded
+- Recruiter has not responded yet
+- Its been 5 days still he has not responded
+- the recruiter has not responded yet
+- The recruiter has not responded to me yet?
+- the recruiter has not responded to my previous query
+- No one contacted me for onboarding
+- By when i can expect someone to contact me
+- My documents are pending for recruiter's action for long time. How long it will take?
+- Even after sharing counter offer and all documents no any response from recruiter after 2 weeks
+- Recruitment is very slow and not proper
+- no response form recruiter
+- I raised so many quires
+- im willing join but ur side not updates for me
+- When will I hear from you??
+- I fill this form many times but no one call me
+- When i will get the reply
+- Nobody is responding properly from HCL HR Team
+- hr not picking my call and hr not given any conformation mail also.
+- Today also i tried many times to call
+- I am waiting for the recruiter's call as so many days have passed and I am unable to take any decision. It's a serious concern
+- When will I get some clarification on my concerns
+- If i ask u for the recruiter callback i will never get a call from them thank you
+- No call back from recruiter for compensation
+- Actually I raised query for call back from recruiter or hiring manager or HR , as i will be release early from my current company and wants to join early to HCL . I am waiting for call asap
+- but still now I not get any call back from recruiter why?
+- Team I have raised so many intervention here but no one has called me regarding those issues my DOJ is already passed but still I am not yet onboarded I dont know what exactly happening in my onboarding I already left my past job right know I am jobless because of the issue form your end I am the one suffering on this please kindly help me out of these issues kindly onboard me asap.
+- I have sent couple of emails to the HR to discuss on offer letter an fix joining portal issue but not get any call/ reply yet.
+- It's more than a month , I have been following up from 8th sep but no.response
+- Please response me in 24 hours
+- I didn't receive the acknowledgement email from Recuture
+- Till now no one call me...
+- Old query still open
+- when can we expect reply from HR
+- Why does HCL HR is less communicative & unresponsive,?
+- i didn't get call from your team during my last address varification (i.e. 1st-Sept-2015 to 30-Nov-2018)
+- How much time recuiter wil contact me
+- My hiring manager is sumita pundir I drop my query to her but she is not respond still can you please get the hr details means contact number
+- My hiring manager is sumita pundir I drop my query to her but she is not respond still can you please suggest who is the next point of contact.
+- I tried multiple request for a call back over email and here at hyro but not recieved a call any reason ?
+- recruiter_has_not_responded_yet
+- he didn't called me
+- I have raised the request multiple times but i haven't received any update yet
+- Can I expect call as soon as possible
+- pervious query pending , not yet addressed
+- as per date of joining 24th Nov 2022, but still no update from HR
+- when can i expect the call back from the concer team
+- I am not getting any help. I request you to please reach out to me
+- no one calling
+- No one responding?
+- Come on you have been telling this since 7th date and no one has contacted
+- she did n't replay any thing
+- I have not receive any updates
+- when its been 15 days whn will i get update
+- no one is contacting
+- Still no one was not reaching me on this issue
+- I didn't get call or mail from recruiter or any team member till date so i am not planing to move there and i have no stay plan at there and till date i have not booked ticket so Pls support for the same and Kindly confirm me if any pendency from side and what about my bgv status.
+- This has been more than a week and I haven't been contacted by anyone from HCL and I am worried now, as they are just playing with my career.
+- Please respond others time also. Because I HR realy make me worst on this. My joining date is 27th but till now he didn't called me. I received call from BGV team and requested her to make a call me back from Asish HR and then he called and saying wait for other 3 days to get approval. How it happens
+
+
+
+
+## intent:give_reason
+- I'm worried about my child
+- nothing important just some other stuffs
+- Chennai
+- Mumbai
+- Delhi
+- Bangalore
+- Hyderabad
+- Ahmedabad
+- Kolkata
+- Surat
+- Pune
+- Jaipur
+- Lucknow
+- Kanpur
+- Nagpur
+- Indore
+- Thane
+- Bhopal
+- Visakhapatnam
+- Benguluru
+
+## intent:withdraw_application
+- I want to withdraw my application
+- Hi. I'd like to withdraw my application
+- I want to withdraw my application.
+- Decline offer
+- I want to exit the hiring process
+- how can I withdraw from being considered?
+- how to exit the hiring process?
+- please withdraw my application
+- how can i withdraw my application for the job?
+- i don't want to continue the hiring process
+- I wish to be removed from the hiring process.
+- I don't wish to continue pursuing this job
+- please withdraw my candidacy
+- I wish to take back my application
+- I dont want this job any more. how can i withdraw?
+- I changed my mind about the job. I want to withdraw my application
+- can you tell me how to go about withdrawing my application?
+- who should i inform about withdrawing my application?
+- who should i talk to about exiting the hiring process?
+- withdraw application
+- withdrawn the candidature
+- regarding my application withdrawal
+- I want to leave HCL
+- I want to leave HCL
+- My reason of withdrawn is that, after all communication, your response to offer letter was too late, in the meantime joined another organization.
+- I have explained the situation for my withdrawal
+- Thanks for giving me the wonderful opportunity and it was my long time aim to work with your organization but few reasons not able to join it will be affected to join in future but
+- I have withdrawn my application because of appointment letter is given late, in the meantime I got another offer
+- Got another offer hence declined offer
+- due to personal reason i am not going to work for few more months
+- I am not going to work for few more months
+- Decilin offer
+- Cancel offer
+- HCL HR delayed in responding and they not released offer on time that is the reason I i joined other company
+- Thanks for giving me the offer to join the HCL Company, I regret to inform you that my current company is not accepting my resignation but tried to convince them but they are not ready to relieve me. It's very hard to say that I am unable to join the HCL Company currently. I hope you will understand my situation and in future I will be a part of your organization.
+
+
+
+
+## intent:training_induction
+- how long induction will happen
+- Induction location
+- What happens during the induction program?
+- What will be my pay during induction program?
+- Is it compulsory to attend the training program?
+- Will there be any training or induction programme?
+- How long will the programme be?
+- where will be the training
+- when is the training
+- how will be the training
+- Not email regarding the Induction
+- I have not received email regarding my Induction
+- will there be training induction?
+- what will be the training programme be like
+- where will be my training
+- how will be the induction program
+- Where will it be conducted?
+- can we complete inducation in noida
+- when is my training
+- how will be my training
+- what will be my training programme be like
+- when will be the induction program
+- where will be my induction going to be conducted
+- will there be any induction program?
+- will the company provide any induction or training program after joining?
+- Will there be any training?
+- training program
+- what is the training program like?
+- will there be an induction program?
+- any induction program?
+- any training / induction?
+- can i expect any training to be given
+- can i expect an induction program
+- when will the training be conducted
+- when will the induction be conducted?
+- will the company provide any training?
+- will the company arrange for an induction
+- what about training?
+- what about induction?
+- how about training program?
+- how long will the training be?
+- how many weeks will the training be for?
+- what can i expect in the training
+- what can i expect in the induction
+- what will be covered in the training/ induction
+- will there be an orientation programme for me
+- will there be a training programme
+- want to know about company conducted training program
+- When will that arboretum session be?
+- When is my Arboretum session scheduled?
+- Will induction occur remotely from home or at office
+- induction is virtual and how many day's it will
+- Do i get any link for virtual induction
+- When will I get to know about my induction day process, will it be online or do i need to visit office campus?
+- Today is my joining and I am remotely joining but i haven't recieved induction link
+- Where indection going to happen. Please share the location
+
+
+## intent:user_query
+- can you help me with something?
+- hi, I have a question
+- I have a query
+- can you answer my question?
+- can I ask you something?
+- will you answer my query?
+- can you clarify something for me?
+- can you answer my doubt?
+- can you clarify my doubt.
+- I want to ask you something
+- I have a quick question
+- will you respond to a question?
+- can I ask yo ua question?
+- may I speak with you?
+- May I ask you a question?
+- may I post a query to you?
+- may I ask you a question?
+- please can I ask you a question?
+- please answer my question
+- please answer my question for me
+- can you help me
+- There is one more thing that i want to know
+- Can I ask one more thing?
+- One more query is there
+- Another thing
+- Can i ask another question
+- There are some other things that i need to know
+- I want to know one more thing
+- Need to know some thing extra
+- I need some extra details
+- Can i get some more information?
+- Need to talk about something else too
+- Can i get detailed information on certain things?
+- I have another inquiry
+- Can i ask one more enquiry?
+- Please help me
+- need help
+- need help
+- Is no one help
+
+
+## intent:what
+- when can I expect it
+- Can u confirm the same
+- what?
+- what
+- what do you mean
+- what does that mean
+- what is that
+- What are you saying
+- what did you mean
+- what are you trying to say
+- what does this mean
+- what is the meaning
+- what is the meaning of this
+- what are you implying
+- what did you say
+- what will that mean
+- what is my take away
+- what should I make of this
+- what can you possibly mean
+- what are you trying to imply
+- what do you want to say
+- what is the meaning of that
+- what about certificates for processing?
+- what about passport?
+- Tx man
+- to which email i will recieve it
+- When i will receive
+- intetvention
+- intervention
+- Mobile expense
+- reimbursement
+- mobile
+- allowances
+- allowance
+- Mail received
+- Congratulations on your final selection for the position of 749797BR - Consultant with HCL Technologies.
+- mobile number
+- query
+- Accessories?
+- ?
+- associate consultant
+- 749797BR
+- live ageent
+- live agent
+- End
+- Name
+- nagesh.sam45@gmail.com
+- FAQ
+- Who can confirm
+- Can you check and confirm back?
+- Can you send me the mail regarding the same
+- I have an offer
+- when
+- What is my name?
+- Why this message i saw in email
+- When it will be
+
+## intent:what_if
+- parenting workshops
+- Joining docket
+- just want to know about my team size
+- what if I need
+- what if I want
+- what if it should be
+- what if i am asked
+- what if you say
+- what if you ask
+- what if they ask
+- what if they need
+- what if i want to know
+- what if i don't get
+- what if i get
+- what if it is
+- what if it is not
+- what if results are delayed
+- what if interview gets postponed
+- what if interview gets preponed
+- what if i have to travel
+- what if i can't make to the medical exam
+- what if i am unable to attend
+- what if i miss the interview
+- what if i don't clear the final interview
+- what if i clear the second interview
+- what if i have not received my marksheet yet
+- what if i forget to bring photos
+- what if i forget to bring photocopies
+- what if i cannot sign a bond
+- what if i want to refer a friend
+- what if i am not ok with this
+- what if i need to reschedule
+- what if i cannot travel much
+- what if I have
+- what if i need to have
+- What if I dont hear by that time?
+- Please, settle down my existing concerns asap
+- My query is not being responded properly by the bot. Please note my offer letter is stopped by the HR
+- when will the office be reopened
+- How to refer a candidate in HCL?
+- I would like to speak with any of my new team mate
+- When will office reopen
+- When is work from office expected to resume
+- You answerd irrelavent answer
+- from where i can download the joining docket
+- Need assistance in transfer of PF
+- Which is joining kit?
+
+## intent:out_of_scope
+- are you horny?
+- why are you angry?
+- you are really dumb
+- I want coffee
+- why so serious?
+- Hi this is Benz franco how can I help you?
+- are you turned on?
+- How can I turn you on?
+- why don't you understand?
+- ????
+- gasdiugiksdvhkzk
+- hmmmmmmmmmmmmmmmmmmmmmmm
+- fasf fasdf
+- fasdf fsadffvfas
+- clear my records
+- fjgshfdhaoip jjdjso
+- asfdf
+- dsaebgerbh
+- fgdfsfjk jdjs
+- clearr
+
+## intent:enter_data
+- How about the [1/2/20](date)
+- [26/01/2020](date)
+- [20/01/2020](date)
+- [25/12/2019](date)
+- I am free on next saturday
+- ok fine how about 31/01/2019?
+- how about on [31/12/2019](date)
+- I am free on [25/12/2019](date)
+- I am free on [01/01/2020](date)
+- that will be [02/01/2020](date)
+- [03/01/2020](date) is day I'm free
+- I'm free on [04/01/2020](date)
+- this [05/01/2020](date) works for me
+- I like to have my interview on [06/01/2020](date)
+- [07/01/2020](date)
+- [08/01/2020](date)
+- [09/01/2020](date)
+- [10/01/2020](date)
+- [11/01/2020](date)
+- [12/01/2020](date)
+- [13/01/2020](date)
+- [14/01/2020](date)
+- [15/01/2020](date)
+- [16/01/2020](date)
+- [17/01/2020](date)
+- [18/01/2020](date)
+- [19/01/2020](date)
+- [21/01/2020](date)
+- [22/01/2020](date)
+- [23/01/2020](date)
+- [24/01/2020](date)
+- [25/01/2020](date)
+- [27/01/2020](date)
+- [28/01/2020](date)
+- [29/01/2020](date)
+- is it okay on [30/01/2020](date)
+- February second
+- [31/01/2020](date)
+- [01/02/2020](date)
+- [02/02/2020](date)
+- [03/02/2020](date)
+- [04/02/2020](date)
+- [05/02/2020](date)
+- [06/02/2020](date)
+- [07/02/2020](date)
+- [08/02/2020](date)
+- [09/02/2020](date)
+- [10/02/2020](date)
+- [11/02/2020](date)
+- [12/02/2020](date)
+- How about on [13/02/2020](date)
+- how about on [31-12-2019](date)
+- I am free on [25-12-2019](date)
+- I am free on [01-01-2020](date)
+- that will be [02-01-2020](date)
+- [03-01-2020](date) is day I'm free
+- I'm free on [04-01-2020](date)
+- this [05-01-2020](date) works for me
+- I like to have my interview on [06-01-2020](date)
+- [07-01-2020](date)
+- [08-01-2020](date)
+- [09-01-2020](date)
+- [10-01-2020](date)
+- [11-01-2020](date)
+- [12-01-2020](date)
+- [13-01-2020](date)
+- [14-01-2020](date)
+- [15-01-2020](date)
+- [16-01-2020](date)
+- [17-01-2020](date)
+- [18-01-2020](date)
+- [19-01-2020](date)
+- [20-01-2020](date)
+- [21-01-2020](date)
+- [22-01-2020](date)
+- [23-01-2020](date)
+- [24-01-2020](date)
+- [25-01-2020](date)
+- [26-01-2020](date)
+- [27-01-2020](date)
+- [28-01-2020](date)
+- [29-01-2020](date)
+- is it okay on [30-01-2020](date)
+- [31-01-2020](date)
+- [01-02-2020](date)
+- [02-02-2020](date)
+- [03-02-2020](date)
+- [04-02-2020](date)
+- [05-02-2020](date)
+- [06-02-2020](date)
+- [07-02-2020](date)
+- [08-02-2020](date)
+- [09-02-2020](date)
+- [10-02-2020](date)
+- [11-02-2020](date)
+- [12-02-2020](date)
+- How about on [13-02-2020](date)
+- [3/1/2020](date)
+- [7/1/20](date)
+- ok how about this 12th
+- [8/1/2020](date)
+- [10/1/20](date)
+- It was scheduled on [9/1/20](date)
+- let me check my calender.I see I'm free on [11/1/20](date)
+- The interview has been scheduled for this [7/1/20](date)
+- I have my interview scheduled on [8/1/20](date)
+- How about on [10/1/20](date)
+- how about this [10/1/20](date)
+- I am free on [10/01/20](date)
+- it was scheduled on [20/03/2020](date)
+- [10/03/2020](date)
+- [12/03/2020](date)
+- [16/12/2020](date)
+- [31/01/2021](date)
+- [01/02/2021](date)
+- [02/02/2021](date)
+- [03/02/2021](date)
+- [04/02/2021](date)
+- [05/02/2021](date)
+- [06/02/2022](date)
+- [07/02/2022](date)
+- [08/02/2022](date)
+- [09/02/2022](date)
+- [10/02/2022](date)
+- [11/02/2022](date)
+- [12/02/2022](date)
+- [02/02/2023](date)
+- [03/02/2023](date)
+- [04/02/2023](date)
+- [05/02/2023](date)
+- [06/02/2024](date)
+- [03/02/2024](date)
+- [04/02/2024](date)
+- [05/02/2024](date)
+- [06/02/2025](date)
+- [03/02/2025](date)
+- [04/02/2025](date)
+- [05/02/2025](date)
+- 20 Feb 2021
+- [20/02/2021](date)
+
+## intent:recruiter_details
+- I want to know my recruiter details to convey information with him
+- Do you know who is my hiring manager?
+- can you give me the recruiter's phone number?
+- where can i find their phone number
+- what is their email id?
+- Who is my HR and who is project manger and who is report manager
+- do you have an email id i can write to them at
+- How can I connect him? I don't have any details
+- Who is heading the recruitment team?
+- Who will be my interviewer
+- I want recruiter's email id
+- I want recruiter's phone no
+- his email id
+- his phone number
+- Can I get hr number
+- I want recruiter call back number or email now ?
+- Yes but contact person details are missing
+- Need contact person details
+- Please share contact details of the person who will escort me inside the building for joining
+- her email id
+- her phone number
+- recruiter contact details
+- his contact details
+- her contact details
+- how can i communicate with them?
+- how can i communicate with him?
+- how can i communicate with her?
+- how to reach the recruiter?
+- how can i reach out
+- how can i contact the recruiter?
+- means of communication
+- can I get the recruiter details
+- How can I contact recruiter
+- I want recruiter's details
+- I want recruiter's id
+- Can you pass the contact details of recruiter in charge?
+- Can you pass the contact details of recruiter in charge
+- Yes. I would like to call the recruiter. But unfortunately i don't have any details. Can you help me with that
+- Ok then give me the recruiter details
+- i need recruiter's email id
+- okay, how can i contact the recruiter?
+- recruiter details
+- can you at least share his id
+- who is my recruiter
+- To whom should i connect to discuss on offer
+- how can i contact the hr
+- ow can i contact the h
+- i need cntact details of recruiter
+- Name of my hiring manager
+- Who is my Pre-Onboarding SPOC ?
+- Could you please provide me the details of my Pre-Onboarding SPOC ?
+- how can i reach out to the recruiter?
+- can you give me the supervisor's number or email id?
+- can you give me the manager's contact details?
+- Can you give me the contact detail of corresponding recruiter
+- i said i do not have the number of the recruiter
+- need to talk to shashank bhargav i have lost his mobile number
+- Pleas share the joining location and contact person name and phone number.
+- Pleas share the joining location and contact person name and phone number.
+- I need the phone number of my hiring manager
+- contact person
+- Can you share me recruiter contact Number?
+- Please let me know requiter contact details and need to speak immediately
+- in bangalore whom to contact
+- Relocate team contact details ?
+- I need contact details of relocate team
+- Can I have hiring manager contact number. Because I thought of clarifying my queries before accepting offer letter..
+- Do we have any direct number to contact the Project manager of the project where I have been hired for ?
+- my recruiter
+- I need a contact of person who could help me in hiring process
+- I need a contact number of person who could help me in hiring process
+- Can I have contact number for Ashis?
+- How can I rech out to Ashish?
+- Give onboarding hr's numbers and mail ids
+- Pls share my contact to relocate team for joining
+- My date of joining 15 November I have received email from I onboard Team to get touch with my recruiter but I don't have any contact details
+- Who is my RM
+- Point of contact in HCL Bangalore
+- Give me a contact of person who could help me in hiring process
+- Is any contact no. So i can call to HR
+- plz give appropite numbers to new joiners
+- Please give me contact no.
+- Help me with any support phone number
+
+
+
+
+
+
+## intent:recruiter_reach_out
+- How will i be informed about the interview
+- how will they inform me?
+- how will the recruiter reach out?
+- how will the recruiter connect with me?
+- will the recruiter call me?
+- will the recruiter connect with me on the phone?
+- will the recruiter call me on my phone?
+- will the recruiter connect with me via phone call?
+- should I expect the recruiter to call me?
+- should i expect a phone call from the recruiter?
+- will the recruiter send me an email?
+- should i expect an email from the recruiter?
+- should i expect the recruiter to email me?
+- will the recruiter call me or email me?
+- how will the recruiter choose to raech me?
+- what are the ways for the recruiter to contact me?
+- how will the recruiter contact me?
+- by what means will the recruiter contact me?
+- what are the communication channels the recruiter will use?
+- by what method will the recruiter get in touch with me?
+- what should i expect from the recruiter?
+- will the recruiter directly call me or email me?
+- will it be a telephonic call or an email?
+- can i expect a telephonic call from the recruiter?
+- can i expect the recruiter to call me?
+- should i expect the recruiter to call me?
+- Ok when will I expect the callback
+- How will the recruiter reach me?
+- How will the recruiter contact me
+- how will the recruiter reach me
+- how will the recruiter reach me?
+- how will the recruiter reach out to me
+- how will the recruiter contact me
+- No, i thought he will contact me
+- No issues will clarify with poc person assigned
+- Not able to attend interview on given date
+- Not available for interview on the proposed date
+- i need an email for the recruiter
+- i need an email of the recruiter
+- I will contact with the recruiter directly
+- I want to know how he is going to contact me
+- Is there any contact number where I can call and clarify any doubt when and where will be my joining location
+
+## intent:salary_policy
+- Compensation
+- may I know the package offering for me?
+- package?
+- package...?
+- compansation structure
+- compansation structure
+- compansation lettee
+- Travel plan
+- Need more clarity on flexi basket
+- Need some more clarity on the term flexi basket
+- Flexi basket
+- Variable amount
+- How dies flexible basket works
+- How does flexible basket work
+- What is travel plan in Hcl
+- Travel plan in offer letter, what is it?
+- What is travel plan in offer letter?
+- What will be my take home salary?
+- How much will I get paid?
+- What is my salary going to be?
+- Will bonus be calculated quarterly or annually?
+- What are the details of the incentive program?
+- What are my benefits?
+- What will be my pay
+- What is the pay scale like?
+- How much would be my take home after all deductions?
+- What is the salary package?
+- What is the basic salary offered?
+- what is the annual salary
+- what will be the payscale
+- what is the average salary offered
+- expected salary
+- offered salary
+- offered package
+- salary package
+- payscale
+- how to know my salary policies
+- What is the salary structure for the role?
+- what are the salary policies
+- what are my salary policies?
+- what are the salary policies?
+- what will be my salary
+- How does the incentive program work?
+- How is bonus calculated?
+- What are the other perks and benefits?
+- What will be my salary package?
+- What would be my salary?
+- How much will my take home be?
+- Hi, can you tell me what is my salary package?
+- Typically, what salary figure would be my role draw per annum?
+- What will be my remuneration?
+- can you please give some information regarding the rewards and allowances provided by the company?
+- Typically, what salary figure would my role draw per annum?
+- I have not heard about my salary package
+- what about salary policies?
+- I want to know more about the company's salary
+- Its regarding my CTC
+- I want to know about my ctc
+- my ctc details
+- my compensation details
+- when will i get my hike
+- when will I get hike
+- when can i get salary hike?
+- Need clarification on my salary breakups and take home
+- as per my joining date, am i eligible for next year appraisal cycle
+- what is the appraisail cycle in HCL
+- Only CTC concern
+- My Payroll with direct HCL Right?
+- My selection with HCL direct payroll?
+- The offer breakup f
+- When does salary gets credited every month
+- salary credit date
+- I want clarity on pay out option which is mentioned in offer letter
+- Payout
+- Need to know the monthly take hom
+- Need to know monthly take home amount if I am not providing any bills
+- Payout in offer letter
+- What is the salary of this job
+- In how many days they will increment the salary for freshers
+- May ai know the salary package ? In hand salary and ctc
+- I want to talk to HR regarding salary
+- salary structure
+- Will my salary will be counted from my date of joining ?
+- What is TP3?
+- TP3
+- Travel plan
+- I need reimbursement
+- Travel expenses
+- What is the meaning of white hours allowance
+- What is bright hours allowance
+- Can you explain the compensation letter for me
+- Want to know my take home salary
+- AMPB
+- have doubt on my offer letter
+- Advance monthly performance bonus
+- Is Advance monthly performance bonus is recoverable ?
+- Where I can declare the IT Declaration
+- Where I can declare the Income Tax savings
+- travel plan
+- TP1
+- what is bright hour
+- Broadband expense
+- I need to talk regarding EPFO
+- Over & above the salary, what all other benefits do il
+- Over & above the salary, what other benefits do you provide
+- I didn't receive service agreement till now. my joining was at 6th january, when i would upload my service agreement in the online portal
+- Need clarification on break up
+- There are 2 bonus components mentioned on my offer letter - Advance Monthly Performance Bonus(AMPB) and Engagement PB @ 100% achievement levels (paid monthly).
+- Shift allowance - Please explain the policy regarding the shift allowance
+- Shift allowance
+- Need to understand salary Break up, few components are not understandable
+- What is notice period buy out
+- Notice period buyout
+- shift allowence
+- Service agreement
+- what is Advance Monthly Performance Bonus(AMPB)
+- Do I get Advance Monthly Performance Bonus(AMPB) amount every month?
+- there are flexible components in my offer letter. How does that work?
+- Term policy
+- Need clearance on in hand salary
+- were can i find the compensation details in offer letter
+- what is service aggrement
+- I have few queries abt my salary detail
+
+
+
+
+## intent:hcl_CEO
+- who is your CEO
+- who is the CEO of hcl
+- Who is the CEO of hcl?
+- where can i find your CEO details
+- what is name of your CEO
+- who is your Chief Executive officer
+- CEO
+- Who is heading of your company
+- Who will be my future CEO
+- I want CEO's details
+- I want to know more about your company md
+- cheif executive officer
+- CEO name
+- Can you let me know the details of the CEO
+- Can you atleast share me CEO details?
+- who is managing your whole company
+- who is the person responsible for whole this
+- hcl CEO
+- hcl chief
+- hcl Chief Executive
+- hcl Ceo
+- hcl ceo
+- who is ceo of hcl?
+- ceo
+- who is the Chief executive officer of the company?
+- president name
+
+## intent:social_pages
+- do you have presence in social media?
+- what is your twitter handle?
+- can i find you on facebook?
+- are you there on instagram?
+- do you have presence in linked in?
+- are you there on linked in?
+- are you there on facebook?
+- what social media are you present on?
+- what are your social media accounts?
+- can i follow your social media handles?
+- do your social media accounts have the latest updates?
+- where can i follow your news
+- where can i find the latest happenings with you
+- are you there on twitter?
+- are you in any social networking site
+- can I see your social pages
+- are you in fb
+- social pages
+- what are your company websites
+- can you share me your company websites
+- Pls share more details of the social pages/website/other sites
+
+## intent:physical_virtual_onboarding
+- how will my joining done
+- how is onboarding done
+- onboarding process
+- The Joining will be online or offline
+- can i join the company virtually
+- Do I need to come to office for onboarding
+- Onboarding mode?
+- Can I choose between virtual and physical onboarding
+- Can I switch to virtual onboarding
+- Will u guys support virtual onboarding
+- Can I on board virtually
+- Online onboarding? Is it possible?
+- Will u permit new joiners to onboard from home
+- Can I join for job from home
+- Is it ok to join for the job from home
+- It would be nice if I could get a physical onboarding
+- Can I have my first day at office
+- joining mode
+- is it possible to have virtual joining
+- onboard in person
+- face to face onboarding please
+- how do you manage virtual onboarding
+- how will i know about the virtual joining
+- I would like to come to office on first day
+- Can u have a physical onboarding
+- do you support virtual onboarding
+- How do I join?
+- Onboarding details
+- How do I join
+- Can you please confirm joining will be remote or physical attendance
+- Can I know about my onboarding process
+- How is onboarding done right now
+- Need to know when the pre on-board process start and when I will get system
+- When the pre on boarding process and system requirements
+- By when will the email for onboarding will be sent
+- Remote onboarding and laptop?
+- my joining location is Bangalore, should I come to office on joining date
+- to which office I need to come at the date of joining
+- Due to covid restrictions, currently I am doing work from home. So my joining formalities will be done remotely right?
+- Onbaording
+- Do I need to go to HCL office for joining
+- Please provide the onboarding process details for my joining HCL on 2021-10-04
+- For joining I need to come office??
+- do I need to physically visit HCL campus
+- Onboarding process details for my joining HCL on 2021-10-04
+- can i know when i have discussion with joining process
+- On my joining date where should I come
+- On mr joining date where should I need to come
+- Whom can I contact while joining day
+- what is the timimg for my joining on monday
+- At what time i will get the link
+- I didnt get joining link
+- when I will get online link
+- who'll be my point of contact on joining day
+- Please help me with the joining
+- joining will be online or in person
+- On first day of reporting do I have to visit office?
+- Who I need to connect now for day 1 work
+- My joining date is on 16th august. I havent received any update yet. I would like to know the timing and place for my first day of onboarding.
+- what is the procedure for joining on 22nd aug? should i need to come directly to office or is it work from home?
+- So do I need to go to office?
+- When shall I receive an email from on boarding team
+- Do i need to go office?
+- which time i have to report tomorrow morning?
+- Is it virtual onboarding? What are the required papers I need to collect from my current company?
+- I received email that my onboarding will be from office
+- I received call regarding physical onboarding.
+- I have received email for physical onboarding
+- when i will be receive the email from Remote Onboarding Process. and team
+- when i will be get the email from remote onboarding team
+- 27 sep is my joining date. Could please provide me the details which documents you needed and provide the organization adrees
+- Remote On- boarding
+- This means , I do not have to visit any of the HCL site on 6-Oct.
+- do i have to visit any HCL site
+- Can you please confirm joining will be remote or physical attendance required?
+- When can I expect my Onboarding process email?
+- when i can expect the onboarding mail?
+- When shall i recive an email on the Remote Onboarding Process?
+- Could you please tell me this joining will be remotely or Shall I need to go to the noida office?
+- My joining date in hcl is 21 sep but i didn't get any physical onboarding mail
+- Can I join on remotely?
+- The Joining will be online or offline
+- Day after tomorrow is my onboarding and I want virual onboard
+- I have requested for virtual onboarding please let me know on this
+- when will I get my details to whom and where to report for joining
+- Tomorrow I have an a onboarding section. I selected virtual joining option. But till now i didn't get invitation mail
+- I need contact person name with contact details whom I need to meet on my joining date 3rd Oct 2022
+- hi sir 23sep onwards my onbord but some issue was been please be help as ill be join as immediate for physical or virtual
+- Will it be online
+- Do I have to visit the office for my joining in this COVID situation?
+- Do I need to go to HCL office for on voting or will I get the laptop and other things to my residential address before joining
+- Due to the pandemic, it is not possible to attend in person-joining process
+- Is my joining online or not
+- on my joining date is online or offline
+- My joining date is jan4th ..so how should I connect that day
+- Joining formalists is in online or of
+- My joining date is tomorrow , so is it offline or online
+- my recruiter told me that my joining will be virtual.but i dont get any mail
+- i will be join on 30th sep? so whom should i contact?
+- this is regarding Onboarding process, is physical onboarding or Virtual onboarding for Chennai location ?
+- Can you please recheck I got a mail for physical on boarding....could you recheck and confirm
+- Actually I asked for remote onboarding due to my health issue.Is there any link or mail for joining,till now not yet received.
+- Today is my physical onbording?
+- 7.11.2022 can I come to directly to hcl campus, chennai
+- What is the reporting time and place of joining
+- Should I have to report to the Noida location or can I go to the nearest location for HCl to report on joining day .
+- No it's physical
+- If online joining is possible then I can join from 30 November. If physical Joining then I need some more time to relocation. Will I get any relocation allowance from the company.
+- I need to know the onboarding process and my work location
+- Where do I need to report in Noida
+- what if i join remotely
+- I had raise the request to remotely complete my joining formalities then whom should I contact
+
+
+
+## intent:onboarding_status
+- My application status says Withdrawn. Why is that? I am yet to receive updated offer
+- interview has held on may 18th, still now processing....
+- i dont see my offer status in portal
+- HCL Technologies - Know your onboarding status
+- When will I recieve? As my joining date is on 29th September 2021
+- Didn't received joining form yet when I will  receive
+- Current status
+- what is my current Status
+- HCL Technologies - Know your onboarding status
+- How many days prior to my joining date will i receive this email ?
+- Hiring status?
+- When application process will be done?
+- Application process
+- Please update my current status
+- today is my joining date and i have been waiting form the morning and i have not received any update regarding my onboarding
+- what is my status of my job proposal
+- I just want to know if all details are sufficed and the status
+- What is my hiring status ?
+- What is my hiring status?
+- What is my application's status?
+- What is the status of my application request?
+- What is the current state of my application?
+- What is the state of my application at the moment?
+- What is my current application status?
+- What is the state of my application at present?
+- What is the status of my application currently?
+- What is my application status at this time?
+- Which is the current state of my application?
+- What is the status of my candidature
+- i have attended the some interviews are completed. What next?
+- what is my candidature status
+- I have been waiting for my result of interview. Haven't get any call or mail regarding the same. What am I supposed to do? Should I wait more?
+- what is the status of my application?
+- what is the status of my candidature?
+- what is the status of my candidature of my interview?
+- What is the next stage of recruitment
+- What is my interview results? It's been 1 week. No feedback so far
+- candidate status
+- am I shortlisted
+- Please check i have applied for the KYC reivew process my job application and let me know if my profile will select or not.
+- I have applied for the job application of KYC review process. Kindly check and let me know the status
+- In what step of candidate selection I am in?
+- Am I selected
+- current status of the job?
+- i have applied for the KYC job. Can u tell me status
+- I would like to know about which stage of discussion my profile is shortlisted
+- At what stage is my candidature right now?
+- Am I selected for the above job?
+- For the profile of product control am I selected?
+- Wanted to know my candidature
+- what happened to my profile?
+- what happened to my application?
+- What is the current status
+- I had got update on email saying that my application was shortlisted
+- I got a mail of getting shortlisted for position
+- Application status
+- Am i not selected?
+- You was shortlist to this job i got email
+- I got a mail that my CV has been shortlisted for the following position with Societe Generale. Job title : 210001JD - Software engineer
+- My status
+- application status
+- what is my hiring status
+- what is my onboarding status
+- what is my status
+- hiring status
+- onboarding status
+- onboarding statua
+- please confirm my on boarding
+- Is my joining confirmed ?
+- how would i get onboard confirmation
+- Onboarding pending
+- Onboarding emails not received
+- Pending onboarding
+- When I ll get 100% process done
+- Please inform recruiter to send one details mail for further assistance what else pending and need to be carry on onboarding
+- I am hoping that I can be successfully onboarded
+- onboarding clearance and recruiter clearance is pending
+- I was informed that the on-boarding is going to happen on-line, however I haven't received any email with details on the on-boarding activity yet
+- What are the documents remaining to upload
+- On boarding Status
+- plz confirm me when is my onboarding
+- Hoping to get a positive response very soon
+- On boarding status
+- On-boarding status
+- may i the status of onbroading
+- may i know the status of onbroading
+- Am i officially appointed by the company ?
+- hi team I called to recruiter many times but his not responded could you please let me know what is the status of my onboarding
+- no update in onboarding portal
+- is there any update onboarding team
+- Why the process is slow,can i know.
+- why the formal process is happening slowly.
+- am kep asking about my onboarding but still i didnt get update i have been waiting from last 15 days
+- I could see company not interested in my profile in candidate zone so is my offer valid or not valid
+- Company is not interested in my profile I could see this in candidate zone so need a clarification on
+
+
+
+## intent:next_steps
+- What is the next step
+- I have signed joining documents but it's showing pending
+- I have uploaded all documents
+- Joining documents signed
+- Can you check that i completed all the submission of documents? Or if i need to submit any documents, please remind me
+- Confirmation mail not received post verification
+- yes my all previous organization documents i submitted to HR. and then i got offer letter also from hcl.
+- Recruiter Clearance
+- Con HCl portal the document verification is pending
+- Onboarding Clearance completd
+- Showing pending in my onboarding portal
+- Online onboarding documents i uploaded but ahowing pending why?
+- BGV step is completed ,its pending in onboarding step
+- Any documentation part, remaining from my end?
+- After BGV how much time will take in ounbording formalities
+- My company portal it showing my bgv verification completed..but till now i didn't get esign mail
+- how can I get the remote onboarding link
+- till the time I have not received any mail for remote onboarding link
+- I have uploaded all the documents in the portal
+- I have received the offer letter
+- Can you check my profile and let me know is they any pending forms of joining i have missed
+- Would like to know next process
+- What is the next steps
+- I need to know if anything needs to be done from end as of now
+- Still having doubts regarding why onboarding showing pending
+- Anything pending from my end before joining HCL?
+- I need to know if anything needs to be done from end as of now
+- what is required from my end after selection
+- What is the next process in my recruitment process?
+- Anything pending from my side
+- Anything pending from my end
+- when will i be notified on my work site?
+- is there any pending action to be taken from my side
+- is there any other pending action ?
+- O want to know how much time it will more take to complete status
+- As you are aware my joining date coming Monday I just got call from hiring dept 2 days back post no ine called me
+- my all the procedure and documents are completed for joining
+- Next step in my selection process
+- what are my next steps
+- when will application process start ?
+- How do i proceed further
+- how do i move forward
+- so what should i do after this stage
+- What is the next step in the recruiting process after my resume has been shortlisted?
+- I got notified that my resume has been shortlisted. What is the next step?
+- Hey there, I'm wondering if you could tell me what to expect after my resume has been shortlisted.
+- Typically what step follows the shortlisting of a resume?
+- What should i do next?
+- Fine. What are the next steps anyway? I'd like to be informed.
+- How many rounds of interviews will be there in all?
+- Great! Can you tell me the next steps?
+- what are the next steps?
+- tell me about the upcoming steps
+- what are the next steps i required?
+- what are the next steps i should take
+- what are the next procedures i should take?
+- what are the next procedures for next rounds?
+- Hi, I'm aware that my resume has been shortlisted. Could you tell me what is the next step?
+- Hello, please let me know the next step after being shortlisted.
+- Could you tell me what is the next step that I should expect?
+- what are the next steps involved
+- what are the next steps
+- i want to know what should I do after my CV is shortlisted
+- what are the next steps i should take?
+- what are my next steps?
+- can you tell me what are the next steps?
+- give me some brief idea about the further steps involved after the first round of interview?
+- what to do after the cv being short listed
+- so what will be the interview procedures?
+- ok now my cv is being shortlisted what should I expect next?
+- What are the proceeding steps that I should expect
+- what are the next steps I should expect?
+- How many  interviews will I have to go through before getting an offer
+- what are the further process involved?
+- what next for me?
+- what are the next steps after the interview?
+- Pending steps from my end
+- I have not received any communication after resume selection
+- When can I expect next level of communication
+- How can I be considered for next round
+- MyInterview has been completed
+- Interview has been completed from my side.
+- I haven't received any mails regarding orientation and pre-assessment session and test links
+- Further recruitment process after HR round
+- What would be the further recruitment process
+- I have been selected and sent the documents then what is the next
+- My interview is already done
+- I have already completed my interview and also have submitted my documents
+- I submitted all the documents
+- HR round done
+- I have received the offer letter. What will be the next steps?
+- I have received the offer. What should I do next
+- am I selected for the role?
+- Are we go through interview
+- i have received LOI only
+- Is any documents work pending from my side
+- I am done with the interview
+- please provide chat support for system configuration
+- My joining date is 03/01/2022 and I submitted all documents .
+- I've uploaded the documents on the iOnboard portal, in the onboarding documents and submit, but it says on pending for approval from recruiter.
+- Uploaded the documents, yet status is pending
+- Please let me know what is the next step
+- Yes what is the next step of onboarding after signing the documents
+- I have filled the joining form and uploaded BGV documents and filled witness form as well. Please let me know if any further action is required from my side?
+- I already uploaded my documents
+- Already uploaded
+- last work day evidence from my org system shared with Ms Krishna Priya
+- ok done all these
+- Is everything ok for my side
+- Yes, I have completed all the joining formalities
+- my recruiter confirmation is pending
+- I didn't receive any updates from ionboard portal
+- Is there anything remaining from my end for joining?
+- What is remaining from my end in documentation
+- Recruiter clearance is still pending on Portal. Would you please confirm when it will be clear?
+- Pending from recruiter clearance
+- How long will it take for the details to be updated?
+- Is there any details pending to be filled
+- Pending Details
+- e-sign verification completed, but haven't received confirmation email from HCL
+- Recruiter clearance for onboarding is pending in DiscoverHCL candidate portal
+- Is everything is ok for my side
+- I have already accepted the offer letter and filled the joining form last month
+- I have uploaded all the requested documents in Documents upload Link: https://wf6.myhcl.com/SmartVerifyRevamptpa/candidate/login.aspx
+- I have not recieved any email for onboarding
+- In onboard portal .,i uploaded document for onboard but still showing pending
+- i have uploaded all the documets
+- Are my onboarding details all updated? Anything required from my end?
+- Any pending details from my end?
+- Is anything pending on me for onboarding process?
+- Is any additional details required?
+- is there any more details required
+- have I provided all information
+- do need to give anymore information
+- is there anymore dat is required from my end
+- what else should I provide
+- do you want more information
+- is any more information needed
+- what else is required to process my application
+- what are the other information do I need to provide
+- what do you need else
+- Have I give sufficient data
+- what are the information that you need from me
+- I was asked to provide some information
+- Anything else i need to do after i submitted my documents and got my offer letter
+- Is there any formalities pending from my end before on boarding
+- I already sent all the documents
+- i already submitted the documents
+- i have already uploaded all documents
+- yes i saw my offer letter and accepted also, present i am in hyderabad.
+- Do we get any mail before date of joining
+- Still having doubts regarding why onboarding showing pending
+- Document verification is pending with recruiter, should i need to visit office
+- is there pending tasks to update in portal from myside
+- In Ionboard is my documents verification is completed?
+- I have already submitted the BGV documents
+- i have already uploaded the documents and still it has not completed 100% anything required from my end
+- still my document verfication is pending
+- i submitted my documents and waiting for Recruiter verification
+- is there pending tasks to update in portal from myside
+- I have got my appointment letter but the inquiring procedure is still going on am i officially appointed?
+- Please inform me if miss anything in onboarding process
+- I have to submit my resignation
+- i want to procced with hcl
+- my joining is on monday. what can i do with this pending
+- If any documents left please let me know
+- When does the onboarding clearence will be completed?
+- my onboard progress shows still 60% only completed may i know when will complete 100%
+- my onboard progress shows still 60% only
+- thanks i am worried about 40%
+- i have completed 60% i am worried about 40%
+- I m ready to join the hcl in joining date
+- No I m ready to join the hcl
+- Okay thanks, if anything is pending please let me know.
+- In iOnboard jurny when will complete re
+- The joining date have been extended to January. I have uploaded the extended letter on the portal. Is there anything else required?
+- Surely ,looking forward for update .
+- I want to join HCL by 1 Dec 2022 . Please process joining .
+- How much time to take for recruiter cleareance post onboarding documents uploaded
+- what now?
+- In discover portal it shows still 60%
+- please give the update soon
+- uploaded require documents in onboarding portal but verification not done by recuriter
+- I can see that my onboarding process showing incomplete so How much time it will take to gate recruiter clearance
+- I have uploaded all my documents I just want to confirm that there is something which is pending from my end and also to confirm me about joining so I can submit my resignation in my current compan
+- What else is needed from me for now ? I would like to complete that as soon as possible. I need someone to inform me about the same
+- Onboarding documents uploaded
+- thx team, i have got the call from my hr team and querry resolved.
+- When will complete reming process
+- When can i expect an update?
+- I need confirmation for joining to hcl
+- Hi team I am selected for the nov 29 but still know not on board my profile please full fill my request please help me team
+- I have already uploaded the screen shot on email
+- When can I expect the future process
+- already i have sent
+- when will complete the remaing process
+- I have already uploaded the BGV documents
+- Is there any pending document which i have to upload before joining
+- i have uploaded documents in candidate portal, still Recruiter was not verified.
+
+
+
+
+## intent:email_id
+- cool.what about company email id?
+- When will I get my company email ID?
+- What about company email id?
+- How quickly will I get my company mail id?
+- ok,what about my company mail id?I don't want to use my personal one here!!!
+- will I be given access to the office computers
+- When will I get my official email id
+- What about my email id?
+- When will the company provide me the official email id
+- when will I get my company email id
+- May i know when i will get my employee ID and S
+- Still i dint get user ID and password
+- Can you please provide my HCL employee ID
+- What is employee ID
+
+
+## intent:international_exposure
+- Will I get any onsite travel opportunities if i join the company?
+- Will i be able to go abroad from the company?
+- What are the different onsite opportunities given by the company for its employees
+- Will I get any travel opportunities on-site if I join the company?
+- Will I get some opportunities to travel on site if I join the company?
+- Will I be able to leave the enterprise abroad?
+- What are the specific possibilities the company offers its workers on site?
+- is there an opportunity for me to go abroad
+- are there any foreign assignments
+- can I go to a foreign country
+- Are there opportunities outside the country?
+- I want to got to a foreign country
+- what are my chances to get on-site
+- how do you send candidates for onsite
+- when can I go for a foreign project
+- what are my chances for foreign assignments
+- How to get a abroad opportunities
+- Go abroad
+- foreign project
+- onsite options
+- foreign options
+- how to go to another country
+- are there projects in abroad
+- what to do to get a foreign project
+- are there chances to work abroad?
+- does this role have international mobility opportunities?
+- i wanted for onsite opportunities
+- will i get onsite opportunity
+- is there any possibility to travel abroad
+- can i travel onsite from the company
+- onsite chances
+- any opportunity to go onsite
+- can i travel to foreign countries from here
+- possible to travel abroad?
+- any chance to travel outside of the country
+- can i choose onsite location of my interest
+- how many times wil i be able to go onsite
+- do freshers get to go on onsite
+- do all level of employees get onsite opportunities
+- travel chances for everyone?
+- does onsite depend on my project?
+- what is the criteria for onsite
+- onsite opportunities
+- Do I have a chance to go abroad??
+- Do I get onshore opportunity?
+- Is there an oppurtunity for me to go abroad
+- Are there any foreign assignments?
+- Can I go to a foreign country?
+- Openings in UK region
+- i was waiting for recruiter to come back for a onsite opportunity in the same role. Is there any similar vacancy for a onsite role?
+
+
+
+## intent:notice_period
+- Notice period
+- How long is the notice period here
+- Details of notice period
+- When should I inform I want to resign
+- What is notice period
+- what about notice period?
+- Is notice period same for everyone
+- Can I extend notice period
+- Can I shorten the notice period
+- Is notice period too long
+- Will I have notice period if I take another job before joining here
+- Notice period info
+- Can I change my notice period
+- What happens during notice period
+- Do I have to work during notice period
+- Should I come to office during notice period
+- Activities during notice period
+- Will I get paid during notice period
+- What if i don't follow notice period
+- Can I skip notice period
+- I don't want notice period
+- how long will be my notice period
+- what is the notice period of my employment?
+- how long after resignation will ihave to be here
+- What will the notice period during probation after joining?
+
+## intent:COVID_19_strategy
+- what are your strategies for this current pandemic
+- covid_19_strategy
+- Coronavirus strategy
+- What was your Coronavirus strategy
+- how are you guys coping up with the covid situation
+- has the lockdown affected badly in your working
+- do you guys have any specific strategy in these tough times
+- when do u plan return to office
+- how long will the office be shut because of covid
+- covid effects
+- Are you planning to resume work from office
+- any special methods adapted during the pandemic scenarios
+- has the pandemic brought any changes in your working style
+- pandemic strategy
+- how did you manage during the lock down
+- are you giving any support to employees in this pandemic scenario
+- covid overcoming plans at hcl
+- how does the company plan ahead in this corona times
+- when do you think coming back to office will be possible
+- how soon will employees have to come back to office after lockdown
+- How the company is working under Covid 19
+- Is there anything specific about Covid in today's context
+- What was hcls Coronavirus strategy
+- Are you planning to resume working from
+- Does your company follow covid protocol
+- Does your company follow COVID regulations?
+- How is Covid treating you?
+- Covid 19
+- What are your strategy for the current pandemic
+
+## intent:background_verification_procedure
+- Level of BGV status
+- Any estimate time to get update from bgv team
+- what are your bgv process?
+- I received a mail from my Recruiter Manager that my BGV is closed, but still I am receiving an email from team for documents requirement. Can you please support in this regards.
+- asked two witness, how we can give? is this HCL employee witness or outside persons?
+- I just want to correct my PF details on form 11 column
+- What are the things that are checked during background verification?
+- What processes are carried out for background verification?
+- How long will it take for the background verification to get done?
+- Can I travel when the background check is on-going?
+- Do I need to be in town for background verification?
+- What procedures are followed for background verification?
+- What does the background verification involve
+- how is background verification done?
+- I want to change IFSC code of my saving account which I have mentioned in my joining documents
+- what is criminal background check?
+- can you explain to me the background verification procedures
+- how do you verify the background of a candidate
+- explain background verification procedures
+- I got a message with the link to fill some urgent information. But the link is not opening. Kindly help me in this regard
+- I got message from your end for some information
+- what are the different steps involved in the background verification?
+- how is the background verification done
+- ok.So what about the verification procedures?
+- what are the procedures for background verification
+- what are the background verification procedure?
+- ok.Can you please explain to me the different background verification procedure
+- what are the background verification procedures again
+- what are the background verification procedures?
+- What does back ground verification involve
+- bgv?
+- what are the bgv?
+- I have submitted my all documents for background verification
+- what are the information that I need to fill
+- verification
+- I am receiving the mail stating that need more information from me to onboard,May i know what the information is actually required
+- I want to know if BVG teams needs any further inputs from me so that there are no pending documents before I join HCL as per the offer letter. Also, i notice the role in the offer letter is not in sync with the email communications (Program Manager, Group Manager) etc.
+- My background verification is still uncompleted or pending and Almost 2 months completed. Please do inform me. What's the problem with my background verification? I'm having problems in the joining process. My date of joining was changed multiple times due to background verification processing. 6th time to change my date of joining the last month. I also resigned from my last organization. I hope you understand my problem very well, please take needful action against it and resolved my case.
+- Its regarding BGV check, as I mentioned I done diploma in electronics and communication engineering but I got mail to submit bachelors of engineering(mechanical) documents
+- What is status of my address verification status
+- In the Online onboarding tab, it shows Doc Verification Pending from Recruiter for offer letter and compensation structure
+- background verification procedure
+- I am still receiving ivr calls for documents submission
+- background verification steps
+- what are the bgv procedures?
+- Okay.What about the BVG?
+- What can you tell me about the background verification?
+- what are bgv procedures?
+- what does the company do before making me an offer
+- what are the bgv involved
+- How many days the BGV takes to complete
+- How long will BV process take
+- how long will the bv process take to complete
+- what are the bv process involved
+- what does bgv includes?
+- what are the bgv documents
+- i have submitted my BGV documents but still i receive call that i have not submitted documents.
+- I have submitted my BGV documents but still i receive call that i have not submitted documents.
+- may I know the status of my BGV?
+- When I get BV status?
+- Please provide me status of my BGV
+- May I get BV completion from HCL?
+- Do i get email from HCL about my BV
+- I understand that you are looking for an additional information to process my offer
+- would like to know what additional information is needed
+- I would like speak with BGV support team
+- I would like to speak with BGV support team
+- Is there anything left in my BGV?
+- I wanted to know status of my BGV
+- bgv is completed ot not?
+- Just want to check my BGV status
+- There is some mistake in my online BGV form , My first name , Last name and DOB is wrong so need to correct these details, before going to final submit of form
+- BGC  status
+- When will I get the call back from BGV support team?
+- ETA for call back from BGV support team
+- is my BVG completed successfully?
+- Witness person did not received any email to update form there end for BGV.
+- i have received a mail like Are there any questions on your Background verification steps? Hyreo will help you. Click the below option :
+- Bgv team required any documents from me
+- What is my onboarding and BVG status?
+- What is the status of my BVG?
+- regarding BGV my house doesnt have a house number...already shared passport and Aadhar card as proof
+- What is my BGV status whether it is done or anything pending
+- How much time will it take to get the verification done?
+- When will the verification be completed??
+- I have completed my BGV and have uploaded all the documents. I am still receiving emails regarding documents have not been completed.
+- I don't have form 16
+- form 16
+- didnt get form 16
+- I have change my current address
+- Kindly update my current address
+- tell me what document you require?
+- For my BGV I have submitted all my documents as requested by
+- i got mail to give more info. what info is it
+- which all documents do i need to submit
+- I have received email from EIS i onboard
+- EPFO Pending KYC
+- Nor getting any response from Authbridge if we face any issue.
+- The portal or verification link doesn'r work as mentioned.
+- No support from Authbridge.
+- Facing lot of issue with Authbridge portal and verification
+- Facing lot of issue in Authbridge portal and verification link.
+- Whatever link we are getting from Authbridge, it is not working
+- I uploaded my all documents, still getting calls
+- BGV documents uploaded but not initiated
+- It is showing that you are not uploaded bgv documents but i have uploaded every documents
+- I have accepeted the offer letter and uploaded the BGV documents. But still I am getting calls from HCL that I have not uploaded the documents.
+- Not uploaded documents
+- could you please ask BGV Support team to reachout to me for the relevant document based on that i can provide.
+- I received call for documents uploading but i don't know which documents remaining
+- I submitted my documents. But I received multiple emails. I don't know I submitted the documents in correct location m is there anything I missed it
+- I need urgent update on this and please let me know if there are any alternative methods to shared document, Can someone from BGV team contact me?
+- need to share my previous company reliving letter
+- How can I fill 2nd last employer details in my filled pre joiner form.
+- Need clarification on SOF and GapSOF.
+- My Date Of Joining given on the offer letter is 29/09/2022, But I got a call from the onboarding team stating that My date of joining will be given later after BGV
+- please let me know about the BGV verification and my date of joining
+- As few days back I have received email from BGV team for some pending documents which I have shared Last week but still I am getting auto generated calls from HCL to submit documents
+- I don't have any document of Rajiv Gandhi Cancer Institute And Research Centre kindly consider my experience of 2 Year & 9 Month with Sysnet Global Technology
+- When I am uploading the statement of fact gap so so not uploading
+- what is SOF and GapSOF
+- What is SOF and GapSOF document?
+- SOF form
+- What is SOF form
+- from starting my first company i dont have bank statement and form 16
+- i dont have first company bank statement and form 16
+- I raised one request for bgv verification.please close that ticket
+- Ok.please close the bgv ticket
+- Which documents remaining to upload?
+- I am getting a email that for ESI (Submitted documents is insufficient)
+- What is Manually (Pen) Signed Letter of Authorization
+- I have already uploaded my documents but BGV still showing not initiated
+- What is the sof it's required to fill and upload on the iportal
+- May i know the status of documents verification please?
+- To begin your onboarding process, please click the link below and share some mandatory information.
+- i have been asked to share some mandatory info may i know where to do that
+- i already uploaded documents still i am getting mails
+- i have uploaded all the onboarding details.still i received an email for "update pending details"
+- I got a mail to submit critical documents for verification
+- I got to know my BGV was cleared now received email on document required for BGV not sure is pending
+- Why do I get an email to upload BGV documents when I have already uploaded them?
+- how can i update my pending details
+- I have been asked to submit form 16, but i have never filed it up
+- I have already replied with the requested details to email twice and am still receiving the same mail, please let me know if there is any link to upload the requested document, I cant see any link in the mail to upload, so I have replied the documents to mail.
+- I have a form16 issue from HCl recruiter
+- while filling joining form , i didn't get sof remarks option but while preview, it showing no data, am unable to fill sof remarks details
+- I have submitted all documents but yet recieving pending bgv
+- Is any requirement for original copy of all marksheet on onboarding day?
+- I have not added my 2 previous company experience in my cv.because i have not working there even 1 month. That is the reason I had added the company name in my experience.but there marked me on the bgv red alert.please guide me on this
+- EMPLOYEES' PROVIDENT FUND ORGANISATION page my father name is not mentioned correctly
+- how to change the fathers name in EMPLOYEES' PROVIDENT FUND ORGANISATION document?
+- I need to know my bhv status
+- How to upload onboarding documents without uploading option in HCL ionboarding portal?
+- I am not able mark the is this your current employeement
+- not able to mark the current employment option
+- i don't have passport. so i uploaded driving license copy in online onboarding page.. is that ok?
+- I am giving a clear explanation on my red report please try to meet a requiter
+- Whether original Educational documents required during onboarding? Photocopy is enough?
+- upload disabled
+- My date of joining 31 oct still my BGV pending so how long time will take to complete BGV
+- My BGV has been stopped due to some issues for not showing my non technical experience. Shall I will be able to join HCL on the base of showed experience or not?
+- Hope you are doing well,I sent required document (form 16) 2 weeks back still I didnt get the response from your side could you please let me know if you need any documents .and also I have to inform that one of the police is verified my profile at my home.could you please respond as soon as posssible if you get any update from the onboarding team.and let me know date of joining.
+- I am waiting 7date but no one contacted me then guide smart BGV and joining form
+- Please raise ticket. Not visible SOF remarks on my joining dockers
+- BGV verification dealy my joining date has been extended to Jan 5
+- My relieving letter is pending right now but I have goted on mail
+- How can I uploaded few documents in Portal
+- I am not having bank cancelled cheque
+- Joining date getting close and if BGV still not get completed. Before joining date. What is procedure
+- i need help to fill form 11 in Ionboard portal
+- BGV team not contact me I am raising a ticket Saturday and no ene reach mee
+- i recieved offer letter but i am unable to unboard to hcl because hr saying i didnt get bgv clearence when will i get or whats the problem
+- I don't have UAN number
+- In portal it is showing BGV Completed but it is not marked Green color. As per offer letter it must be green before joining. Thats why I am worried why not updated
+- I hope you are doing well, I sent required documents (form 16) 2weeks back still I didnt get the response from your side could you please let me know if you need any documents required. and also I have to inform that one of the police is verified my profile at my home if you get any update from the onboarding team.
+- I have not submitted FORM 16 because I was not eligible for that in sourceone
+- I need to know whether digital address verified or not ?
+
+
+
+
+## intent:laptop
+- Will I be eligible for a system when I join here
+- do you provide company desktop
+- do you provide company laptop
+- can I have company laptop
+- Is there a provision for company laptop
+- can the candidates get laptop from company
+- will i get office laptop
+- work lap please
+- should i apply for lap
+- can i have a lap from office
+- do u guys give laptop
+- will i get lap
+- Will I get the asset mail today?
+- any lap support please?
+- do you have any lap policy
+- laptop
+- i need laptop
+- when will i get laptop from office
+- can u guide on how to avail laptop
+- office lap
+- can u tell me about lap assistance
+- will u give laptop to employees
+- will you give laptop
+- Do i need to work in my personal laptop
+- Can I get updates on my laptop and access details
+- I would like to know when they will deliver the laptop for me. Please let me know so that I can arrange myself.
+- How will I get the joining kit including laptop and other accessories
+- How i will get my Laptop in joining date
+- After joining, how much time it take to get laptop to start work?
+- Do I need to report office to collect the laptop
+- When will i receive laptop and other assets
+- how many days after the joining date will the laptop send to employee
+- Asset pickup in location or home
+- Is it possible to get the HCL laptop at my home location ?
+- HCL asset can be delivered to home location or not ?
+- I have not recived equipment
+- i have not received any assets
+- For assest will I have to go office
+- when will I receive my machine
+- Will i get my laptop on the induction day itself or prior?
+- When I will received my assets
+- when will i get my machine
+- will i receive the asset to my home
+- How about assets?
+- My laptop and login id will receive at my home
+- no email regarding laptop allocation
+- I have requested laptop at my location but till didnt got any response
+- Asset and induction
+
+
+
+
+## intent:know_about_hiring_company
+- company info
+- tell me more about your company
+- for which company the drive is for?
+- can i get more info about the hiring company?
+- Pls share more details of the hiring company
+- I want to know more about this company
+- tell me more about the hiring company
+- give me workspace info
+- i want to know more about company
+- tell me about company
+- tell me more about company
+- i wish to know more about the company
+- i wish to know more about company
+- what can you tell me about company
+- give me details about company
+- can you tell me about company?
+- please tell me about the company
+- please tell me about company
+- where can i find out about the company?
+- what can you tell me about the company?
+- where can i get details about company?
+- where can i find out about company?
+- i want to know more about the company
+- give me details about the company
+- where can i know about company?
+- where can i know more about the company?
+- where can i read about the company?
+- where can i read about company
+- looking for info about company
+- i'm looking for info about company
+- i'm looking for information about the company
+- seeking information about the company
+- give me some info about company
+- give me some details about company
+- what can you tell me about company?
+- what is the full form of company
+- i wish to know more details about the company
+- i want to understand more about the company
+- I want to know more about the company
+- Can you please give me some information about the company
+- who are the founders of the company
+- who all are the competitors of the company
+- what is your company's usp
+- is it a private or public company
+- I want to know about this organization
+- can you tell me more about the company?
+- i need more information about the company
+- i need more info about the company
+- i need to know something more about the company
+- please tell me more about the company
+- what can you share about the company?
+- give me some details about the company
+- where can i find information about the company?
+- where can i get information about the company?
+- please help me understand the company better
+- give me some more details about the company
+- i want to understand the company better
+- i want to understand about the company
+- what all can you tell me about the company
+- Can I know mor about hcl
+- Can you tell me about hcl
+- What is hcl
+- what is hcl
+- Tell me more about hcl
+- tell me more about the company
+- get me company details
+- know about the company
+- hcl
+- tell me more about hcl
+- I want to know about hcl
+- what is hcl technologies
+- hcl company
+- hcl is your organization or not
+- which is the hiring company
+- Can I know about the hiring company
+- I want to know my work address
+- My work place
+- My office address
+- What is HCL IOMC, do we have deve
+- What is iomc
+- Iomc
+- What is HCl tech iomc ..i applied for HCl technology limited
+- What is IOMC
+
+
+## intent:delay
+- /delay
+- delay
+
+## intent:work_from_home_policy
+- Work from home  what are the work home policies
+- how can I avail work from home
+- can I work from home on alternate days
+- Is office wfh or hybrid or regular
+- Is it a hybrid job?
+- I'm a single mother. I may not be able to come to office veryday. Can I have some company support
+- My home is far from the office. I may not be able to come to the office everyday
+- what are company's policy regarding work from home
+- if I am unable to reach the office can I work from home
+- Does the company support work from home policy
+- Can employees have work from home option during their work span in the company
+- Can employees work from home if needed?
+- Does your company provide work from home facility for employees?
+- If I am unable to come to office due to any personal emergency, will I be able to work from home
+- What to do for work from home
+- will I be able to work from my house
+- work at home
+- Could employees work from home during their job time
+- Does your company have employee work from home facility?
+- Is there any work from home policy for women?
+- What is the work from policy of the company?
+- How many days can I work from home?
+- How many days am I allowed to work from home?
+- How many days am I able to work from home?
+- what are your work home from policies?
+- Telecommuting Policy
+- Home-Based Work Policy
+- do you support work from home
+- for how long can i take work from home
+- can i use my own system for work from home
+- do you give dongle for work from home
+- what are the working hours for work from home
+- do all employees get work from home
+- WFH
+- how long can i take WFH
+- is work from home applicable for all levels of jobs
+- what criteria should i meet to get work from home
+- how can i apply for work from home
+- is there any specific requirements to get work from home
+- how many days WFH
+- do i get decreased pay if i take WFH
+- is taking WFH risky?
+- for what all reasons can an employee get work from home
+- is work from home supportive here?
+- will i have to work more during work from home
+- will company give laptop for work from home
+- WFH details
+- till when does the company give WFH
+- Can I work from my house instead of coming to the office?
+- Is work from home option available?
+- How long WFH will be there?
+- Work from home
+- Right now we will be working from home right?
+- Joining from work from home?
+- My joining date is 07Jan2022. I want to know wether it will be Work from home or will it be work from office
+- Iam fresher so pls tell me after the joining the job  work form home or work from office plz tell me
+- After the joining work from home or work from office
+- when will the work from office mode starts
+- I need work from office model
+- I wish to work from my office location
+- As, per the offer letter, I have to be at Noida location on my date but the requiter told me, I will be work from home initially, please assist us on the same
+- Hybrid
+- are remote jobs are available
+- Remote jobs
+- Now it is WFH or WFO??
+- Need to know is joining from WFH or from Office.
+- When offices will resume back to work at
+- Previous offer i can't dropped i am asking work from home 2 month's but recruiter not accept my request
+- Should I go to office everyday?
+- I want to work remotely for at least one year due to some personal reason
+- My first day will be work from home or onsite
+- Offer letter is already shared. But not mentioned about work from
+- WFO
+- My job is Online or offline.
+- I am open to join but need remote working for next 1 year
+- I want to do job from my current locaion
+
+
+
+## intent:work_culture
+- What is the working culture at hcl?
+- What programmes do you have in place to promote healthy work environment?
+- What is the company culture like?
+- What is the work environment like?
+- Does the company provide fitness/ recreation facilities?
+- Do you have team outings?
+- what does the company offer for my personal development
+- Does this company provides any employment engagement programmes
+- How is the work atmosphere there
+- Is the work culture employee friendly
+- What are the activities conducted there for a healthy work environment
+- How do you maintain good work culture
+- Is employee welfare given high priority
+- Is employee welfare given importance
+- i want to know about the company culture
+- Tell me about company work culture and core values
+- What is the culture there?
+- How is employee welfare taken care of?
+- Are there any employee surveys conducted?
+- How do you keep track of worker’s happiness?
+- Are there any events conducted?
+- Do you have a team outing?
+- Is there a team lunch?
+- How often do you take employee feedback?
+- How is employee feedback taken?
+- Are there gym facilities?
+- Do you follow a healthy work environment?
+- Do you have celebrations in the office?
+- Can employees take the initiative to conduct events?
+- Who conducts programs in the office?
+- What are the company’s special programs?
+- What are the employee benefits?
+- Are there enough vacation plans available?
+- What is your main motto?
+- What vision does the company follow?
+- Are the employees aware of the company core values and culture?
+- Do you follow any specific set of core values
+- Are you certified as “Great Place to Work?
+- Is your company GPTW awarded?
+- Are you aiming for GPTW?
+- Do you have any employement engagement programmes
+- What is the work culture at hcl
+- Can you explain to me company work culture?
+- is there any celebrations or cultural activities available there
+- Are you multicultural organisation
+
+## intent:job_role
+- Will I get E4.1 BAND for 12+ years experience
+- what level of job is this
+- what job role is this
+- what is my role in this company
+- is there any particular level to which this job belongs to
+- I want to understand the role of the job that i have applied for
+- what all activities come under this job post
+- does this job belong to the high level type job
+- what levels of jobs are there
+- which level of job is this
+- what all kinds of levels do you guys have when it comes to jobs available
+- level of my role
+- job level
+- offered job level
+- what does level mean
+- I have a query regarding my project
+- describe my job level
+- Minumum experience required for consultant role
+- I have given interview for ansible profile still awaiting feedback
+- Job Description not received
+- Please share the JD
+- need details on role
+- I need to understand profile of 
+- profile of job role
+- Do we have development work in HCL IOMC
+- What is BPM CoE
+- need to understand profile of 860380BR
+- I want to know about the project details which am going to be allocated
+- in which level does my job belong to
+- job role level
+- position of my role in the levels
+- offered job is in higher or lower level
+- do i belong to a lower level job?
+- what will be my job role
+- What level is this position at
+- What level is this position
+- band
+- What would be my role
+- Please elaborate on the job role software development
+- Elaborate the job role please
+- Also a little more about the role
+- role?
+- Organization roles
+- What role am I selected to
+- what is the role which i have been hired for
+- which role will i be working for
+- My role and responsibilities
+- I got mails regarding being selected as Technical lead BL-2020121026. What is my exact role?
+- Could you please tell me my job role.
+- Please tell me my designation
+- What is my designation?
+- What is my designation
+- I am recruited as
+- Need to know the project details for which I have been selected.
+- If I can get project details for which I have been selected
+- Profile
+- What is my job profile?
+- What is the position offered?
+- project name for 778763BR
+- what is my project?
+- what is the project assigned to me?
+- My position
+- what is the designatoin offered to me?
+- wanted to know the project assignment
+- is there any project assigned to me now?
+- What about project assignement?
+- So my position will be DU Head Right ?
+- What is my position name?
+- I want to know about my position name
+- what is the band I am hired on?
+- Am I an E2 or E3?
+- designation
+- Provide my job details
+- Need details on role . Also , what is the frequency of night shifts for the current role.
+- Which project i am assigned to?
+- project detais?
+- Projevt Details?
+- What will be my project
+- Am i mapped to any project
+- I would like to know about my project
+- I would like to know project details
+- What is the project or client name?
+- Project name
+- What about my position name?
+- Please let me know my project engagement in HCL.
+- Project assignment
+- what grade of job is this
+- what job grade is this
+- is there any particular grade to which this job belongs to
+- I want to understand the grade of the job that i have applied for
+- what all activities come under this job grade
+- does this job belong to the high grade type job
+- what grades of jobs are there
+- which grade of job is this
+- to which grade does this job belong to
+- what all kinds of grades do you guys have when it comes to jobs available
+- grade of my role
+- job grade
+- offered job grade
+- what does grade mean
+- describe my job grade
+- in which grade does my job belong to
+- job role grade
+- position of my role in the grades
+- offered job is in higher or lower grade
+- do i belong to a lower grade job?
+- what is my grade
+- what is my job title?
+- What is the Roll of Specialist CoE with HCL Technologies.
+- Can you provide my position details?
+- Which project have you assigned me?
+- I would like to know my project information
+- I would like to know where iam designated
+- For which client the HCL deploying me
+- My Job title is technical specialist. Please confirm if it is Tier2 or Tier 3
+- which role i am recruited for
+- Am i recruited for
+- i am assigned to which role
+- What is COE
+- our final selection for the position of 874764BR - Sr. Specialist COE ?
+- I have got a mail that my position is technical lead but in offer letter it is mentions specialist. Please let me know my exact position and role
+- I remember that the process started with the SOLUTION ARCHITECT but here the offer letter says  CONSULTANT . I asked my HR to change this, but she said that now HCL only offers the title CONSULTANT, not AZURE ARCHITECT or SOLUTION ARCHITECT.
+- As I had attended interview for Senior Specialist but in my offer it mentioned E2 Technical Specialist, also I would like to know the fundamentals of my job and the workplace culture, such as the working time, WFH or hybrid work schedule. How often should I visit the office and to which branch should I report if hybrid. Please provide more information so I can make a decision.
+- designation amendment
+- I have 14 years of experience and I was given consultant role where my current role is of solution architect
+- need details about ASSOCIATE CONSULTANT position
+- What is my profile
+- could you please help me to understand the ASSOCIATE CONSULTANT position.
+- need details about ASSOCIATE CONSULTANT
+- what is the ASSOCIATE CONSULTANT position in HCL
+- can i know which client to work
+- Please tell me the profile .
+- Please show me my profile
+- As per Offer Letter my Designation is Senior Executive but in one mail from Hyreo it is mentioned as L1-Analyst
+- Is senior analyst part of network domain
+- Shift Lead position
+- I require a project in general shift
+- When I will be tagged to client?
+- What will be my profile after joining
+- Kindly confirm complete name of hiring manager and process name for which i was selected
+- I was said that there are numerous openings for SCCM and I'm forced tk take up project which is less with respect to roles and responsibilities by the hr. Please gelp
+- Do you what exact band I'm hired for ?
+- I have got the offer but the position given to me doesn't suit as per my experience.
+- long term project or short term project?
+- Need to know my project and need to know about remote work
+
+
+
+## intent:joining_bonus
+- will I get joining bonus
+- is there any joining bonus for me
+- are the joining bonus in the company
+- will you give me joining bonus
+- i had received a joining bonus from my previous company. is it available here
+- is it right that you guys give joining bonus?
+- how much is the joining binus?
+- is joining bonus avaialble for freshers also?
+- are all joiners given any bonus
+- what amount will i get as joining bonus
+- is it true that you provide joining bonus
+- is joining bonus given to all newly joining employees
+- do the re joining employees get joining bonus
+- What is this joining bonus
+- will i get the joining bonus in my first salary
+- when do i receive the joining bonus
+- tell me about joining bonus
+- joining bonus
+- bonus for joining
+- is joining bonus given to all employees
+- can i choose my joining bonus
+- Will I be eligible for a joining bonus
+- HCL provide any joining benefits?
+- Do hcl provide any joining bonus ? since I am breaking my default notice period in my current company to join hcl at the earliest
+- could you please add Joining Bonus in Offer letter
+
+
+## intent:office_shifts
+- How are the office shifts
+- What all shifts are available
+- Office shifts
+- what will be my shift timing
+- Can I take work shifts?
+- Is it possible to take a morning or evening shifts according to convenience?
+- Are different work shifts available?
+- Office timings
+- Work hours
+- Can I take shifts
+- Can I take night shifts
+- Is there morning shift available
+- I prefer evening shift. How can I take that
+- What is the procedure for taking shifts
+- Can employees work on shift here
+- Are shifts possible here
+- Office shift details
+- How can I know my shift
+- How to choose office shift
+- Can I opt out of the shift system
+- I can't take shifts. How to do that
+- Are there extra pay for early shifts
+- Benefits of taking shifts
+- Different shifts available
+- what are company's office shifts
+- what shift timings do you have
+- Need to get confirmation on my shift timings
+- Number of days working
+- week offs
+- how many days working in a week??
+- how many weekoffs i will get?
+- week off 2 days
+- Weak off 2 days
+- Monday to Friday
+- Saturday and Sunday will be week off
+- working days
+- what about working days
+- working days
+- In Our office weekend days leave or not?
+
+
+
+## intent:technologies_used
+- what are the various domains in hcl?
+- which technology is used in ?
+- what technologies are used at hcl?
+- what technology is your product based out of?
+- Basic technology used?
+- What all domains are there?
+- Do you guys make use of the latest technology
+- i want ot know about the technologies used here
+- what do you mean by the domains at hcl
+- are there any unique technologies used here?
+- what technology should i know before i apply for a job?
+- on what technologies do you people build your product?
+- i want to know about the domains here
+- will i get exposure to different technologies if i work here?
+- explain the technologies used here
+- what all technologies will i get to work on
+- can i work on multiple domains?
+- list the technologies
+- show me the domains and technologies at hcl
+- wanna know the details of technologies used
+- what are the technologies you work with
+- I would like to know about technology for which I will start my work in hcl
+
+## intent:missing_offer_letter
+- I requested for revised offer but didnt get any update on the same
+- not received offer letter so how will i submit on joining day
+- did not get the offer letter
+- I have not received the offer letter
+- why I have not received the offer letter
+- As HR mentioned, I supposed to get my offer letter today. Still I didn't receive any. Kindly help me out
+- new offer letter
+- i have not got the revised offer letter with the new pay break up
+- new offer letter?
+- why my offer letter is delayed
+- offer letter is delayed
+- What is the time duration to accept the offer letter
+- I have already resigned from my current organization. and I do not have any other offer. I relied on hcl's offer and resigned
+- Its been more than 15 days the offer letter is not released yet
+- revised offer
+- I am waiting for Revised offer and Revised date of joining ,request your support. I would like to join on 30th September 2021 instead 4th October 2021, As per recruiter my revised offer will be released in this week. I request you to Please expedite.
+- When can I get my revised offer letter which was promised to me 12 days back with amount agreed in HR discussion
+- When I will get my offer
+- How long will it take release an offer letter? are they delaying in intentionally till my last working day in my current company?
+- joining letter
+- appointmnet letter
+- offer letter
+- The revised offer breakup file is not added to my
+- Could you perhaps provide me with an update on my revised CTC letter?
+- I am awaiting revised offer letter so i can accept that and confirm my joining date
+- My joining date is on jan 3 2022 Monday but still I didn't receive any offer letter
+- When I get my joining letter
+- I want to connect with my HR regarding joinning and till now i have not received my offer letter yet.
+- When can I get my offer letter
+- I wanted to accept the offer. do u please guide me through the steps
+- my candidate portal url and username is not in email
+- how can I access candidate portal ?
+- Candidate Web Portal login
+- candidate portal access
+- I need to accept the offer but not able to login in Candidate portal
+- how to login to candidate portal
+- in hcl portal offer is not showing
+- where can i see my offer letter
+- May I have the break up letter?
+- how to check the offer letter
+- When i will get the link so that accept offer letter
+- Still in my hcl portal I m unable to see my offer letter
+- Link to candidate zone
+- I do not see the Annexature 1 file in my offer letter
+- Did not receive Break up letter
+- didn't receive the Break-up letter
+- i didn;t receive the Break-up letter
+- where to find the Break-up letter
+- I didn't receive the offer letter, compensation letter.
+- Using the link salary breakup not available
+- Offer not issues
+- Offer letter is not there
+- I have not recieved any credentials email from enterprise@hcl.com
+- Kindly email me my Offer Letter and Salary Structure
+- I have received email like offer letter sent". But there is no attachment in email. Can you please help on this?"
+- I received offer letter but attachment was missing
+- ok where we can check the break-up letter
+- mail received but link is missing to view offer letter
+- Break-up letter
+- Break-up letter not received
+- I did not get the joining letter till yet
+- I did not receive my joining letter yet
+- I didnot get the offer letter yet
+- But not yet received induction mail details and compensation structure,offer letter
+- When do i except offer letter and induction mail
+- Can you send the offer letter 
+- i want conformation mail and offer letter frpm hcl still i am waiting
+- Please share link where u can download my offer letter
+- where do i go to accept the offer?
+- In offer letter, i didn't find my salary details
+- wher could i seee, Break-up letter
+- Please share the offer letter
+- Now everything is okay please share the offer letter
+- My salary breakup is not attached with the offer letter
+- iam unable to accept the offer letter
+- I did not get the joining letter yet
+- Please share the updated offer letter
+- did not get offer letter .where I can check my offer letter
+- I didn't get offer letter. But it shows I have accepted the offer
+- Salary Stack is not shared
+- offer letter link ?
+- As discussed with HR team, They confirmed that my offer letter has been sent. But I can't able to see
+- offer letter missed in y email
+- Can they send salary break-up manually?
+- Offer letter breakup
+- Can i get offer letter hard copy in Post?
+- where can we find the latest compensation letter?
+- when can I expect the revised offer letter?
+- But no one send the offer letter yet
+- Also i have not received link to view offer letter
+- Can you share me the hyperlink to see my offer letter?
+- Till now I didn't received any offer letter, compensation structure and induction mail details
+- My joining date was 16/09/2022 but still did not recieve offer letter and no update recieved
+- Helpline ticket has been raised to get my offer letter which was missed in email. Can I get an update on this?
+- CTC is not mentioned in the offer letter
+- Monthly salary not mentioned in offer letter
+- Do I need to mail the signed offer letter to the recruiter
+- My offer breakup came over another mail than my offer mail from HR ,I hope it's fine
+- My joining date is 16th Nov. Is anywhere in system need to accept it?
+- Also my salary breakdown came as an attachment over other email fro
+- I didn't receive offer letter. But my joining date is 16-Sep-2021. I don't know what to do. Can you guide me
+- Today is my joining date but i didn't get offer letter
+- I have 60 days notice period When can I get my offer letter and then I
+- I didnot get the offer letter yey
+- Joining lette
+- But there is no salary break up provided structure
+- Offer letter doesn't contain salary component why so?
+- I did not receive the salary breakdown and salary details
+- Some of the concerned questions like when will i get my offer letter? Secondly ami
+- Yes I received enterprise HCL mail but there is no
+- I wanted to know, where I can download Annexure-1, where the CTC breakdown is mentioned. I searched but I am not able to find a reliable source.
+- its late for getting the offer letter ,for which my onborading process is being slower down
+- onboard portal show me offer accepted
+- I have received the offer letter stating joining date 23/11/22 and did not receive the updated with joining date 28/11/22
+- I have requested Ms. Gowri to share the updated offer letter by mentioning the CTC in words on the first page of the offer letter.
+- I have checked my mailbox a.m.sathish.mca@gmail.com but i couldn't find the offer letter..kin
+- Joining form and BGV is showing for me but how i will fill if i didn't get the offer letter.
+- i am unable to view my offer letter on IOnboard
+- how to download name corrected offer letter
+- I am not able to find offer on candidate portrl
+- Kindly send my offer letter to upload in ionboard to complete the formalities
+- How to accept the offer
+- My joining date is on 19th december, I am waiting for my joining letter and next proceedings. Kindly help.
+- My joining date is on 19th december still I haven't recieved my joining letter kindly help
+- From my side no concerns.i am waiting for offer le
+- My CTC is increased but no revert office letter I get till now
+- Where can i search my salary break-up?
+- Joining form and BGV is showing for me but how i will fill if i didn't get the offer letter.
+
+
+
+
+## intent:educational_opportunities
+- How is the assistance in Further studies/ Specialization
+- Can I taken part in any training program while working?
+- I would like to pursue MS later. Does the company supports that?
+- will there be any educational opportunities?
+- are there opportunities for higher education?
+- Will you sponsor higher education?
+- will the company sponsor higher education?
+- what about paying part of tuition for higher education?
+- will the company encourage higher education?
+- can i look to pursue higher education while on the job?
+- can i do part time courses?
+- can i pursue higher education
+- Does MBA is provided by hcl
+- can i purse Mtech
+- can i go for mtech
+- can I study part time?
+- what educational opportunities can i expect?
+- can i expect any educational opportunities?
+- what are the kind of educational opportunities i can look forward to?
+- what educational opportunities are there
+- can i pursue a degree while working?
+- can i pursue a course while working?
+- what about educational opportunities?
+- does the company sponsor educational opportunities?
+- can i pursue diploma courses?
+- I want to pursue higher studies
+- what are my chances in here if I want to pursue my higher education
+- Can I opt for higher studies post joining the work?
+- Will i be able to continue studies during job?
+- I need to take post-graduation while working. How is it possible?
+- What can i do to study further?
+- Are there any possibilities for higher education during work?
+- Does the company provide distant education facilities?
+- Can i take PG distantly?
+- Will the company provide Distant study provision?
+- Can i change work hours for further studies?
+- What are the educational opportunities provided?
+- What are the procedures taken to avail further education facilities?
+- Should i mention about my study plan before joining?
+- Do i have to inform the manager earlier about my study plan?
+- Is there any existing plan for employee education?
+- Do you provide financial support for higher studies?
+- Do you provide financial support for further education?
+- Can i take leave for studying ahead?
+- Will the company give me a break if i want to join PG?
+- Can i take break from work to pursue studies?
+- How can i take study break from work?
+
+## intent:smart_verify
+- how can i upload docs using smartverify
+- what is smartverify
+- how is samrtverify working
+- what is the purpose of the tool smartverify
+- how can i upload documents using smartverify
+- why smartverify
+- docs upload using smartverify?
+- how to upload in smartverify?
+- why i need to upload docs using smartverify?
+- smartverify?
+- smartverify not working
+- please help me with smartverify tool?
+- what is smartverify?
+- unable to access the Smart Verify & Candidate Web portal due to an incorrect password
+- how to login smartverify
+
+## intent:employee_policies
+- what are the employee benefits
+- what are the employee policies
+- employee benefits
+- can you tell me about the benefits
+- Employment policy
+- employee benefits & policy
+- Employee benefits and policy details
+- any document which explains employee benefits
+- Perks
+- Fecilities which provides to employees
+- Facilities offered for employees
+- Internal mobility available?
+- i want to know about the plocies and benefits
+- Relative working policy
+- Food how much cost
+- Food how much cost for hcl
+- Hcl ll provided free food
+- will hcl provide free food
+
+
+## intent:buy_out_amount
+- I had buy out of 11 days from my current organisation
+- Buy out policy
+- Buy out amount
+- Buy out
+
+## intent:joining_formalties
+- which time i will join today
+- What time does the email arrive regarding joining?
+- What time dose the email arrive?
+- Which time the email come ?
+- Not received email regarding my induction location and documents need to be brought for induction
+- At what time my onboarding training starts?
+- what are the joining formalities
+- joining procedures
+- onboarding procedures
+- at what time i have to login tommorow and when my laptop will be delivered . Please let me know whom i have to contact for the same
+- How the joining process will go.
+- What is the process before date of joining?
+- joining formalities
+- As today is my first day, but I didn't get any link to join virt
+- Will I get call from hiring manager or recruiting team on my 1st day?
+- How to process my onbording
+- By when can I expect to get the details about joining day timings
+- What should I bring on joining date?
+- I didn't receive e-sign mail
+- I didn't receive e-sign mail yet.
+- i told you I didn't receive e-sign mail yet
+- still i didn`t get any update mail for joining procedures and contact person
+- E-signature not completed
+- e-sign not completed
+- in the onboarding portal e-sign not completed
+- witness e-sign aso not completed
+- Joining date timings
+- I want to know my reporting time
+- What is the joining process
+- regarding remote onboarding, How I can get the meeting link for remote onboarding
+- I didn't get any update regarding pre joninig formalities also
+- Tomorrow is my joining date but I didn't get update regarding it and also about pre joining formalities also
+- I did not get e-signature mail, without that how can I join today?
+- What all things are required on first day
+- yes, need guidance in onboarding process if there is any step I can complete in advance to avoid last minute hassle
+- E-sgnature not completed
+- Steps to be followed on onboarding
+- 23 sep onwards my on board please be help as my join formalities
+- Could you confirm that without esign process, should I attend induction session?
+- what to do on onboiarding day
+- procedures related with onboarding
+- When I will get link for my joining
+- Today is my first joining date I didn't receive any information about that
+- Today is my joining date I didn't receive any mail about that
+- today is my joining date but there is no information till now like login creditd etc
+- my recruiter told me that my joining will be virtual.but  i dont get any mail
+- today is my joining date, but i have not got any updates
+- i haven't received any mails or something on today regarding joining formalities
+- So my joining is confirmed today
+- ok i understood but i am asking what are the documents i have to arrange before the onboarding ?
+- what are the documents i have to arrange before the onboarding ?
+- please help me i am facing some doubts on online onboarding
+- My onboarding process is showing pending on portal
+- My first day working is on . what is the procedure on joining day
+- So who will reach me on 1st day to complete process
+- Can you please help me with joining formalities procedure?
+- I didn't get any link to onboarding.
+- When will be my esign process
+- Provide my hcl email id address and sho
+- Tomorrow is my joining and I haven't received any mail yet
+- I have not received any Remote Onboarding process mail yet. Tomorrow is my joining
+- i want the full process how to collect the ID card,access card and laptop in office ,like to whom we contact for these ,what documents needed ,etc..?
+- how to collect the ID card,access card and laptop in office ,like to whom we contact for these ,what documents needed ,etc..?
+- I need contact information to whom I need to meet on the date of joining and the officce address
+- i have not received onboarding link yet when can i expect
+- im waiting for onboarding link?
+- When, can I expect to receive a joining confirmation mail ?
+- I require information about joining formalities and other details
+- I didn't receive e-signature
+- I want to check Read and Sign letter which include my Salary details as well will be email to the witness of Esign
+- I have uploaded all the required documents in onboard portal but I didn't get any e- signat
+- What are all the documents I have to carry while joining
+- What are all the supporting documents I have to carry at the time of onboarding
+- When witness receive messages?
+- Mandatory documents required during onboarding
+- Without ID card how can I enter into office?
+- What documents are on the day ofmy onboarding?
+- I have already done e signature mail
+- What will be the Bangalore address and the contact person on first day?
+- My work location is bangalore and where i can go for onboarding physically
+- What documents should I carry on the day of joining?
+- where can i find my employee code
+- what is my employee code
+- May i know when can i expect my employee ID andd a login mail
+- I have already completed my E-signature process long back
+- Laptop and ID card can will be given at same time right?
+- What all documentsshoul i carrybon the day of my onboar
+- On the day of physical onbaording should carry all thpse documents
+- how much time will it take to complete my onboarding process
+- i have not yet received the onboard joining process credentials
+- Today my onboarding but no one contacted me ?
+- What should I bring on joining date?
+- Tomorrow is my joining date but I didn't get update from the recruiter
+- At what time I have to reach office?
+- I am not received any mail regarding the e-signature verification
+- E-sign verification is done 
+- I have already uploaded the documents in the portal few days back but I didn't get any esign mail
+- I have get offer letter but. What the timing I have to report
+- i did'nt get my HCL login id . why?
+- Timing ???
+- my joining is on 21st november 2022, still i didnt get the esign verification mail for 2nd witness. what can i do with this issue
+- I want to join
+- on the joining date, I have to show all educational hard copy or soft copy also accepted, as original hard copies are at home so I have travel from Bengaluru to Kolkata for that, please suggest
+- What to do on joining day? Do i need to go to the location?
+- still i m not reciving joning link
+- what is witness
+- what is witness details
+- what is witness details?
+- i didn't get esign verification mail for second witness. how to solve this issue
+- Doc verification pending by onboarding team and e signature mail not received
+- Doc verification pending by onboarding team and e signature mail not received
+- When can I signechiture mail
+- 19 Dec is my joining and I'm Physics joning any quarry list of hard copy
+- On 04-01-2023 at what time i should reach the office
+- On 04-01-2023 at what time i should reach the office?
+
+
+
+
+## intent:extension_letter
+- What is meant by the extension letter given in the onboarding portal
+- Extension letter
+- When I will get my joining extension letter?
+- Can I get the extension letter?
+- I'm waiting for the extension letter
+- I have requested for DOJ extension but didn't receive the extension letter
+- How will I get the extension
+- I didn't receive the early joining letter
+- Where is the preponement letter?
+- The recruiter told me that I'll be getting the extension in two days, but still, I'm waiting
+- DOJ change confirmation mail
+- DOJ change confirmation email?
+- Can you provide me an extension for 10 more days to joining after 10 October. If it is possible
+- What is extention letter
+- What is extension letter
+- Can you please confirm DOJ change?
+- Can you please confirm whether the date of joining is changed?
+- how will I be informed if the Change in DOJ will be accepted or not ?
+- how to get confirmation on new joining date
+- Revised offer letter with joining dtae
+- request to update offer letter with new date of joining
+- I have requested for the offer letter with extended date but not received yet
+
+
+## intent:portal_glitch
+- I am unable to complete my education details in hcl.com after enter my credentials Can you please help on the same
+- Unable to login to inOnBoard
+- Link is not working
+- I am still getting auto generated email from EIS_WFAPPS@hcl.com with subject Smart Verify: BGV Pending for Document Upload". For uploading details in https://wf5.myhcl.com/iOnboard/Candidate/Login the link is unable to access with error message "Multiple records available for the user;please contact recruiter" . Kindly advise
+- Multiple records available for the user;please contact recruiter
+- I am not able to login 
+- Not available
+- i am getting offer not initiated in iOnboard
+- iam unable to accept the offer letter. when i try to access the link to accept getting access denied error
+- getting this error multiple active records available for the user
+- I'm unable to upload the docents requested through the link sent
+- I am totally fed up with my issues in my iOnboard no one is responding for this I am totally stressed with this things I need a immediate help on this.
+- I'm not able to log in on HCL career portal
+- not able to login into the discover hcl portal
+- I'm unable to upload the documents through the link I was sent
+- kindly help me logging into the discover hcl portal
+- Showing multiple active session with my ID when trying to login on ionboard portal for documents submissin. Please help for same
+- unable to login to candiate portal to upload documents
+- not able to upload documents on BGP.
+- Unable to login on discover HCL portal.
+- When will i be able to login discover to upload my BGV documents
+- I have some technical difficulty which login into discover portal .
+- when i am trying to login to upload my documents for background verification.it is showing that link expires
+- Unable to upload the documents in HCL portal.
+- Joining form issue
+- I am not able to upload the documents in joining form
+- I am not able to fill my joining form
+- Not able to access discover portal
+- I am not able to login to candidate portal
+- iOnboard login OTP is not coming
+- can you help me login iOnboard
+- i am not able to login discover portal
+- I can't upload my documents on protal
+- Hi Team, please find the below issues what I am facing now. 1. I am unable to access my iOnboard portal while trying to login with my credentials. It is throwing an error message like Your Account has been Expired or Invalid Login Credentials given". Even I cant able to reset my password
+- Something Went Wrong.Please Try Again After Sometime.
+- I am facing iOnboard portal issue 
+- I'm not able to upload documents
+- Please help me how to filling the details it's showing sum error
+- Also I uploaded my all documents on the portal still I recieving the emails for documents
+- What other alternative methods are there to upload documents, if bgv portal is not functional
+- I am facing problem in my uploading documents
+- No one is contacting me regarding my onboard I am facing an issue from more than one month but I didnt get any solution for that
+- Discover not working properly
+- Discover link not working
+- iOnboard OTP is receiving too late
+- i have submitted all the details in I onbaord but Final submit says as still pending
+- i am unable to login to the application
+- iOnboard unable to login
+- Yes, Unable to upload document on BGV portal
+- I have upload the necessary documents and couldn't find a submit button to submit, I just want to know whether the team is able to view the documents which i have uploaded or not?
+- I am unable to login to any of the portals from HCL
+- I am not able to login to hcl portal due to that not able to submit my job application form
+- the credentials not working
+- Unable to upload the documents and details mail already send to ur email id
+- Why my records deleted from onboarding portal
+- not able to move further details in portal need help
+- i have all required document upload but submit option not visible elsi-onbording protal
+- I am not able to login with my new credentials and beacuse of that i am not abel to fill joining formalities.
+- Daily basis got mail for documents upload, mentioned that incase of not uploaded the documents on time impacting date of joining. It is clearly mention. Plz help here. Plz fixed portal issue
+- trying to login in BGV link with shared credentials i am getting error message Multiple active records available for the User; please contact recruiter.
+- myhcl.com link not open
+- Onboard documents upload is not updated in ionboard portal
+- unable to login smart verify login for bgv doccuments upload
+- Please solve my ionboard issue
+- I request to you fix the issue so that i can upload the require documents
+- I can't upload joining form
+- My email has multiple active records
+- i am facing problem to upload documents pleas help
+- I have issue on I-Onboard login for multiple active account..??? Can u able to solve this..??
+- i am trying to fill online form but i guess there is some error so i didnt proceed further
+- Not able to get iOnboard OTPs on time
+- I want to login -in onboard portal, unfortunately I am not getting the OTP to login
+- HCL iOnboard login OTP is not being emailed
+- I was unable to login to portal to view my offer getting account lock out error
+- Ionboard portal is no working
+- cant access onboarding status link anything issue
+- cant access onboarding status link
+- I can't upload joining form
+- My email has multiple active records
+- i am facing problem to upload documents pleas help
+- While trying to login to https://wf5.myhcl.com/iOnboard/Candidate/Login/EmailVerification but I am not receiving OTP on my registered e-mail
+- Hcl online onboarding page is not working
+- Not receiving an OTP, while opening candidate portal on Ionboard
+- My email id and password not working
+- I am not able to change the my email account password narasimhab132@gmail.com
+- Not received OTP while login onboarding portal
+- Candidate Zone stuck at onboarding process..
+- in smart verify link i m not getting upload option ?
+- Actually every day I recieve email to upload documents but the portal doesn't allow to upload it.
+- I need activated BVG link
+- cant access onboarding link
+- My email ID has multiple active records
+- Need to reset pwd of discover hcl portal
+- How much time will take for I-Onboard login issue...???
+- Hyperlink unavailable
+- I have issue on I-Onboard login for multiple active account..??? Can u able to solve this..??
+- i am trying to fill online form but i guess there is some error so i didnt proceed further
+- I have fill the wrong UAN no in my profile plz help in that issue,how to edit UAN no. again'plz let me know as soon as possible thanks
+- Regarding my UAN no
+- I have update wrong UAN no
+- Link is not opening what can i do now
+- Already it was extended my joining date to 1 week for BGV. Now I got a mail to join on 26th October 22 
+- I have issues still in iOnboard portal in nominee details page entered Aadhaar number correctly. But it shows an error The format of the Aadhaar is invalid". Kindly fix the above issue with my joining form submission.
+- My joining form is pending but i don't have user id and password to fill it
+- I have to upload my latest offer letter in iOnboard portal. It is not allowing me to edit and upload new offer ketter.
+- I am not able to update my offer breakup and offer letter on the porta
+- Offer letter upload is disabled
+- Online onboarding disabled for me
+- Onboarding Documents Upload is disabled
+- Already contected recruiter she said it will work as per the login credentionals only but not happening
+- I am facing to open smart verify link for uploading the documents
+- Iam getting error while submitting form 11 in onboarding
+- I got offer but why my joining form not opened , I tried so many times to connect hr but he didn't resolve my problem yet.
+- i have facng issue in ionboard portal, please confirm its affected to my joining date or not please check and confirm
+- I have joined HCL last Friday 11th November but still i have not received my HCL login id and password.
+- It throws an error message and please see the below screenshot .Kindly look and please suggest how to proceed further for filling the form"
+
+
+
+
+## intent:reapplication
+- i want to rejoin
+- reapplication
+- I reject my offer can you please reconsider my joining process
+- cancel my withdrawal
+- Can I apply for other jobs with HCL?
+- After how many days i can reapply for job in HCL?
+- when can i apply for job in HCL
+- NTG, its a nice converstion with HCL i definetly like to join later if i get opportunity
+- I made a mistake please reconsider my joining process
+- If the opportunity is open I can reconsider the same offer and opportunity
+- Reconsider for the opportunity
+- Can I apply in future for job in HCL
+- Am I eligible to apply on any profile in HCL in future?
+- Rejoin hcl
+- the HR had withdrawn the offer from their side.. I am still quite interested in joining HCL
+- Can I join the HCL with my previous position
+- How to apply for rejoining
+- when i will get a chance to work in HCL
+- I would like to apply for HCL in future once I come back
+- Can i rejoin
+- current open position
+- When can I join again
+- how to reapply
+- when can i apply again
+- i want to cancel my withdrawal
+- can i apply again in HCL
+- Am I eligible for future interviews.
+- Please reconsider my profile
+- i had not withdrawn my application
+- Hope HCL will consider my profile for future requirements??
+- Whether I can apply for a job in HCL
+- Why is my application closed?
+- when can i apply for any role in hcl?
+- When I can apply for job in HCL again
+- Re joining
+- Re release of withdrawal offer.so that I can join in HCL
+- Any openings please let me know
+- current openings
+- Without me concern how they withdraw my offer still i am interesting
+- No one person not concern me how to decline the offer letter
+- Just few minutes back i got mail your offer closed.
+- Please I want to continue the HCL
+- the statement that i had withdrawn my application with HCL Tech is incorrect, I had not withdrawn my application. Infact i was very interested in joining on that role (even now). My only concern was a bit on the compensation, on which i had tried to discuss a lot with the concerned HR, but i did not get a suitable response ever after trying to discuss it multiple times.
+- is there any possiblitiy to join on last offer which i got placed and no responses fromrecuiter
+- how to take back the withdraw application
+- Hr Kavitha rejected the offer
+- withdrawal was automatically done
+- At the time of offer letter received I'm not able to join due to health issues and personal problems ..Now I want to join in the company
+- Now I want to join in the company how can I ?
+- Can I know the process of rejoining
+- I need a job
+- I have not withdrawn my application
+- I havenot withdraw but i was told that the comapny wont wait for 60 days notice period.
+- Thanks for the smooth process. Will like to be part of HCL Technologies in future.
+- I did not withdraw my last application
+- I want to rejoin in the company could you please help me
+- Can I join after 6 months
+- I haven't withdrawan... Without any action I have received one mail regarding withdrawan
+- Any vacancy?
+- Can I join HCL now on the same offer letter?
+- The same offer will renew
+- At that time iam not able to join but
+- Not exit hiring process
+- Currently have any opening?
+- Why did HR release my offer letter and later on they denied to hire me?
+- why they without my permission my offer withdraw
+- Is it possible that I can join with previous offer letter?
+- Can I join HCL with the same offer letter now?
+- Hcl records says I have withdrawn the application
+- when will be interview
+- will i get chance after few years in your organization?
+- Please call me and I want to join HCL on same offer letter
+- I Haven't withdraw my job application
+- is it possible if i can rejoin for the same role?
+- How application got withdrwan
+- As you are saying i did withdrawn my application. it is marked wrong, kindly look at this and remove this mark from my profile
+- I have not withdrawn my application. Yashi
+- I withdraw my application because of personal reason which i cant express. Only recruiter knows.. This is not at all related to the other jobs from other organisation. Frankly i did not applied anything. I want to be part of your prestigious organization from Jan end of month. If possible please consider my application.
+- I withdraw my application because of personal reason which i cant express. Only recruiter knows.. This is not at all related to the other jobs from other organisation. Frankly i did not applied anything. I want to be part of your prestigious organization from Jan end of month. If possible please consider my application.
+- I want to be part of your organization from January end of the month .
+- I am interested to join back the same position with same package which was offer to me
+- Hi Team, as per the record it shows that I've withdrawn my application but I'vent did anything such. Can someone please get back to me and share an update? Last week only I submitted my documents to proceed further and I've not heard anything so far. Now it's showing my application is withdrawn. Please explain what's going on.
+- Accidentally application got withdraws. I want to join
+- I didn't withdraw from my position my HR miss sherma didn't let me join company she was not helpful from start
+- PLEASE CALL ME I AM INTRSTED HCL COMPANY
+- I have never rejected please help me I only want wfh because I am facing from arthritis
+- Please help me I never rejected and you are telling I rejected
+- I do not want to withdraw my application, that was done by HCL itself. I couldn't upload the docs on time as I got personal emergency. Please help in keep my offer letter again to share the required documents
+- Do we still have that position open, I want to comeback
+
+
+
+
+## intent:update_details
+- i want to update my name
+- the name in the offer letter is not correct
+- my name given is not correct
+- i want to update my phone number
+- my phone number changed
+- Change My Name
+- Name correction needed as per the 10th Marksheet on offer letter, Extension letter ,COMPENSATION STRUCTURE
+- Please update my number
+- Please change my name from Smriti Jha to Smriti
+- What I have to do to change my name on offer letter, candidate portal and i onboard
+- I want to update my personal information
+- without name correction in offer letter. shall i accept the offer?
+- phone number change
+- personal detail change
+- I HAVE ALREADY RAISED AN ISSUE YESTERDAY, REGARDING MY CORRECTION OF MY NAME IN OFFER LETTER, iONBOARDING PORTAL, CANDIDATE PORTAL STILL NOT CORRECTED.
+- Name correction required for EXTENSION LETTER
+- Need to check if the previous request regarding updating the name and DOB has been resolved or not ?
+- Could you please confirm when i can expect DOB correction ?
+- please change my name as pattem gangireddy in offer letter
+- Name is incorrect in offer latter
+- when the name change will reflect ?
+- please help me to correct DOB on ionboard portal as soon as posible
+- I have raised query regarding my DOB correction on ionborad portal and i got a call from HR but still it's not corrected on ionboard portal
+- how to update phn no
+- i want to change my name from
+- i want to change my name
+- kindly update my name as
+- update the DOB in candidate portal
+- update the DOB in candidate portal and onboarding portal
+- update my name in candidate portal
+- name shown in portal is incorrect
+- kindly update my dob
+- dob shown is not correct
+- i want to update my personal info
+- Regarding Change in my name, I had Contacted you before. Change Made in only Hyreo HCL Support, but in remaining portals like Candidates Portal, iOnboard portal and in Offer Letter no changes made.
+- Please help me to correct my DOB ionboard portal so that i can update my other details , it's going pending.
+- change my phone number
+- name shown in candidate portal is not correct. please update that.
+- my dob is not updated in the candidate portal
+- i have updated my date of birth, but it is not refled in the onboarding portal
+- change my dob
+- update my DOB
+- change request
+- why changes are not reflected in the candidate portal
+- updated name is not shown in onboarding portal
+- i need to update my email id
+- in offer letter my name mentioned R Manoj Prabhaakar it should be R Manoj Prabhakar, it need to correct
+- Can you change my mobile number in your records
+- Esignature document has name issue
+- Name is showing wrong
+- update mobile number
+- My name on the joining form is incorrect
+- My name is incorrect
+- How to edit my name in the joining form
+- Is it possible you people change my mobile number in your records
+- How to change the name?
+- My name & date of birth is incorrect in online form so need to be correct these details
+- Also I have corrections in my name
+- Mistake in my name
+- Please correct my name spelling from Afzal Shaikh to Afzal Shaik
+- My name is incorrect in my offer letter as well breakup, can you please change and share me the correct one
+- My name is incorrect in offer letter, need to correct
+- My father name is wrong in joining docket it has to be changed
+- Need to change registered date of birth and Name.
+- Wrong address is mentioned in offer letter pls make it corr
+- Wrong address mentioned in offer letter make it correct.
+- I want to change my personal information and request a call back for BGV
+- Need to change address in offer letter
+- I forgot to enter or wrongly typed my lastname or surname in the joining form how to edit it
+- How can change address in offer letter as wrong address has published.
+- Mail id and phone number needs to be updated
+- My DOB on iOnboard portal
+- How many days it will take to update my name in offer letter
+- As per my aadhar card my name is mentioned as Lavanya Prakash in offer letter, Compensation structure, extension letter. But as per my 10th mark sheet my name is Lavanya P . Now I got an email from ionboard, document status to refer back
+- Please share me the offer letter again with my correct name which got rectified from your end recently along with change of joining date.**
+- Update info
+- my date of birth is not correct filled during onboarding
+- There is a mis match in joining date in offer and break up .. and also have some special characters in my name in break up it seems name it seems
+- My permanent address is wrong
+- family detail updation required
+- I didnt update my bank details in iOnboard details so could you please update my bank details in iOnboard portal
+- I entered my emp id j0189 instead j0819 and as well as correction of my employer name on my CV which I entered mistakenly JC International Pvt. Ltd. instead of JC Gracomm International Pvt. Ltd. and My last working day was 11-Jan-2021 but i worte 21-Jan-2021, 11 Jan 2021 is correct date of my previous company last working day I requested to you do the needful ASAP
+- i want some correction in my previous employer details
+- My Account details not updated
+- Acknowledgement form in ionboard shows incorrect details
+- My Account details not updated
+- Bank account details not updated
+- I have submitted the joining form. However, few options are uneditable. Request you to please share this UAN number with the respective team. 100174873282
+- My Bank Account details not updated
+- My Bank Account details not updated
+- I have to update my family details
+- On compensation, I got address that is different as per current address. How to fix that.
+- Want to change second witness detail.
+- How to edit online on boarding after esign
+- I want to know about my personal information
+- if my registered mobile no. is unreachable then please contact on 8791546790 this number
+- i need to get my details corrected in HCL portal and not able to do so or get a request raised for the same
+- how much time to change joing details
+- Date of birth has been wrongly filled in my joining form ( not editable ) thus I am not able to fill the form and proceed further.mail sent to recruiter but no action taken yet
+- Date of birth has been wrongly filled in my joining form not editable thus I am not able to fill the form and proceed further.mail sent to recruiter but no action taken yet
+- form11 edit
+- There is a concern from my side, in my joining form my name was updated as 'Kundu Suprit' and my DOB-08/10/1993 and it was updated from your backend. My correct name is 'Suprit Kundu' and DOB-06/10/1993. I have tried to call the recruiter but have not been connected. Kindly let me know if it will not be an issue for further processing
+- I have wrongly uploaded my educational marksheet how can i change that
+- lease correction my full name in offer letter and breakup letter
+- In my offer under Annexure A it shows my name twice,Can you help in upding my name?
+- Anusha is mentioned in the offer letter .. it should be Anusha Nelluri
+- my name is wrong in offer letter as per my pan card please edit it
+
+
+## intent: joining_docket
+- I would like to know if I should carry a copy of my joining Docket or just the offer letter and salary breakup?
+- JOINING DOCKET FATHERS NAME UPDATE
+- I have some queries related to the joining docket form
+- not able to download the e-signed joining docket
+- How to upload the joining docket?
+- Can you please provide me the joining docket
+- joining docket
+- Joining Docket
+- after signing joining dockett should i upload it elsewhere?
+- In Joining Docket form my permanent address is wrong , so in this case what should I do
+- How to fill joining docket
+- what I need to do with joining docket
+- after signing joining dockett should i upload it elsewhere?
+- I want updated joining docket
+- unable to download Joining Docket" from i-On Board"
+- How do I download my Joining Docquate
+- Joining Dockate
+
+## intent: document_id
+- I cant find document ID on my offer letter
+- In my offer letter, my document ID is not present. I got a call from HCL onboarding support team and they informed that the document ID is important. Kindly help me get my document ID. Thanks in advance
+- I donnt have document ID of my offer letter
+- where can i find document id that i have to write following name while accepting offer on hcltech portal
+- where can i find document id that i have to write following name while accepting offer
+- Hi i am unable to find the document Id on my offer later so please hele me to find the document id..
+- Document ID not present in offer letter
+- Document id
+- where is the last 8 digit of document id in offer letter?
+- last eight digit of document id in offer letter
+- Where can I find document id
+- Where can I find document id in offer letter
+- What is Document ID?
+- I received offer letter with out document id
+- What is the Document ID ?
+- I want to know document ID
+- While accepting offer letter it is asking me some last 8 digit document id
+- I want document id
+- Document ID
+- where i can find document id ..?
+- What is document ID to be entered in candidate portal
+- To accept my offer letter,it was mentioned to provide last 8 digits of document ID, i cant find that
+- I am not able to find last digits of the document ID:
+- document id
+- last 8 digits of document id
+- In my offerletter "document number" not available, where will i get
+- Can i know my document id?
+- Where can i get document id
+- Where can i get document id?
+- what is document id of offer letter
+- Where can I find my document ID?Can you provide me that
+- Where do I find document ID in offer letter
+- Where to find document ID in offer letter
+- document id while accepting offer letter

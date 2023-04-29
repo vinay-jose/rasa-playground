@@ -1,0 +1,57 @@
+intents:
+- greet
+- goodbye
+- inform_location
+- facility_reqd
+- thanks
+- affirm
+- deny
+- bot_challenge
+
+actions:
+- utter_how_can_i_help
+- utter_ask_location
+- utter_ask_facility
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- action_facility_search
+
+entities:
+- location
+- facility
+
+slots:
+  location:
+    type: text
+  facility:
+    type: text
+  address:
+    type: unfeaturized
+
+responses:
+  utter_how_can_i_help:
+  - text: "Hey there! I am Nina, a bot that can help you find medical facilities near you. How can I help you today?"
+
+  utter_ask_location:
+  - text: "Can you tell me where you are looking for the facility?"
+
+  utter_ask_facility:
+  - text: "Can you tell me what kind of facility you are looking for?"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, Have a nice day!"
+
+  utter_goodbye:
+  - text: "Buhbye"
+
+  utter_iamabot:
+  - text: "I am Nina, a bot powered by Rasa."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

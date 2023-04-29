@@ -1,0 +1,21 @@
+version: "2.0"
+
+rules:
+
+- rule: Activate Qn Form
+  steps:
+    - intent: greet_user
+    - action: question_form
+    - slot_was_set:
+        - answer: {yes}
+    - active_loop: question_form
+
+- rule: Submit Qn Form
+  condition:
+    - active_loop: question_form
+  steps:
+    - action: question_form
+    - active_loop: null
+    - slot_was_set:
+        - answer: {yes}
+        - requested_slot: null

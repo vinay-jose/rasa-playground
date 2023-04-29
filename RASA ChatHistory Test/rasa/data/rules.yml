@@ -1,0 +1,13 @@
+version: "2.0"
+
+rules:
+
+- rule: save chat history
+  steps:
+    - intent: save_chat_history
+    - action: action_save_chat
+#
+#- rule: Say 'I am a bot' anytime the user challenges
+#  steps:
+#  - intent: bot_challenge
+#  - action: utter_iamabot

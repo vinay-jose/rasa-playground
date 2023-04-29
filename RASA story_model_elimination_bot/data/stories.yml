@@ -1,0 +1,19 @@
+version: "2.0"
+
+stories:
+
+- story: Greet Story
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - action: action_chat_manager
+
+- story: Question Answer Story
+  steps:
+    - action: get_answer_form
+    - active_loop: get_answer_form
+    - slot_was_set:
+        - answer: free text
+    - active_loop: null
+    - action: action_reset_all_slots
+    - action: action_chat_manager

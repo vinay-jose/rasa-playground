@@ -1,0 +1,30 @@
+version: "2.0"
+
+stories:
+
+- story: greet_story
+  steps:
+    - intent: greet_user
+    - action: action_email_form
+    - slot_was_set:
+        - email: { vinay@hyreo.com }
+    - intent:
+    - action: action_email_verification
+
+- story: Activate Conversation Context Form
+  steps:
+  - action: conversation_context_form
+  - slot_was_set:
+      - email: {vinay@hyreo.com}
+  - active_loop: email_otp_form
+
+- story: Submit Conversation Context form
+  condition:
+  - active_loop: conversation_context_form
+  steps:
+  - action: conversation_context_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_
+

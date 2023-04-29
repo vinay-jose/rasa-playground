@@ -1,0 +1,13 @@
+version: "2.0"
+
+stories:
+
+- story: ask_whatisHyreo_story
+  steps:
+  - intent: ask_whatisHyreo
+  - action: action_utter
+
+#- story: save_chat_story
+#  steps:
+#  - intent: save_chat_history
+#  - action: action_save_chat

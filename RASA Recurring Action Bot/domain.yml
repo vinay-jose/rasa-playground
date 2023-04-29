@@ -1,0 +1,24 @@
+version: "2.0"
+
+intents:
+  - greet_user
+
+actions:
+  - action_ask_answer
+  - validate_question_form
+
+forms:
+  question_form:
+    required_slots:
+      answer:
+        - from text:
+          type: from_text
+
+slots:
+  answer:
+    type: text
+    influence_conversation: true
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

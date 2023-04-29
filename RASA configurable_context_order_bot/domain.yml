@@ -1,0 +1,50 @@
+version: "2.0"
+
+intents:
+  - greet
+
+slots:
+  answer:
+    type: text
+    influence_conversation: true
+
+  qn_id:
+    type: text
+    influence_conversation: true
+
+forms:
+  get_answer_form:
+    required_slots:
+      answer:
+        - from text:
+          type: from_text
+
+actions:
+  - action_chat_manager
+  - action_reset_all_slots
+  - validate_get_answer_form
+
+responses:
+  utter_greet:
+  - text: "Hi there, I am Domie, a bot powered by Hyreo."
+
+  utter_answer_question:
+  - text: "I am here to ask a few questions to get to know you better.<br>Please answer the following questions."
+
+  utter_ask_offer_letter_confirmation:
+  - text: "Did you receive an offer letter?"
+    buttons:
+      - title: "Yes"
+        payload: "true"
+      - title: "No"
+        payload: "false"
+
+  utter_ask_experience_feedback:
+  - text: "How was your overall experience with us?"
+
+  utter_ask_mountains_or_beaches:
+  - text: "Mountains⛰️ or Beaches🏖️?"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
