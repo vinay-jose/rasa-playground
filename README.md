@@ -1,2 +1,2 @@
 # rasa-playground
-Repo to save POCs developed while building CRM chatbot at Hyreo Inc. 
+Repo to save POCs developed for Chatbots integrated with SaaS platforms.
